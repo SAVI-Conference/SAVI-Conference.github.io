@@ -1,0 +1,25 @@
+title: SAVI Conference
+baseURL: https://savi-conference.github.io
+languageCode: en-us
+theme: ananke
+resourceDir: ../resources
+DefaultContentLanguage: en
+SectionPagesMenu: main
+enableRobotsTXT: true
+languages:
+  en:
+    contentDir: content/en
+sitemap:
+  changefreq: daily
+  priority: 0.5
+params:
+  text_color: ""
+  author: ""
+  favicon: ""
+  site_logo: ""
+  description: Safe Anytime‑Valid Inference
+  background_color_class: bg-black
+  recent_posts_number: 3
+  ananke_socials:
+    - name: twitter
+      url: https://twitter.com/GoHugoIO
