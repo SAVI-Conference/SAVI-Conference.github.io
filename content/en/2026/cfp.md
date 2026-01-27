@@ -41,6 +41,6 @@ We may face more demand for talk slots than we have in supply, in which case we 
 
 Timeline: Send in your application by **April 1st 2026 AoE.**
 
-We are looking for your (working) title together with a ≤ 150 word summary with ≤ 5 keywords for context. We will ask for your public title and abstract at a later point.
+We are looking for your (working) title together with a ≤ 900 character summary with ≤ 5 keywords for context. We will ask for your public title and abstract at a later point.
 
 We accept submissions through [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfyf-PJ2o1bDnskhAC0qzKOtutl7FysEHqjqw9m24gyTU0k5Q/viewform?usp=header).
