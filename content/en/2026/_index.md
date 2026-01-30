@@ -1,7 +1,7 @@
 ---
 title: "SAVI Conference 2026"
 linktitle: "2026"
-menus: main
+menus: [years]
 description: >
   <strong>29 June — 3 July 2026</strong> <br>
   University of Twente, Enschede, The Netherlands

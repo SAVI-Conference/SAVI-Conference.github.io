@@ -1,0 +1,54 @@
+<nav class="pv3 ph3 ph4-ns" role="navigation">
+    <div class="flex-l center items-center justify-between">
+      <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white white-90 dib no-underline">
+        {{ with .Site.Params.site_logo }}
+          <img src="{{ urls.RelURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
+        {{ else }}
+          {{ .Site.Title }}
+        {{ end }}
+      </a>
+      <div class="flex-l items-center">
+        {{ partials.Include "i18nlist.html" . }}
+        <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+          {{ $menuName := print "main-" .CurrentSection.Params.linktitle }}
+          {{ range index .Site.Menus $menuName }}
+          <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+            <a class="hover-white white-90 no-underline" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}">
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+        <ul id="previous-years" class="{{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+          <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+            <a id="previous-years-opener" class="hover-white no-underline white-90" href="#" title="Previous Years">
+              <span>Previous Years</span>
+            </a>
+            <ul class="sub-menu pa0 w-33 center mt0 dn">
+              {{ range .Site.Menus.years }}
+                <li class="db">
+                  <a class="hover-white no-underline white-90" href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+              {{ end }}
+            </ul>
+          </li>
+        </ul>
+        {{ partials.IncludeCached "social/follow.html" . }}
+      </div>
+    </div>
+  </nav>
+
+  <script>
+    window.addEventListener("load", function() {
+      const button = document.querySelector("#previous-years-opener");
+      const menu = document.querySelector("ul.sub-menu");
+      button.addEventListener("click", function (event) {
+          if (menu.classList.contains("dn")) {
+              menu.classList.remove("dn");
+          } else {
+              menu.classList.add("dn");
+          }
+      });
+    })
+  </script>
+  

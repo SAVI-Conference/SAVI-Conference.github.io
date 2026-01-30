@@ -1,0 +1,22 @@
+#previous-years span.fa {
+  color: #FFF;
+  font-size: 14px;
+}
+
+#previous-years ul.sub-menu {
+  position: absolute;
+  width: 8em;
+  margin: 1em;
+  padding: 0.5em;
+  background: rgba(0, 0, 0, 0.333);
+}
+
+#previous-years ul.sub-menu li a {
+  display: block;
+  padding: 0.5em;
+}
+
+#previous-years ul.sub-menu li a:hover,
+#previous-years ul.sub-menu li a:focus {
+  background: rgba(0, 0, 0, 0.7);
+}
