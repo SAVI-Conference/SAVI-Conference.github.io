@@ -1,6 +1,8 @@
 ---
 title: "Call for Contributions"
-menus: [main-2026]
+menus:
+  main-2026:
+    weight: 100
 ---
 
 SAVI 2026 invites contributions in the spirit of an open, idea-driven workshop. This is a space to share cool ideas, new directions, early results, work-in-progress, conceptual sketches, fresh connections, emerging themes, and interesting questions. SAVI topics include:
