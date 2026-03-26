@@ -7,6 +7,16 @@ img[src$='#center'] {
   margin: 0 auto;
 }
 
+img[src$='#floatleft'] {
+  float: left;
+  margin-right: .75rem;
+}
+
+img[src$='#floatright'] {
+  float: right;
+  margin-left: .75rem;
+}
+
 
 #previous-years span.fa {
   color: #FFF;
@@ -29,4 +39,10 @@ img[src$='#center'] {
 #previous-years ul.sub-menu li a:hover,
 #previous-years ul.sub-menu li a:focus {
   background: rgba(0, 0, 0, 0.7);
+}
+
+.page-keynote-speakers img {
+  float: left;
+  width: 50%;
+  margin-right: .75rem;
 }
