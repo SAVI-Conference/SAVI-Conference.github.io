@@ -13,3 +13,9 @@ Organizing Team:
 - Nynke Luijten, [University of Twente](https://www.utwente.nl/)
 - [Fabian Damken](https://fabian.damken.net/), [University of Twente](https://www.utwente.nl/)
 - [Rovanos Tsafack Nzanguim](https://people.utwente.nl/r.tsafacknzanguim), [University of Twente](https://www.utwente.nl/)
+
+Steering Committee:
+- [Johanna Ziegel](https://people.math.ethz.ch/~ziegelj/), [ETH Zürich](https://ethz.ch/)
+- [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/), [Carnegie Mellon University](https://www.cmu.edu/)
+- [Peter Grünwald](https://safestatistics.com/), [CWI Amsterdam](https://www.cwi.nl/)
+- [Ruodu Wang](https://sas.uwaterloo.ca/~wang/), [University of Waterloo](https://uwaterloo.ca/)
