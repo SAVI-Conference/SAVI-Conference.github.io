@@ -10,3 +10,5 @@ cascade:
 ---
 
 The conference for e-value theory, anytime-valid inference, game theoretic statistics and related research.
+
+[**The registration for SAVI 2026 has now been opened!**](registration)
