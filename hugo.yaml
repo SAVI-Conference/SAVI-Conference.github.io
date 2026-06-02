@@ -8,6 +8,8 @@ enableRobotsTXT: true
 languages:
   en:
     contentDir: content/en
+security:
+  allowContent: [".*"]
 sitemap:
   changefreq: daily
   priority: 0.5
