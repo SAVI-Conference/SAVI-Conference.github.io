@@ -210,13 +210,18 @@ tba
 
 
 ### Talks C1
-tba
+Lorenz Matz
+
 
 ### Talks C2
-tba
+Eugenio Clerico
 
 ### Posters C
-tba
+Posters with pitches: 1) Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus; 2)	Rémy Degenne, Gaëtan Serré; 3)	Hongjian Wang; 4)	Dante de Roos, Peter Grünwald, Sebastian Arnold; 5)	Aytijhya Saha, Aaditya Ramdas 1; 6)	Udo Boehm, Wouter Koolen, and Peter Grunwald; 7)	Ben Chugg, Etienne Gauthier, Michael I. Jordan, Aaditya Ramdas, Ian Waudby-Smith; 8)	Angel Reyero Lobo, Sebastian Arias, Michele Meziu; 9)	Ashwin Ram, Aaditya Ramdas
+
+Posters from talks: 1) Sam van Meer, Nick W. Koning; 2)	Vikas Deep, Shubhada Agarwal; 3)	Lorenz Matz, Hannes Leeb; 4) Dante de Roos, Peter Grünwald
+
+
 
 
 ### Talks D1
