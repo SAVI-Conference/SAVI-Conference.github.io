@@ -176,37 +176,81 @@ menus:
     </table>
 </div>
 
+
 - **Monday:** Bandits & allocation · Game-theoretic statistics · Conformal prediction & forecasting · Confidence sequences & concentration · Sequential testing and adaptive inference
 - **Tuesday:** Multiple testing & FDR · E-process optimality · Closed testing and e-closure · Conditional/sequential inference · Clinical and applied anytime-valid inference
 - **Wednesday:** Foundations of e-values · Universal inference & likelihood ratios · Sequential testing and changepoints · Post-hoc inference & evidence synthesis · Formal methods and e-statistics · Social activity & dinner
 - **Thursday:** Imprecise probabilities · Clinical trials and adaptive designs · Evidence, post-hoc inference & optimal e-values · Decision-making, voting and auditing · Prediction, forecasting and ML applications · Concentration, self-normalization & conditional inference
 - **Friday:** Foundations of anytime-valid inference and future directions
 
+
 ## Abstracts
 ### Talks A1
-tba
+- Etienne Gauthier (see also [Posters A](#posters-a))
+- Vladimir Vovk (see also [Posters A](#posters-a))
+- Brian Lee (see also [Posters A](#posters-a))
+- Jan-Lukas Wermuth (see also [Posters A](#posters-a))
 
 ### Talks A2
-tba
+- Georgii Potapov (see also [Posters A](#posters-a))
+- Nick Koning (see also [Posters A](#posters-a))
 
 ### Talks A3
-tba
+- Liviu Aolaritei (see also [Posters B](#posters-b))
+- François Caron (see also [Posters B](#posters-b))
+- Sohom Mukherjee (see also [Posters B](#posters-b))
 
 ### Posters A
-tba
+- Wouter M. Koolen (based in part on joint work with Lukas Zierahn, Christina Katsimerou, Shubhada Agrawal and Dirk van der Hoeven)
+- Aymeric Capitaine, Antoine Scheid, Etienne Boursier, Alain Durmus, Michael I. Jordan
+- Fabian Damken, Wouter M. Koolen, Rianne de Heide
+- Guneet S. Dhillon, Javier González, Teodora Pandeva, Alicia Curth
+- Ricardo J. Sandoval, Ian Waudby-Smith, Michael I. Jordan
+- Shubhada Agrawal, Aaditya Ramdas
+- Justin Whitehouse, Zhiwei Steven Wu, Aaditya Ramdas
+- Alhad Sethi, Kavali Sofia Sagar, Shubhada Agrawal, P. N. Karthik, Debabrota Basu
+- Etienne Gauthier, Francis Bach, Michael I. Jordan (see also [Talks A1](#talks-a1))
+- Vladimir Vovk, Ruodu Wang (see also [Talks A1](#talks-a1))
+- Jessica Dai, Nika Haghtalab, Brian W. Lee (see also [Talks A1](#talks-a1))
+- Timo Dimitriadis, Jan-Lukas Wermuth and Johanna Ziegel (see also [Talks A1](#talks-a1))
+- Georgii Potapov, Yuri Kalnishkan (see also [Talks A2](#talks-a2))
+- Nick Koning, Sam van Meer (see also [Talks A2](#talks-a2))
 
 
 ### Talks B1
-tba
+- Johahnes Ruf (see also [Posters B](#posters-b))
+- Noah Liniger (see also [Posters B](#posters-b))
+- Qiuqi Wang (see also [Posters B](#posters-b))
+- Yury Tavyrikov (see also [Posters B](#posters-b))
 
 ### Talks B2
-tba
+- Zhimei Ren (see also [Posters B](#posters-b))
+- Jelle Goeman (see also [Posters B](#posters-b))
 
 ### Talks B3
-tba
+- Dante de Roos (see also [Posters C](#posters-c))
+- Sam van Meer (see also [Posters C](#posters-c))
+- Vikas Deep (see also [Posters C](#posters-c))
 
 ### Posters B
-tba
+- Rovanos Tsafack Nzanguim, Aurele Mingam, Jelle Goeman, Rianne de Heide
+- Aurele Mingam, Rovanos Tsafack Nzanguim, Rianne de Heide, Jelle Goeman
+- Beepul Bharti, Ambar Pal, Jeremias Sulam
+- S. Bongers, P. Grünwald
+- Eugenio Clerico, Sebastian Arnold
+- Sebastian Arias, Peter Grünwald
+- D. Hop, N. Koning, S. van der Meer
+- Debolina Paul
+- Alhad Sethi, Kavali Sofia Sagar, Shubhada Agrawal, Debabrota Basu, P. N. Karthik
+- Liviu Aolaritei, Michael I. Jordan (see also [Talks A3](#talks-a3))
+- Valentin Kilian, Stefano Cortinovis, François Caron (see also [Talks A3](#talks-a3))
+- Sohom Mukherjee, Ivane Antonov, Richard Pibernik, Yo Joong Choe (see also [Talks A3](#talks-a3))
+- Larsson, Ramdas, Ruf (see also [Talks A1](#talks-a1))
+- Qiuqi Wang, Zhenyuan Zhang, Ruodu Wang (see also [Talks A1](#talks-a1))
+- Noah Liniger, Ian Waudby-Smith, Antoine Scheid, Alain Durmus, Michael I. Jordan (see also [Talks A1](#talks-a1))
+- Yury Tavyrikov, Jelle Goeman, Rianne de Heide (see also [Talks A1](#talks-a1))
+- Zhimei Ren (see also [Talks A2](#talks-a2))
+- Jelle Goeman (see also [Talks A2](#talks-a2))
 
 
 ### Talks C1
