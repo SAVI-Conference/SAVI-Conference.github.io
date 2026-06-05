@@ -46,3 +46,117 @@ img[src$='#floatright'] {
   width: 50%;
   margin-right: .75rem;
 }
+
+
+article.page-schedule {
+  max-width: 64rem;
+}
+
+.schedule table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.schedule th, .schedule td {
+  padding: 0 .25rem;
+}
+
+.schedule thead {
+  border-bottom: 3px solid black;
+}
+
+.schedule th[scope="row"] {
+  border-right: 3px solid black;
+}
+
+.schedule th.quart-hour {
+  height: .5rem;
+}
+
+.schedule th.half-hour {
+  border-top: 1px dotted black;
+}
+
+.schedule th.full-hour {
+  border-top: 1px solid black;
+}
+
+.schedule th {
+  text-align: center;
+}
+
+.schedule tbody tr:hover {
+  background-color: #ffa;
+}
+
+.schedule td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+.schedule span.time-info {
+  font-size: 0.75em;
+  display:block;
+}
+.schedule span.time-info::before {
+  content: "(";
+}
+.schedule span.time-info::after {
+  content: ")";
+}
+
+/* during conference: activate first line and activate subsequent lines on the corresponding day */
+/* .schedule td { filter: brightness(57%); } */
+/* .schedule td.mon { filter: none; } */
+/* .schedule td.tue { filter: none; } */
+/* .schedule td.wed { filter: none; } */
+/* .schedule td.thu { filter: none; } */
+/* .schedule td.fri { filter: none; } */
+
+.schedule td.lunch {
+  background-color: #f0e68c;
+}
+
+.schedule td.excursion {
+  background-color: #add8e6;
+}
+
+.schedule td.talks {
+  background-color: #90ee90;
+}
+
+.schedule td.poster-pitches {
+  background-color: #ffb6c1;
+}
+
+.schedule td.poster-session {
+  background-color: #ffa07a;
+}
+
+.schedule td.banquet {
+  background-color: #d3d3d3;
+}
+
+.schedule td.end {
+  background-color: #f08080;
+}
+
+.schedule td.keynote {
+  background-color: #e6e6fa;
+}
+
+.schedule td.coffee-break {
+  background-color: #ffe4b5;
+}
+
+.schedule td.opening {
+  background-color: #d8bfd8;
+}
+
+.schedule td.open-problem-session {
+  background-color: #dda0dd;
+}
+
+.schedule td.closing {
+  background-color: #ffdead;
+}
