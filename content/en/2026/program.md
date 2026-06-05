@@ -23,14 +23,14 @@ menus:
             <tr>
                 <th scope="row" class="full-hour">09:00</th>
                 <td class="mon opening">Opening</td>
-                <td rowspan="4" class="tue keynote"><span class="keynote-txt">Keynote</span>Snigdha Panigrahi</td>
+                <td rowspan="4" class="tue keynote"><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#snigdha-panigrahi">Snigdha Panigrahi</a></td>
                 <td rowspan="2" class="wed talks"><a href="#talks-c1">Talks C1</a></td>
-                <td rowspan="4" class="thu keynote"><span class="keynote-txt">Keynote</span>Gert de Cooman</td>
-                <td rowspan="4" class="fri keynote"><span class="keynote-txt">Keynote</span>Victor H. de la Peña</td>
+                <td rowspan="4" class="thu keynote"><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#gert-de-cooman">Gert de Cooman</a></td>
+                <td rowspan="4" class="fri keynote"><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#victor-h-de-la-peña">Victor H. de la Peña</a></td>
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
-                <td rowspan="4" class="mon keynote"><span class="time-info">ca. 09:15</span><span class="keynote-txt">Keynote</span>Gergely Neu</td>
+                <td rowspan="4" class="mon keynote"><span class="time-info">ca. 09:15</span><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#gergely-neu">Gergely Neu</a></td>
             </tr>
             <tr>
                 <th scope="row" class="half-hour">09:30</th>
