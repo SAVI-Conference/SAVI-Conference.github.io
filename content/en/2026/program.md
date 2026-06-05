@@ -225,14 +225,21 @@ Posters from talks: 1) Sam van Meer, Nick W. Koning; 2)	Vikas Deep, Shubhada Aga
 
 
 ### Talks D1
-tba
+Peter Grünwald,	Ben Chugg,	Timothée Mathieu,	Dennis Oestmann
+
 
 ### Talks D2
-tba
+Michael Lindon,	Stef Baas
+
 
 ### Talks D3
-tba
+Yo Joong Choe,	Damjan Vukcevic,	Diego Martinez-Taboada
+
 
 ### Posters D
-tba
+Posters with pitches: 1) Joren Brunekreef, Rianne de Heide, Renee Menezes; 2)	Judith ter Schure; 3)	Rianne de Heide; 4)	Anurag Singh, Rajeev Verma, Julian Rodemann, Siu Lun Chau, Krikamol Muandet; 5)	Valentin Kilian*, Shirley Xiaoqi Liu*, Judith Rousseau, Francesco Orabona, Patrick Rebeschini; 6)	Yongxi Long, Alexander Ly, Nikos Ignatiadis, Jelle Goeman, Peter Grünwald, Erik van Zwet; 7)	Stan Koobs, Nick Koning; 8)	Alexander Ly, Sebastian Arias, Sebastian Arnold, Udo Boehm, Stephan Bongers, Michele Meziu, Angel Reyero Lobo, Dante de Roos, Meike Steinhilber, Yongqi Wang, and Peter Grünwald; 9)	Rajeev Verma, Rabanus Derr, Christian A.Naesseth, Eric Nalisnick; 10)	Aytijhya Saha, Aaditya Ramdas 2
+
+Posters from talks: 1) Sebastian Arnold*, Yo Joong (YJ) Choe*, Marco Scarsini, Ilia Tsetlin (*Equal contribution.); 2)	Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic; 3) Diego Martinez-Taboada, Aaditya Ramdas; 4)	Michael Lindon, Nathan Kallus; 5)	Stef Baas, Joost van Rosmalen, Judith ter Schure; 6)	Peter Grünwald, partially based on joint work with, Ben Chugg, Aaditya Ramdas; 7) 	Ben Chugg; 8)	Timothée Mathieu, Adrienne Tuynman; 9)	Dennis Oestmann, Thorsten Dickhaus; 10)	Eugenio Clerico
+
+
 
