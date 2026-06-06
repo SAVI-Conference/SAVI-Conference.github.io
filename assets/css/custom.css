@@ -48,13 +48,17 @@ img[src$='#floatright'] {
 }
 
 
+article.page-program {
+  max-width: 64rem;
+}
+
 .schedule table {
   border-collapse: collapse;
   margin: 0 auto;
 }
 
 .schedule th, .schedule td {
-  padding: 0 .25rem;
+  padding: 0 .5rem;
 }
 
 .schedule thead {
@@ -99,6 +103,17 @@ img[src$='#floatright'] {
 }
 .schedule span.time-info::after {
   content: ")";
+}
+
+.schedule span.keynote-txt {
+  display: block;
+  font-size: .8em;
+}
+.schedule td.keynote {
+  font-size: 1em;
+}
+.schedule span.keynote-txt::after {
+  content: ":";
 }
 
 /* during conference: activate first line and activate subsequent lines on the corresponding day */

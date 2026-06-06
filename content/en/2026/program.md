@@ -23,14 +23,14 @@ menus:
             <tr>
                 <th scope="row" class="full-hour">09:00</th>
                 <td class="mon opening">Opening</td>
-                <td rowspan="4" class="tue keynote">Keynote: Snigdha Panigrahi</td>
+                <td rowspan="4" class="tue keynote"><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#snigdha-panigrahi">Snigdha Panigrahi</a></td>
                 <td rowspan="2" class="wed talks"><a href="#talks-c1">Talks C1</a></td>
-                <td rowspan="4" class="thu keynote">Keynote: Gert de Cooman</td>
-                <td rowspan="4" class="fri keynote">Keynote: Victor H. de la Peña</td>
+                <td rowspan="4" class="thu keynote"><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#gert-de-cooman">Gert de Cooman</a></td>
+                <td rowspan="4" class="fri keynote"><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#victor-h-de-la-peña">Victor H. de la Peña</a></td>
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
-                <td rowspan="4" class="mon keynote"><span class="time-info">ca. 09:15</span>Keynote: Gergely Neu</td>
+                <td rowspan="4" class="mon keynote"><span class="time-info">ca. 09:15</span><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#gergely-neu">Gergely Neu</a></td>
             </tr>
             <tr>
                 <th scope="row" class="half-hour">09:30</th>
@@ -254,36 +254,69 @@ menus:
 
 
 ### Talks C1
-Lorenz Matz
+- Lorenz Matz
 
 
 ### Talks C2
-Eugenio Clerico
+- Eugenio Clerico
 
 ### Posters C
-Posters with pitches: 1) Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus; 2)	Rémy Degenne, Gaëtan Serré; 3)	Hongjian Wang; 4)	Dante de Roos, Peter Grünwald, Sebastian Arnold; 5)	Aytijhya Saha, Aaditya Ramdas 1; 6)	Udo Boehm, Wouter Koolen, and Peter Grunwald; 7)	Ben Chugg, Etienne Gauthier, Michael I. Jordan, Aaditya Ramdas, Ian Waudby-Smith; 8)	Angel Reyero Lobo, Sebastian Arias, Michele Meziu; 9)	Ashwin Ram, Aaditya Ramdas
-
-Posters from talks: 1) Sam van Meer, Nick W. Koning; 2)	Vikas Deep, Shubhada Agarwal; 3)	Lorenz Matz, Hannes Leeb; 4) Dante de Roos, Peter Grünwald
+- Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus
+- Rémy Degenne, Gaëtan Serré
+- Hongjian Wang
+- Dante de Roos, Peter Grünwald, Sebastian Arnold
+- Aytijhya Saha, Aaditya Ramdas 1
+- Udo Boehm, Wouter Koolen, and Peter Grunwald
+- Ben Chugg, Etienne Gauthier, Michael I. Jordan, Aaditya Ramdas, Ian Waudby-Smith
+- Angel Reyero Lobo, Sebastian Arias, Michele Meziu
+- Ashwin Ram, Aaditya Ramdas
+- Sam van Meer, Nick W. Koning
+- Vikas Deep, Shubhada Agarwal
+- Lorenz Matz, Hannes Leeb
+- Dante de Roos, Peter Grünwald
 
 
 
 
 ### Talks D1
-Peter Grünwald,	Ben Chugg,	Timothée Mathieu,	Dennis Oestmann
+- Peter Grünwald
+- Ben Chugg
+- Timothée Mathieu
+- Dennis Oestmann
 
 
 ### Talks D2
-Michael Lindon,	Stef Baas
+- Michael Lindon
+- Stef Baas
 
 
 ### Talks D3
-Yo Joong Choe,	Damjan Vukcevic,	Diego Martinez-Taboada
+- Yo Joong Choe
+- Damjan Vukcevic
+- Diego Martinez-Taboada
 
 
 ### Posters D
-Posters with pitches: 1) Joren Brunekreef, Rianne de Heide, Renee Menezes; 2)	Judith ter Schure; 3)	Rianne de Heide; 4)	Anurag Singh, Rajeev Verma, Julian Rodemann, Siu Lun Chau, Krikamol Muandet; 5)	Valentin Kilian*, Shirley Xiaoqi Liu*, Judith Rousseau, Francesco Orabona, Patrick Rebeschini; 6)	Yongxi Long, Alexander Ly, Nikos Ignatiadis, Jelle Goeman, Peter Grünwald, Erik van Zwet; 7)	Stan Koobs, Nick Koning; 8)	Alexander Ly, Sebastian Arias, Sebastian Arnold, Udo Boehm, Stephan Bongers, Michele Meziu, Angel Reyero Lobo, Dante de Roos, Meike Steinhilber, Yongqi Wang, and Peter Grünwald; 9)	Rajeev Verma, Rabanus Derr, Christian A.Naesseth, Eric Nalisnick; 10)	Aytijhya Saha, Aaditya Ramdas 2
-
-Posters from talks: 1) Sebastian Arnold*, Yo Joong (YJ) Choe*, Marco Scarsini, Ilia Tsetlin (*Equal contribution.); 2)	Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic; 3) Diego Martinez-Taboada, Aaditya Ramdas; 4)	Michael Lindon, Nathan Kallus; 5)	Stef Baas, Joost van Rosmalen, Judith ter Schure; 6)	Peter Grünwald, partially based on joint work with, Ben Chugg, Aaditya Ramdas; 7) 	Ben Chugg; 8)	Timothée Mathieu, Adrienne Tuynman; 9)	Dennis Oestmann, Thorsten Dickhaus; 10)	Eugenio Clerico
+- Joren Brunekreef, Renee Menezes, Rianne de Heide
+- Judith ter Schure
+- Rianne de Heide
+- Anurag Singh, Rajeev Verma, Julian Rodemann, Siu Lun Chau, Krikamol Muandet
+- Valentin Kilian*, Shirley Xiaoqi Liu*, Judith Rousseau, Francesco Orabona, Patrick Rebeschini
+- Yongxi Long, Alexander Ly, Nikos Ignatiadis, Jelle Goeman, Peter Grünwald, Erik van Zwet
+- Stan Koobs, Nick Koning
+- Alexander Ly, Sebastian Arias, Sebastian Arnold, Udo Boehm, Stephan Bongers, Michele Meziu, Angel Reyero Lobo, Dante de Roos, Meike Steinhilber, Yongqi Wang, and Peter Grünwald
+- Rajeev Verma, Rabanus Derr, Christian A.Naesseth, Eric Nalisnick
+- Aytijhya Saha, Aaditya Ramdas 2
+- Sebastian Arnold*, Yo Joong (YJ) Choe*, Marco Scarsini, Ilia Tsetlin (*Equal contribution.)
+- Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic
+- Diego Martinez-Taboada, Aaditya Ramdas
+- Michael Lindon, Nathan Kallus
+- Stef Baas, Joost van Rosmalen, Judith ter Schure
+- Peter Grünwald, partially based on joint work with, Ben Chugg, Aaditya Ramdas
+- Ben Chugg
+- Timothée Mathieu, Adrienne Tuynman
+- Dennis Oestmann, Thorsten Dickhaus
+- Eugenio Clerico
 
 
 ### List of participants
