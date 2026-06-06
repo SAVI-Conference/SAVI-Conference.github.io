@@ -319,4 +319,68 @@ menus:
 - Eugenio Clerico
 
 
+### List of participants
+
+- Shubhada Agrawal
+- Liviu Aolaritei
+- Sebastian Arias
+- Sebastian Arnold
+- Stef Baas
+- Beepul Bharti
+- Stephan Bongers
+- Bastiaan Braams
+- Joren Brunekreef
+- Francois Caron
+- Yo Joong Choe
+- Ben Chugg
+- Eugenio Clerico
+- Gert de Cooman
+- Fabian Damken
+- Vikas Deep
+- Rabanus Derr
+- Guneet Dhillon
+- Alexander Ek
+- Etienne Gauthier
+- Jelle Goeman
+- Peter Grünwald
+- Rianne de Heide
+- Roel Hulsman
+- Nick Koning
+- Stan Koobs
+- Wouter Koolen
+- Michael Lindon
+- Noah Liniger
+- Xiaoqi Shirley Liu
+- Yongxi Long
+- Nynke Luijten
+- Alexander Ly
+- Diego Martinez Taboada
+- Timothée Mathieu
+- Lorenz Matz
+- Michele Meziu
+- Aurèle Mingam
+- Sohom Mukherjee
+- Gergely Neu
+- Dennis Oestmann
+- Snigdha Panigrahi
+- Debolina Paul
+- Victor H. de la Peña
+- Georgii Potapov
+- Zhimei Ren
+- Angel David Reyero Lobo
+- Dante de Roos
+- Johannes Ruf
+- Ricardo Sandoval
+- Antoine Scheid
+- Gaëtan Serre
+- Yury Tavyrikov
+- Rovanos Tsafack Nzanguim
+- Adrienne Tuynman
+- Dirk van der Hoeven
+- Sam van Meer
+- Vladimir Vovk
+- Qiuqi Wang
+- Yongqi Wang
+- Jan-Lukas Wermuth
+- Redouane Yagouti
 
