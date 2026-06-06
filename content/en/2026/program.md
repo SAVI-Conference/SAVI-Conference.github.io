@@ -286,4 +286,68 @@ Posters with pitches: 1) Joren Brunekreef, Rianne de Heide, Renee Menezes; 2)	Ju
 Posters from talks: 1) Sebastian Arnold*, Yo Joong (YJ) Choe*, Marco Scarsini, Ilia Tsetlin (*Equal contribution.); 2)	Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic; 3) Diego Martinez-Taboada, Aaditya Ramdas; 4)	Michael Lindon, Nathan Kallus; 5)	Stef Baas, Joost van Rosmalen, Judith ter Schure; 6)	Peter Grünwald, partially based on joint work with, Ben Chugg, Aaditya Ramdas; 7) 	Ben Chugg; 8)	Timothée Mathieu, Adrienne Tuynman; 9)	Dennis Oestmann, Thorsten Dickhaus; 10)	Eugenio Clerico
 
 
+### List of participants
+
+- Shubhada Agrawal
+- Liviu Aolaritei
+- Sebastian Arias
+- Sebastian Arnold
+- Stef Baas
+- Beepul Bharti
+- Stephan Bongers
+- Bastiaan Braams
+- Joren Brunekreef
+- Francois Caron
+- Yo Joong Choe
+- Ben Chugg
+- Eugenio Clerico
+- Gert de Cooman
+- Fabian Damken
+- Vikas Deep
+- Rabanus Derr
+- Guneet Dhillon
+- Alexander Ek
+- Etienne Gauthier
+- Jelle Goeman
+- Peter Grünwald
+- Rianne de Heide
+- Roel Hulsman
+- Nick Koning
+- Stan Koobs
+- Wouter Koolen
+- Michael Lindon
+- Noah Liniger
+- Xiaoqi Shirley Liu
+- Yongxi Long
+- Nynke Luijten
+- Alexander Ly
+- Diego Martinez Taboada
+- Timothée Mathieu
+- Lorenz Matz
+- Michele Meziu
+- Aurèle Mingam
+- Sohom Mukherjee
+- Gergely Neu
+- Dennis Oestmann
+- Snigdha Panigrahi
+- Debolina Paul
+- Victor H. de la Peña
+- Georgii Potapov
+- Zhimei Ren
+- Angel David Reyero Lobo
+- Dante de Roos
+- Johannes Ruf
+- Ricardo Sandoval
+- Antoine Scheid
+- Gaëtan Serre
+- Yury Tavyrikov
+- Rovanos Tsafack Nzanguim
+- Adrienne Tuynman
+- Dirk van der Hoeven
+- Sam van Meer
+- Vladimir Vovk
+- Qiuqi Wang
+- Yongqi Wang
+- Jan-Lukas Wermuth
+- Redouane Yagouti
 
