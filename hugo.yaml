@@ -17,6 +17,16 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - '\['
+            - '\]'
+          inline:
+          - - '\('
+            - '\)'
+        enable: true
 params:
   text_color: "mid-gray"
   favicon: /favicon.svg
@@ -31,3 +41,4 @@ params:
       follow:
         networks:
           - email
+  math: true

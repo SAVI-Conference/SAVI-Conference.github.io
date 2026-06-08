@@ -186,132 +186,370 @@ menus:
 
 ## Abstracts
 ### Talks A1
-- Etienne Gauthier (see also [Posters A](#posters-a))
-- Vladimir Vovk (see also [Posters A](#posters-a))
-- Brian Lee (see also [Posters A](#posters-a))
-- Jan-Lukas Wermuth (see also [Posters A](#posters-a))
+#### Etienne Gauthier
+> _abstract tba_
+
+See also [Posters A](#posters-a).
+
+#### Vladimir Vovk
+> _abstract tba_
+
+See also [Posters A](#posters-a).
+
+#### Brian Lee
+> _abstract tba_
+
+See also [Posters A](#posters-a).
+
+#### Jan-Lukas Wermuth
+> _abstract tba_
+
+See also [Posters A](#posters-a).
+
 
 ### Talks A2
-- Georgii Potapov (see also [Posters A](#posters-a))
-- Nick Koning (see also [Posters A](#posters-a))
+#### Georgii Potapov
+> _abstract tba_
+
+See also [Posters A](#posters-a).
+
+#### Nick Koning
+> _abstract tba_
+
+See also [Posters A](#posters-a).
+
 
 ### Talks A3
-- Liviu Aolaritei (see also [Posters B](#posters-b))
-- François Caron (see also [Posters B](#posters-b))
-- Sohom Mukherjee (see also [Posters B](#posters-b))
+#### Liviu Aolaritei
+> _abstract tba_
+
+See also [Posters B](#posters-b).
+
+#### François Caron
+> _abstract tba_
+
+See also [Posters B](#posters-b).
+
+#### Sohom Mukherjee
+> _abstract tba_
+
+See also [Posters B](#posters-b).
+
 
 ### Posters A
-- Wouter M. Koolen (based in part on joint work with Lukas Zierahn, Christina Katsimerou, Shubhada Agrawal and Dirk van der Hoeven)
-- Aymeric Capitaine, Antoine Scheid, Etienne Boursier, Alain Durmus, Michael I. Jordan
-- Fabian Damken, Wouter M. Koolen, Rianne de Heide
-- Guneet S. Dhillon, Javier González, Teodora Pandeva, Alicia Curth
-- Ricardo J. Sandoval, Ian Waudby-Smith, Michael I. Jordan
-- Shubhada Agrawal, Aaditya Ramdas
-- Justin Whitehouse, Zhiwei Steven Wu, Aaditya Ramdas
-- Alhad Sethi, Kavali Sofia Sagar, Shubhada Agrawal, P. N. Karthik, Debabrota Basu
-- Etienne Gauthier, Francis Bach, Michael I. Jordan (see also [Talks A1](#talks-a1))
-- Vladimir Vovk, Ruodu Wang (see also [Talks A1](#talks-a1))
-- Jessica Dai, Nika Haghtalab, Brian W. Lee (see also [Talks A1](#talks-a1))
-- Timo Dimitriadis, Jan-Lukas Wermuth and Johanna Ziegel (see also [Talks A1](#talks-a1))
-- Georgii Potapov, Yuri Kalnishkan (see also [Talks A2](#talks-a2))
-- Nick Koning, Sam van Meer (see also [Talks A2](#talks-a2))
+#### Wouter M. Koolen (based in part on joint work with Lukas Zierahn, Christina Katsimerou, Shubhada Agrawal and Dirk van der Hoeven)
+> _abstract tba_
+
+#### Aymeric Capitaine, Antoine Scheid, Etienne Boursier, Alain Durmus, Michael I. Jordan
+> _abstract tba_
+
+#### Fabian Damken, Wouter M. Koolen, Rianne de Heide
+> _abstract tba_
+
+#### Guneet S. Dhillon, Javier González, Teodora Pandeva, Alicia Curth
+> _abstract tba_
+
+#### Ricardo J. Sandoval, Ian Waudby-Smith, Michael I. Jordan
+> _abstract tba_
+
+#### Shubhada Agrawal, Aaditya Ramdas
+> _abstract tba_
+
+#### Justin Whitehouse, Zhiwei Steven Wu, Aaditya Ramdas
+> _abstract tba_
+
+#### Alhad Sethi, Kavali Sofia Sagar, Shubhada Agrawal, P. N. Karthik, Debabrota Basu
+> _abstract tba_
+
+#### Etienne Gauthier, Francis Bach, Michael I. Jordan
+See [Talks A1](#talks-a1).
+
+#### Vladimir Vovk, Ruodu Wang
+See [Talks A1](#talks-a1).
+
+#### Jessica Dai, Nika Haghtalab, Brian W. Lee
+See [Talks A1](#talks-a1).
+
+#### Timo Dimitriadis, Jan-Lukas Wermuth and Johanna Ziegel
+See [Talks A1](#talks-a1).
+
+#### Georgii Potapov, Yuri Kalnishkan
+See [Talks A2](#talks-a2).
+
+#### Nick Koning, Sam van Meer
+See [Talks A2](#talks-a2).
 
 
 ### Talks B1
-- Johahnes Ruf (see also [Posters B](#posters-b))
-- Noah Liniger (see also [Posters B](#posters-b))
-- Qiuqi Wang (see also [Posters B](#posters-b))
-- Yury Tavyrikov (see also [Posters B](#posters-b))
+#### Johahnes Ruf
+> _abstract tba_
+
+See also [Posters B](#posters-b).
+
+#### Noah Liniger
+> _abstract tba_
+
+See also [Posters B](#posters-b).
+
+#### Qiuqi Wang
+> _abstract tba_
+
+See also [Posters B](#posters-b).
+
+#### Yury Tavyrikov
+> _abstract tba_
+
+See also [Posters B](#posters-b).
+
 
 ### Talks B2
-- Zhimei Ren (see also [Posters B](#posters-b))
-- Jelle Goeman (see also [Posters B](#posters-b))
+#### Zhimei Ren
+> _abstract tba_
+
+See also [Posters B](#posters-b).
+
+#### Jelle Goeman
+> _abstract tba_
+
+See also [Posters B](#posters-b).
 
 ### Talks B3
-- Dante de Roos (see also [Posters C](#posters-c))
-- Sam van Meer (see also [Posters C](#posters-c))
-- Vikas Deep (see also [Posters C](#posters-c))
+#### Dante de Roos
+> _abstract tba_
+
+See also [Posters C](#posters-c).
+
+#### Sam van Meer
+> _abstract tba_
+
+See also [Posters C](#posters-c).
+
+#### Vikas Deep
+> _abstract tba_
+
+See also [Posters C](#posters-c).
 
 ### Posters B
-- Rovanos Tsafack Nzanguim, Aurele Mingam, Jelle Goeman, Rianne de Heide
-- Aurele Mingam, Rovanos Tsafack Nzanguim, Rianne de Heide, Jelle Goeman
-- Beepul Bharti, Ambar Pal, Jeremias Sulam
-- S. Bongers, P. Grünwald
-- Eugenio Clerico, Sebastian Arnold
-- Sebastian Arias, Peter Grünwald
-- D. Hop, N. Koning, S. van der Meer
-- Debolina Paul
-- Alhad Sethi, Kavali Sofia Sagar, Shubhada Agrawal, Debabrota Basu, P. N. Karthik
-- Liviu Aolaritei, Michael I. Jordan (see also [Talks A3](#talks-a3))
-- Valentin Kilian, Stefano Cortinovis, François Caron (see also [Talks A3](#talks-a3))
-- Sohom Mukherjee, Ivane Antonov, Richard Pibernik, Yo Joong Choe (see also [Talks A3](#talks-a3))
-- Larsson, Ramdas, Ruf (see also [Talks A1](#talks-a1))
-- Qiuqi Wang, Zhenyuan Zhang, Ruodu Wang (see also [Talks A1](#talks-a1))
-- Noah Liniger, Ian Waudby-Smith, Antoine Scheid, Alain Durmus, Michael I. Jordan (see also [Talks A1](#talks-a1))
-- Yury Tavyrikov, Jelle Goeman, Rianne de Heide (see also [Talks A1](#talks-a1))
-- Zhimei Ren (see also [Talks A2](#talks-a2))
-- Jelle Goeman (see also [Talks A2](#talks-a2))
+#### Rovanos Tsafack Nzanguim, Aurele Mingam, Jelle Goeman, Rianne de Heide
+> _abstract tba_
 
+#### Aurele Mingam, Rovanos Tsafack Nzanguim, Rianne de Heide, Jelle Goeman
+> _abstract tba_
+
+#### Beepul Bharti, Ambar Pal, Jeremias Sulam
+> _abstract tba_
+
+#### S. Bongers, P. Grünwald
+> _abstract tba_
+
+#### Eugenio Clerico, Sebastian Arnold
+> _abstract tba_
+
+#### Sebastian Arias, Peter Grünwald
+> _abstract tba_
+
+#### D. Hop, N. Koning, S. van der Meer
+> _abstract tba_
+
+#### Debolina Paul
+> _abstract tba_
+
+#### Alhad Sethi, Kavali Sofia Sagar, Shubhada Agrawal, Debabrota Basu, P. N. Karthik
+> _abstract tba_
+
+#### Liviu Aolaritei, Michael I. Jordan
+See [Talks A3](#talks-a3).
+
+#### Valentin Kilian, Stefano Cortinovis, François Caron
+See [Talks A3](#talks-a3).
+
+#### Sohom Mukherjee, Ivane Antonov, Richard Pibernik, Yo Joong Choe
+See [Talks A3](#talks-a3).
+
+#### Larsson, Ramdas, Ruf
+See [Talks A1](#talks-a1).
+
+#### Qiuqi Wang, Zhenyuan Zhang, Ruodu Wang
+See [Talks A1](#talks-a1).
+
+#### Noah Liniger, Ian Waudby-Smith, Antoine Scheid, Alain Durmus, Michael I. Jordan
+See [Talks A1](#talks-a1).
+
+#### Yury Tavyrikov, Jelle Goeman, Rianne de Heide
+See [Talks A1](#talks-a1).
+
+#### Zhimei Ren
+See [Talks A2](#talks-a2).
+
+#### Jelle Goeman
+See [Talks A2](#talks-a2).
 
 ### Talks C1
-- Lorenz Matz (see also [Posters C](#posters-c))
+#### Lorenz Matz
+> _abstract tba_
+
+See also [Posters C](#posters-c).
 
 ### Talks C2
-- Eugenio Clerico (see also [Posters D](#posters-d))
+#### Eugenio Clerico
+> _abstract tba_
+
+See also [Posters D](#posters-d).
 
 ### Posters C
-- Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus
-- Rémy Degenne, Gaëtan Serré
-- Hongjian Wang
-- Dante de Roos, Peter Grünwald, Sebastian Arnold
-- Aytijhya Saha, Aaditya Ramdas 1
-- Udo Boehm, Wouter Koolen, and Peter Grunwald
-- Ben Chugg, Etienne Gauthier, Michael I. Jordan, Aaditya Ramdas, Ian Waudby-Smith
-- Angel Reyero Lobo, Sebastian Arias, Michele Meziu
-- Ashwin Ram, Aaditya Ramdas
-- Sam van Meer, Nick W. Koning (see also [Talks B3](#talks-b3))
-- Vikas Deep, Shubhada Agarwal (see also [Talks B3](#talks-b3))
-- Lorenz Matz, Hannes Leeb (see also [Talks C1](#talks-c1))
-- Dante de Roos, Peter Grünwald (see also [Talks B3](#talks-b3))
+#### Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus
+> _abstract tba_
+
+#### Rémy Degenne, Gaëtan Serré
+> _abstract tba_
+
+#### Hongjian Wang
+> _abstract tba_
+
+#### Dante de Roos, Peter Grünwald, Sebastian Arnold
+> _abstract tba_
+
+#### Aytijhya Saha, Aaditya Ramdas (1/2)
+> _abstract tba_
+
+#### Udo Boehm, Wouter Koolen, and Peter Grunwald
+> _abstract tba_
+
+#### Ben Chugg, Etienne Gauthier, Michael I. Jordan, Aaditya Ramdas, Ian Waudby-Smith
+> _abstract tba_
+
+#### Angel Reyero Lobo, Sebastian Arias, Michele Meziu
+> _abstract tba_
+
+#### Ashwin Ram, Aaditya Ramdas
+> _abstract tba_
+
+#### Sam van Meer, Nick W. Koning
+See [Talks B3](#talks-b3).
+
+#### Vikas Deep, Shubhada Agarwal
+See [Talks B3](#talks-b3).
+
+#### Lorenz Matz, Hannes Leeb
+See [Talks C1](#talks-c1).
+
+#### Dante de Roos, Peter Grünwald
+See [Talks B3](#talks-b3).
 
 
 ### Talks D1
-- Peter Grünwald (see also [Posters D](#posters-d))
-- Ben Chugg (see also [Posters D](#posters-d))
-- Timothée Mathieu (see also [Posters D](#posters-d))
-- Dennis Oestmann (see also [Posters D](#posters-d))
+#### Peter Grünwald
+> _abstract tba_
+
+See also [Posters D](#posters-d).
+
+#### Ben Chugg
+> _abstract tba_
+
+See also [Posters D](#posters-d).
+
+#### Timothée Mathieu
+> _abstract tba_
+
+See also [Posters D](#posters-d).
+
+#### Dennis Oestmann
+> _abstract tba_
+
+See also [Posters D](#posters-d).
 
 ### Talks D2
-- Michael Lindon (see also [Posters D](#posters-d))
-- Stef Baas (see also [Posters D](#posters-d))
+#### Michael Lindon
+> _abstract tba_
+
+See also [Posters D](#posters-d).
+
+#### Stef Baas
+> _abstract tba_
+
+See also [Posters D](#posters-d).
 
 ### Talks D3
-- Yo Joong Choe (see also [Posters D](#posters-d))
-- Damjan Vukcevic (see also [Posters D](#posters-d))
-- Diego Martinez-Taboada (see also [Posters D](#posters-d))
+#### Yo Joong Choe
+> _abstract tba_
+
+See also [Posters D](#posters-d).
+
+#### Damjan Vukcevic
+> _abstract tba_
+
+See also [Posters D](#posters-d).
+
+#### Diego Martinez-Taboada
+> _abstract tba_
+
+See also [Posters D](#posters-d).
 
 ### Posters D
-- Victor K. de la Peña, Victor H. de La Peña, Demissie Alemayehu, Fangyuan Lin
-- Joren Brunekreef, Renee Menezes, Rianne de Heide
-- Judith ter Schure
-- Rianne de Heide
-- Anurag Singh, Rajeev Verma, Julian Rodemann, Siu Lun Chau, Krikamol Muandet
-- Valentin Kilian*, Shirley Xiaoqi Liu*, Judith Rousseau, Francesco Orabona, Patrick Rebeschini
-- Yongxi Long, Alexander Ly, Nikos Ignatiadis, Jelle Goeman, Peter Grünwald, Erik van Zwet
-- Stan Koobs, Nick Koning
-- Alexander Ly, Sebastian Arias, Sebastian Arnold, Udo Boehm, Stephan Bongers, Michele Meziu, Angel Reyero Lobo, Dante de Roos, Meike Steinhilber, Yongqi Wang, and Peter Grünwald
-- Rajeev Verma, Rabanus Derr, Christian A.Naesseth, Eric Nalisnick
-- Aytijhya Saha, Aaditya Ramdas 2
-- Sebastian Arnold*, Yo Joong (YJ) Choe*, Marco Scarsini, Ilia Tsetlin (*Equal contribution.) (see also [Talks D3](#talks-d3))
-- Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic (see also [Talks D3](#talks-d3))
-- Diego Martinez-Taboada, Aaditya Ramdas (see also [Talks D3](#talks-d3))
-- Michael Lindon, Nathan Kallus (see also [Talks D2](#talks-d2))
-- Stef Baas, Joost van Rosmalen, Judith ter Schure (see also [Talks D2](#talks-d2))
-- Peter Grünwald, partially based on joint work with, Ben Chugg, Aaditya Ramdas (see also [Talks D1](#talks-d1))
-- Ben Chugg (see also [Talks D1](#talks-d1))
-- Timothée Mathieu, Adrienne Tuynman (see also [Talks D1](#talks-d1))
-- Dennis Oestmann, Thorsten Dickhaus (see also [Talks D1](#talks-d1))
-- Eugenio Clerico (see also [Talks C2](#talks-c2))
+#### Victor K. de la Peña, Victor H. de La Peña, Demissie Alemayehu and Fangyuan Lin
+> This paper addresses the “winner’s curse” in dose-ranging trials. In a typical Phase II study, \(K\) dose candidates are compared and the apparent winner is advanced to Phase III. Typically, the observed efficacy of the selected dose systematically overestimates its true effect. We argue that this bias is an under-appreciated contributor to the approximately 50% Phase III failure rate and to the well-documented shrinkage of treatment effects between phases. The central contribution is a closed-form expression for the expected selection bias, expressed in terms of four quantities that are readily estimable at the design stage of the pivotal trials: the number of in doses \(K\), the number of patients per arm \(n\), the outcome standard deviation \(\sigma\), and the inter-arm correlation \(\rho\): \[\mathbb{E}[\text{Bias}] = (\sigma/\sqrt{n}) g(K) \sqrt{1 - \rho},\] where \(g(K)\) denotes the expected value of the maximum of \(K\) standard normal random variables. We provide exact tabulated values of \(g(K)\) and show that the commonly used asymptotic approximation \(\sqrt{2 \log K}\) overstates the bias by 40%--110% for the practically relevant range \(K = 3\) to \(10\).
+> 
+> Extensive simulations confirm that the formula is accurate to within 0.5% across clinically realistic parameter values. To illustrate its relevance, we apply the results to several past clinical trials. We also supply several immediately applicable decision tools: a Phase III sample-size inflation factor, a calibrated go/no-go probability calculator, a cumulative-bias tracker for multi-arm multi-stage (MAMS) designs, and a dose-ranging optimizer aligned with the objectives of Project Optimus.
+
+#### Joren Brunekreef, Renee Menezes, Rianne de Heide
+> _abstract tba_
+
+#### Judith ter Schure
+> _abstract tba_
+
+#### Rianne de Heide
+> _abstract tba_
+
+#### Anurag Singh, Rajeev Verma, Julian Rodemann, Siu Lun Chau, Krikamol Muandet
+> _abstract tba_
+
+#### Valentin Kilian*, Shirley Xiaoqi Liu*, Judith Rousseau, Francesco Orabona, Patrick Rebeschini
+> _abstract tba_
+
+#### Yongxi Long, Alexander Ly, Nikos Ignatiadis, Jelle Goeman, Peter Grünwald, Erik van Zwet
+> _abstract tba_
+
+#### Stan Koobs, Nick Koning
+> _abstract tba_
+
+#### Alexander Ly, Sebastian Arias, Sebastian Arnold, Udo Boehm, Stephan Bongers, Michele Meziu, Angel Reyero Lobo, Dante de Roos, Meike Steinhilber, Yongqi Wang, and Peter Grünwald
+> _abstract tba_
+
+#### Rajeev Verma, Rabanus Derr, Christian A.Naesseth, Eric Nalisnick
+> _abstract tba_
+
+#### Aytijhya Saha, Aaditya Ramdas (2/2)
+> _abstract tba_
+
+#### Sebastian Arnold*, Yo Joong (YJ) Choe*, Marco Scarsini, Ilia Tsetlin (*Equal contribution.)
+See [Talks D3](#talks-d3).
+
+#### Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic
+See [Talks D3](#talks-d3).
+
+#### Diego Martinez-Taboada, Aaditya Ramdas
+See [Talks D3](#talks-d3).
+
+#### Michael Lindon, Nathan Kallus
+See [Talks D2](#talks-d2).
+
+#### Stef Baas, Joost van Rosmalen, Judith ter Schure
+See [Talks D2](#talks-d2).
+
+#### Peter Grünwald, partially based on joint work with, Ben Chugg, Aaditya Ramdas
+See [Talks D1](#talks-d1).
+
+#### Ben Chugg
+See [Talks D1](#talks-d1).
+
+#### Timothée Mathieu, Adrienne Tuynman
+See [Talks D1](#talks-d1).
+
+#### Dennis Oestmann, Thorsten Dickhaus
+See [Talks D1](#talks-d1).
+
+#### Eugenio Clerico
+See [Talks C2](#talks-c2).
 
 
 ## List of Participants
