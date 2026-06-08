@@ -254,11 +254,10 @@ menus:
 
 
 ### Talks C1
-- Lorenz Matz
-
+- Lorenz Matz (see also [Posters C](#posters-c))
 
 ### Talks C2
-- Eugenio Clerico
+- Eugenio Clerico (see also [Posters D](#posters-d))
 
 ### Posters C
 - Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus
@@ -270,31 +269,26 @@ menus:
 - Ben Chugg, Etienne Gauthier, Michael I. Jordan, Aaditya Ramdas, Ian Waudby-Smith
 - Angel Reyero Lobo, Sebastian Arias, Michele Meziu
 - Ashwin Ram, Aaditya Ramdas
-- Sam van Meer, Nick W. Koning
-- Vikas Deep, Shubhada Agarwal
-- Lorenz Matz, Hannes Leeb
-- Dante de Roos, Peter Grünwald
-
-
+- Sam van Meer, Nick W. Koning (see also [Talks B3](#talks-b3))
+- Vikas Deep, Shubhada Agarwal (see also [Talks B3](#talks-b3))
+- Lorenz Matz, Hannes Leeb (see also [Talks C1](#talks-c1))
+- Dante de Roos, Peter Grünwald (see also [Talks B3](#talks-b3))
 
 
 ### Talks D1
-- Peter Grünwald
-- Ben Chugg
-- Timothée Mathieu
-- Dennis Oestmann
-
+- Peter Grünwald (see also [Posters D](#posters-d))
+- Ben Chugg (see also [Posters D](#posters-d))
+- Timothée Mathieu (see also [Posters D](#posters-d))
+- Dennis Oestmann (see also [Posters D](#posters-d))
 
 ### Talks D2
-- Michael Lindon
-- Stef Baas
-
+- Michael Lindon (see also [Posters D](#posters-d))
+- Stef Baas (see also [Posters D](#posters-d))
 
 ### Talks D3
-- Yo Joong Choe
-- Damjan Vukcevic
-- Diego Martinez-Taboada
-
+- Yo Joong Choe (see also [Posters D](#posters-d))
+- Damjan Vukcevic (see also [Posters D](#posters-d))
+- Diego Martinez-Taboada (see also [Posters D](#posters-d))
 
 ### Posters D
 - Victor K. de la Peña, Victor H. de La Peña, Demissie Alemayehu, Fangyuan Lin
@@ -308,20 +302,19 @@ menus:
 - Alexander Ly, Sebastian Arias, Sebastian Arnold, Udo Boehm, Stephan Bongers, Michele Meziu, Angel Reyero Lobo, Dante de Roos, Meike Steinhilber, Yongqi Wang, and Peter Grünwald
 - Rajeev Verma, Rabanus Derr, Christian A.Naesseth, Eric Nalisnick
 - Aytijhya Saha, Aaditya Ramdas 2
-- Sebastian Arnold*, Yo Joong (YJ) Choe*, Marco Scarsini, Ilia Tsetlin (*Equal contribution.)
-- Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic
-- Diego Martinez-Taboada, Aaditya Ramdas
-- Michael Lindon, Nathan Kallus
-- Stef Baas, Joost van Rosmalen, Judith ter Schure
-- Peter Grünwald, partially based on joint work with, Ben Chugg, Aaditya Ramdas
-- Ben Chugg
-- Timothée Mathieu, Adrienne Tuynman
-- Dennis Oestmann, Thorsten Dickhaus
-- Eugenio Clerico
+- Sebastian Arnold*, Yo Joong (YJ) Choe*, Marco Scarsini, Ilia Tsetlin (*Equal contribution.) (see also [Talks D3](#talks-d3))
+- Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic (see also [Talks D3](#talks-d3))
+- Diego Martinez-Taboada, Aaditya Ramdas (see also [Talks D3](#talks-d3))
+- Michael Lindon, Nathan Kallus (see also [Talks D2](#talks-d2))
+- Stef Baas, Joost van Rosmalen, Judith ter Schure (see also [Talks D2](#talks-d2))
+- Peter Grünwald, partially based on joint work with, Ben Chugg, Aaditya Ramdas (see also [Talks D1](#talks-d1))
+- Ben Chugg (see also [Talks D1](#talks-d1))
+- Timothée Mathieu, Adrienne Tuynman (see also [Talks D1](#talks-d1))
+- Dennis Oestmann, Thorsten Dickhaus (see also [Talks D1](#talks-d1))
+- Eugenio Clerico (see also [Talks C2](#talks-c2))
 
 
-### List of participants
-
+## List of Participants
 - Shubhada Agrawal
 - Liviu Aolaritei
 - Sebastian Arias
@@ -384,4 +377,3 @@ menus:
 - Yongqi Wang
 - Jan-Lukas Wermuth
 - Redouane Yagouti
-
