@@ -213,8 +213,8 @@ See also [Posters A](#posters-a).
 
 See also [Posters A](#posters-a).
 
-#### Nick Koning
-> _abstract tba_
+#### Optimal prediction with E-values _(Nick Koning)_
+> Prediction sets offer a binary inclusion / exclusion for each element at the same fixed confidence level. We generalize this to fuzzy prediction sets, which exclude elements at their own data-driven confidence level. Our key insight is that a fuzzy prediction set is equivalent to a single E-value, capturing precisely what E-values bring to prediction. Fuzzy prediction sets inherit the merging properties of their E-value, and offer richer guarantees to decision makers. We show in what sense optimal E-values give rise to optimal (fuzzy) prediction sets. We apply our results to conformal prediction, deriving optimal conformal prediction sets, and characterizing in what sense classical conformal prediction is optimal.
 
 See also [Posters A](#posters-a).
 
@@ -486,7 +486,7 @@ See also [Posters D](#posters-d).
 See also [Posters D](#posters-d).
 
 ### Posters D
-#### Victor K. de la Peña, Victor H. de La Peña, Demissie Alemayehu and Fangyuan Lin
+#### _Victor K. de la Peña, Victor H. de La Peña, Demissie Alemayehu and Fangyuan Lin_
 > This paper addresses the “winner’s curse” in dose-ranging trials. In a typical Phase II study, \(K\) dose candidates are compared and the apparent winner is advanced to Phase III. Typically, the observed efficacy of the selected dose systematically overestimates its true effect. We argue that this bias is an under-appreciated contributor to the approximately 50% Phase III failure rate and to the well-documented shrinkage of treatment effects between phases. The central contribution is a closed-form expression for the expected selection bias, expressed in terms of four quantities that are readily estimable at the design stage of the pivotal trials: the number of in doses \(K\), the number of patients per arm \(n\), the outcome standard deviation \(\sigma\), and the inter-arm correlation \(\rho\): \[\mathbb{E}[\text{Bias}] = (\sigma/\sqrt{n}) g(K) \sqrt{1 - \rho},\] where \(g(K)\) denotes the expected value of the maximum of \(K\) standard normal random variables. We provide exact tabulated values of \(g(K)\) and show that the commonly used asymptotic approximation \(\sqrt{2 \log K}\) overstates the bias by 40%--110% for the practically relevant range \(K = 3\) to \(10\).
 > 
 > Extensive simulations confirm that the formula is accurate to within 0.5% across clinically realistic parameter values. To illustrate its relevance, we apply the results to several past clinical trials. We also supply several immediately applicable decision tools: a Phase III sample-size inflation factor, a calibrated go/no-go probability calculator, a cumulative-bias tracker for multi-arm multi-stage (MAMS) designs, and a dose-ranging optimizer aligned with the objectives of Project Optimus.
