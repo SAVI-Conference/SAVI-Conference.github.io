@@ -391,8 +391,8 @@ See [Talks A2](#talks-a2).
 See also [Posters C](#posters-c).
 
 ### Talks C2
-#### Eugenio Clerico
-> _abstract tba_
+#### Time-sensitive anytime-valid testing _(Eugenio Clerico; joint work with Tobias Wegel, Iskander Azangulov, and Patrick Rebeschini)_
+> Abstract: Anytime-valid tests allow evidence to be checked during data collection: one can either continue testing or stop and reject the null while still controlling type-I error. Yet, in many applications rejection is useful only if it comes soon enough. We introduce a time-sensitive testing-by-betting framework that favours early rejection by assigning rewards to rejection times and maximising their expected value under a given alternative. This encompasses hard deadlines and softer time preferences. The resulting optimal control problem admits a Bellman representation in terms only of time and evidence against the null, rather than the full history. For hard deadlines,  the simple-vs-simple case reduces to a finite-horizon Neyman-Pearson problem, with a corresponding optimal e-process. Furthermore, we show that exponentially decaying rewards admit a stationary approximation, yielding the exponential-decay-optimal (EDO) criterion: a finite-time-scale counterpart to the classical growth-rate-optimal (GRO) viewpoint in anytime-valid statistics, with the GRO criterion recovered in the large-time-scale limit.
 
 See also [Posters D](#posters-d).
 
