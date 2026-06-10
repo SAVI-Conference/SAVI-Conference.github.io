@@ -367,22 +367,22 @@ See [Talks A3](#talks-a3).
 See [Talks A3](#talks-a3).
 
 #### Larsson, Ramdas, Ruf
-See [Talks A1](#talks-a1).
+See [Talks B1](#talks-b1).
 
 #### Qiuqi Wang, Zhenyuan Zhang, Ruodu Wang
-See [Talks A1](#talks-a1).
+See [Talks B1](#talks-b1).
 
 #### Noah Liniger, Ian Waudby-Smith, Antoine Scheid, Alain Durmus, Michael I. Jordan
-See [Talks A1](#talks-a1).
+See [Talks B1](#talks-b1).
 
 #### Yury Tavyrikov, Jelle Goeman, Rianne de Heide
-See [Talks A1](#talks-a1).
+See [Talks B1](#talks-b1).
 
 #### Zhimei Ren
-See [Talks A2](#talks-a2).
+See [Talks B2](#talks-b2).
 
 #### Jelle Goeman
-See [Talks A2](#talks-a2).
+See [Talks B2](#talks-b2).
 
 ### Talks C1
 #### Lorenz Matz
