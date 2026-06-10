@@ -339,9 +339,6 @@ See also [Posters C](#posters-c).
 #### Beepul Bharti, Ambar Pal, Jeremias Sulam
 > _abstract tba_
 
-#### S. Bongers, P. Grünwald
-> _abstract tba_
-
 #### Eugenio Clerico, Sebastian Arnold
 > _abstract tba_
 
@@ -352,6 +349,9 @@ See also [Posters C](#posters-c).
 > _abstract tba_
 
 #### Debolina Paul
+> _abstract tba_
+
+#### Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus
 > _abstract tba_
 
 #### Alhad Sethi, Kavali Sofia Sagar, Shubhada Agrawal, Debabrota Basu, P. N. Karthik
@@ -397,7 +397,8 @@ See also [Posters C](#posters-c).
 See also [Posters D](#posters-d).
 
 ### Posters C
-#### Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus
+
+#### S. Bongers, P. Grünwald
 > _abstract tba_
 
 #### Rémy Degenne, Gaëtan Serré
