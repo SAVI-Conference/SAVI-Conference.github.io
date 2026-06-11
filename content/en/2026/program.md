@@ -24,7 +24,7 @@ menus:
                 <th scope="row" class="full-hour">09:00</th>
                 <td class="mon opening">Opening</td>
                 <td rowspan="4" class="tue keynote"><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#snigdha-panigrahi">Snigdha Panigrahi</a></td>
-                <td rowspan="2" class="wed talks"><a href="#talks-c1">Talks C1</a></td>
+                <td rowspan="4" class="wed talks"><a href="#talks-c1">Talks C1</a></td>
                 <td rowspan="4" class="thu keynote"><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#gert-de-cooman">Gert de Cooman</a></td>
                 <td rowspan="4" class="fri keynote"><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#victor-h-de-la-peña">Victor H. de la Peña</a></td>
             </tr>
@@ -34,7 +34,6 @@ menus:
             </tr>
             <tr>
                 <th scope="row" class="half-hour">09:30</th>
-                <td rowspan="4" class="wed poster-pitches">Poster Pitches</td>
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
@@ -42,6 +41,7 @@ menus:
             <tr>
                 <th scope="row" class="full-hour">10:00</th>
                 <td rowspan="2" class="tue coffee-break">Coffee Break</td>
+                <td rowspan="4" class="wed poster-pitches">Poster Pitches</td>
                 <td rowspan="2" class="thu coffee-break">Coffee Break</td>
                 <td rowspan="2" class="fri coffee-break">Coffee Break</td>
             </tr>
@@ -52,7 +52,6 @@ menus:
             <tr>
                 <th scope="row" class="half-hour">10:30</th>
                 <td rowspan="8" class="tue talks"><a href="#talks-b1">Talks B1</a></td>
-                <td rowspan="4" class="wed poster-session"><a href="#posters-c">Posters C</a></td>
                 <td rowspan="8" class="thu talks"><a href="#talks-d1">Talks D1</a></td>
                 <td rowspan="6" class="fri open-problem-session">Open Problem Session</td>
             </tr>
@@ -62,20 +61,20 @@ menus:
             </tr>
             <tr>
                 <th scope="row" class="full-hour">11:00</th>
+                <td rowspan="3" class="wed poster-session"><a href="#posters-c">Posters C</a></td>
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
             </tr>
             <tr>
                 <th scope="row" class="half-hour">11:30</th>
-                <td rowspan="2" class="wed talks"><a href="#talks-c2">Talks C2</a></td>
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
+                <td rowspan="4" class="wed keynote"><span class="time-info">ca. 11:45</span><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#morgane-austern">Morgane Austern</a></td>
             </tr>
             <tr>
                 <th scope="row" class="full-hour">12:00</th>
-                <td rowspan="4" class="wed lunch">Lunch</td>
                 <td rowspan="2" class="closing">Closing</td>
             </tr>
             <tr>
@@ -90,10 +89,10 @@ menus:
             <tr>
                 <th scope="row" class="quart-hour"></th>
                 <td rowspan="3" class="mon lunch">Lunch</td>
+                <td rowspan="4" class="wed lunch">Lunch</td>
             </tr>
             <tr>
                 <th scope="row" class="full-hour">13:00</th>
-                <td rowspan="18" class="wed excursion">Excursion</td>
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
@@ -107,6 +106,7 @@ menus:
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
+                <td rowspan="15" class="wed excursion">Excursion</td>
             </tr>
             <tr>
                 <th scope="row" class="full-hour">14:00</th>
@@ -390,7 +390,6 @@ See [Talks A2](#talks-a2).
 
 See also [Posters C](#posters-c).
 
-### Talks C2
 #### Time-sensitive anytime-valid testing _(Eugenio Clerico; joint work with Tobias Wegel, Iskander Azangulov, and Patrick Rebeschini)_
 > Abstract: Anytime-valid tests allow evidence to be checked during data collection: one can either continue testing or stop and reject the null while still controlling type-I error. Yet, in many applications rejection is useful only if it comes soon enough. We introduce a time-sensitive testing-by-betting framework that favours early rejection by assigning rewards to rejection times and maximising their expected value under a given alternative. This encompasses hard deadlines and softer time preferences. The resulting optimal control problem admits a Bellman representation in terms only of time and evidence against the null, rather than the full history. For hard deadlines,  the simple-vs-simple case reduces to a finite-horizon Neyman-Pearson problem, with a corresponding optimal e-process. Furthermore, we show that exponentially decaying rewards admit a stationary approximation, yielding the exponential-decay-optimal (EDO) criterion: a finite-time-scale counterpart to the classical growth-rate-optimal (GRO) viewpoint in anytime-valid statistics, with the GRO criterion recovered in the large-time-scale limit.
 
@@ -549,7 +548,7 @@ See [Talks D1](#talks-d1).
 See [Talks D1](#talks-d1).
 
 #### Eugenio Clerico
-See [Talks C2](#talks-c2).
+See [Talks C1](#talks-c1).
 
 
 ## List of Participants
