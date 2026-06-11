@@ -558,6 +558,7 @@ See [Talks C2](#talks-c2).
 - Liviu Aolaritei
 - Sebastian Arias
 - Sebastian Arnold
+- Morgane Austern
 - Stef Baas
 - Beepul Bharti
 - Stephan Bongers
@@ -581,6 +582,7 @@ See [Talks C2](#talks-c2).
 - Nick Koning
 - Stan Koobs
 - Wouter Koolen
+- Brian Lee
 - Michael Lindon
 - Noah Liniger
 - Xiaoqi Shirley Liu
@@ -606,11 +608,13 @@ See [Talks C2](#talks-c2).
 - Ricardo Sandoval
 - Antoine Scheid
 - Gaëtan Serre
+- Anurag Singh
 - Yury Tavyrikov
 - Rovanos Tsafack Nzanguim
 - Adrienne Tuynman
 - Dirk van der Hoeven
 - Sam van Meer
+- Rajeev Verma
 - Vladimir Vovk
 - Qiuqi Wang
 - Yongqi Wang
