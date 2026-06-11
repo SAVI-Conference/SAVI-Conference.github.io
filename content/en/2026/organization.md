@@ -12,6 +12,7 @@ Local Organizers:
 Organizing Team:
 - [Fabian Damken](https://fabian.damken.net/), [University of Twente](https://www.utwente.nl/)
 - Nynke Luijten, [University of Twente](https://www.utwente.nl/)
+- Aurèle Mingam, [Leiden University Medical Center](https://www.lumc.nl)
 - [Rovanos Tsafack Nzanguim](https://people.utwente.nl/r.tsafacknzanguim), [University of Twente](https://www.utwente.nl/)
 
 Steering Committee:

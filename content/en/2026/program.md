@@ -339,9 +339,6 @@ See also [Posters C](#posters-c).
 #### Beepul Bharti, Ambar Pal, Jeremias Sulam
 > _abstract tba_
 
-#### S. Bongers, P. Grünwald
-> _abstract tba_
-
 #### Eugenio Clerico, Sebastian Arnold
 > _abstract tba_
 
@@ -352,6 +349,9 @@ See also [Posters C](#posters-c).
 > _abstract tba_
 
 #### Debolina Paul
+> _abstract tba_
+
+#### Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus
 > _abstract tba_
 
 #### Alhad Sethi, Kavali Sofia Sagar, Shubhada Agrawal, Debabrota Basu, P. N. Karthik
@@ -367,22 +367,22 @@ See [Talks A3](#talks-a3).
 See [Talks A3](#talks-a3).
 
 #### Larsson, Ramdas, Ruf
-See [Talks A1](#talks-a1).
+See [Talks B1](#talks-b1).
 
 #### Qiuqi Wang, Zhenyuan Zhang, Ruodu Wang
-See [Talks A1](#talks-a1).
+See [Talks B1](#talks-b1).
 
 #### Noah Liniger, Ian Waudby-Smith, Antoine Scheid, Alain Durmus, Michael I. Jordan
-See [Talks A1](#talks-a1).
+See [Talks B1](#talks-b1).
 
 #### Yury Tavyrikov, Jelle Goeman, Rianne de Heide
-See [Talks A1](#talks-a1).
+See [Talks B1](#talks-b1).
 
 #### Zhimei Ren
-See [Talks A2](#talks-a2).
+See [Talks B2](#talks-b2).
 
 #### Jelle Goeman
-See [Talks A2](#talks-a2).
+See [Talks B2](#talks-b2).
 
 ### Talks C1
 #### Lorenz Matz
@@ -396,7 +396,8 @@ See also [Posters C](#posters-c).
 See also [Posters D](#posters-d).
 
 ### Posters C
-#### Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus
+
+#### S. Bongers, P. Grünwald
 > _abstract tba_
 
 #### Rémy Degenne, Gaëtan Serré
@@ -485,7 +486,7 @@ See also [Posters D](#posters-d).
 See also [Posters D](#posters-d).
 
 ### Posters D
-#### _Victor K. de la Peña, Victor H. de La Peña, Demissie Alemayehu and Fangyuan Lin_
+#### Mitigating the Winner’s Curse in Dose-Ranging Studies: A Closed-Form Formula for Expected Bias and Decision Tools for Optimized Dose Selection _(Victor K. de la Peña, Victor H. de La Peña, Demissie Alemayehu and Fangyuan Lin)_
 > This paper addresses the “winner’s curse” in dose-ranging trials. In a typical Phase II study, \(K\) dose candidates are compared and the apparent winner is advanced to Phase III. Typically, the observed efficacy of the selected dose systematically overestimates its true effect. We argue that this bias is an under-appreciated contributor to the approximately 50% Phase III failure rate and to the well-documented shrinkage of treatment effects between phases. The central contribution is a closed-form expression for the expected selection bias, expressed in terms of four quantities that are readily estimable at the design stage of the pivotal trials: the number of in doses \(K\), the number of patients per arm \(n\), the outcome standard deviation \(\sigma\), and the inter-arm correlation \(\rho\): \[\mathbb{E}[\text{Bias}] = (\sigma/\sqrt{n}) g(K) \sqrt{1 - \rho},\] where \(g(K)\) denotes the expected value of the maximum of \(K\) standard normal random variables. We provide exact tabulated values of \(g(K)\) and show that the commonly used asymptotic approximation \(\sqrt{2 \log K}\) overstates the bias by 40%--110% for the practically relevant range \(K = 3\) to \(10\).
 > 
 > Extensive simulations confirm that the formula is accurate to within 0.5% across clinically realistic parameter values. To illustrate its relevance, we apply the results to several past clinical trials. We also supply several immediately applicable decision tools: a Phase III sample-size inflation factor, a calibrated go/no-go probability calculator, a cumulative-bias tracker for multi-arm multi-stage (MAMS) designs, and a dose-ranging optimizer aligned with the objectives of Project Optimus.
@@ -556,6 +557,7 @@ See [Talks C1](#talks-c1).
 - Liviu Aolaritei
 - Sebastian Arias
 - Sebastian Arnold
+- Morgane Austern
 - Stef Baas
 - Beepul Bharti
 - Stephan Bongers
@@ -579,6 +581,7 @@ See [Talks C1](#talks-c1).
 - Nick Koning
 - Stan Koobs
 - Wouter Koolen
+- Brian Lee
 - Michael Lindon
 - Noah Liniger
 - Xiaoqi Shirley Liu
@@ -604,11 +607,13 @@ See [Talks C1](#talks-c1).
 - Ricardo Sandoval
 - Antoine Scheid
 - Gaëtan Serre
+- Anurag Singh
 - Yury Tavyrikov
 - Rovanos Tsafack Nzanguim
 - Adrienne Tuynman
 - Dirk van der Hoeven
 - Sam van Meer
+- Rajeev Verma
 - Vladimir Vovk
 - Qiuqi Wang
 - Yongqi Wang
