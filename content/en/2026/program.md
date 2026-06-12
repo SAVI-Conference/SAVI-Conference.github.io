@@ -410,9 +410,6 @@ See also [Posters D](#posters-d).
 #### Dante de Roos, Peter Grünwald, Sebastian Arnold
 > _abstract tba_
 
-#### Aytijhya Saha, Aaditya Ramdas (1/2)
-> _abstract tba_
-
 #### Udo Boehm, Wouter Koolen, and Peter Grunwald
 > _abstract tba_
 
@@ -431,11 +428,14 @@ See [Talks B3](#talks-b3).
 #### Vikas Deep, Shubhada Agarwal
 See [Talks B3](#talks-b3).
 
+#### Dante de Roos, Peter Grünwald
+See [Talks B3](#talks-b3).
+
 #### Lorenz Matz, Hannes Leeb
 See [Talks C1](#talks-c1).
 
-#### Dante de Roos, Peter Grünwald
-See [Talks B3](#talks-b3).
+#### Eugenio Clerico
+See [Talks C1](#talks-c1).
 
 
 ### Talks D1
@@ -519,7 +519,7 @@ See also [Posters D](#posters-d).
 #### Rajeev Verma, Rabanus Derr, Christian A.Naesseth, Eric Nalisnick
 > _abstract tba_
 
-#### Aytijhya Saha, Aaditya Ramdas (2/2)
+#### Aytijhya Saha, Aaditya Ramda
 > _abstract tba_
 
 #### Sebastian Arnold*, Yo Joong (YJ) Choe*, Marco Scarsini, Ilia Tsetlin (*Equal contribution.)
@@ -548,9 +548,6 @@ See [Talks D1](#talks-d1).
 
 #### Dennis Oestmann, Thorsten Dickhaus
 See [Talks D1](#talks-d1).
-
-#### Eugenio Clerico
-See [Talks C1](#talks-c1).
 
 
 ## List of Participants
