@@ -296,7 +296,7 @@ See also [Posters B](#posters-b).
 
 See also [Posters B](#posters-b).
 
-#### Yury Tavyrikov
+#### Jelle Goeman
 > _abstract tba_
 
 See also [Posters B](#posters-b).
@@ -308,10 +308,11 @@ See also [Posters B](#posters-b).
 
 See also [Posters B](#posters-b).
 
-#### Jelle Goeman
+#### Yury Tavyrikov
 > _abstract tba_
 
 See also [Posters B](#posters-b).
+
 
 ### Talks B3
 #### Dante de Roos
@@ -375,13 +376,13 @@ See [Talks B1](#talks-b1).
 #### Noah Liniger, Ian Waudby-Smith, Antoine Scheid, Alain Durmus, Michael I. Jordan
 See [Talks B1](#talks-b1).
 
+#### Jelle Goeman
+See [Talks B2](#talks-b1).
+
 #### Yury Tavyrikov, Jelle Goeman, Rianne de Heide
-See [Talks B1](#talks-b1).
+See [Talks B1](#talks-b2).
 
 #### Zhimei Ren
-See [Talks B2](#talks-b2).
-
-#### Jelle Goeman
 See [Talks B2](#talks-b2).
 
 ### Talks C1
