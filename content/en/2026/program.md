@@ -191,8 +191,10 @@ menus:
 
 See also [Posters A](#posters-a).
 
-#### Vladimir Vovk
-> _abstract tba_
+#### Predictive and confidence regions in causal inference _(Vladimir Vovk)_
+Joint work with Ruodu Wang.
+
+> We extend conformal e-prediction to design an algorithm for producing prediction sets in causal inference. Our algorithm works in the cases covered by the back-door criterion and those covered by the front-door criterion. However, its weakness is that it assumes that the training set is IID, or at least not too far from being IID, in some sense. In particular, our algorithm is not directly applicable in the setting of sequential decision making. To deal with this setting, we apply SAVI methods based on the law of the iterated algorithm to find explicit confidence intervals and confidence sequences. Once we have confidence intervals, we can use them to derive prediction sets; even if these prediction sets are less efficient for an IID training set, they are applicable in highly non-IID settings such as that of sequential decision making.
 
 See also [Posters A](#posters-a).
 
@@ -264,7 +266,7 @@ See also [Posters B](#posters-b).
 #### Etienne Gauthier, Francis Bach, Michael I. Jordan
 See [Talks A1](#talks-a1).
 
-#### Vladimir Vovk, Ruodu Wang
+#### Predictive and confidence regions in causal inference _(Vladimir Vovk, Ruodu Wang)_
 See [Talks A1](#talks-a1).
 
 #### Jessica Dai, Nika Haghtalab, Brian W. Lee
