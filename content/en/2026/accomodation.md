@@ -1,5 +1,5 @@
 ---
-title: "Accomodation"
+title: "Accommodation"
 menus:
   main-2026:
     weight: 200
