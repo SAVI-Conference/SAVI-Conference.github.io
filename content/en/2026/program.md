@@ -476,8 +476,15 @@ See also [Posters D](#posters-d).
 
 See also [Posters D](#posters-d).
 
-#### Damjan Vukcevic
-> _abstract tba_
+#### Verifying Elections with Adaptively Weighted Test Supermartingales _(Alexander Ek)_
+Joint work with Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic.
+
+> An increasingly important part of trustworthy elections is the risk-limiting audit (RLA): a statistical audit that efficiently confirms the reported outcome when it is correct or with high probability corrects the reported outcome if it is incorrect. An election audit is risk-limiting if the chance it fails to correct a wrong electoral outcome is at most a pre-specified limit.
+> 
+> We present recent advances in RLAs for instant-runoff voting (IRV), a ranked-choice system used in Australia, USA, and other countries. To test that the reported outcome is wrong, we need a composite hypothesis written as a union of \(O(k!)\) intersections of \(O(2^k)\) simple hypotheses when there are \(k\) candidates. Prior work addressed this by pre-selecting a subset of the simple hypotheses covering all unions. While this eliminates multiplicity, it necessitates reliable estimates of the votes cast. Instead, we use predictably weighted averages of adaptive test supermartingales, removing the need for pre-selection entirely. We call this the Adaptively Weighted Audits of Instant-Runoff Elections (AWAIRE) framework.
+> 
+> This work involves new statistical and computational methods in sequential anytime-valid inference. Naively testing all simple hypotheses is intractable when \(k > 6\). We take advantage of the tree structure of the tally algorithm to start by testing a few simple hypotheses, adaptively adding more as needed to confirm the results, using branch-and-bound to prune the search space. This makes it feasible to audit contests with more than 50 candidates. The approach may be useful in other situations where the null hypothesis can be expressed as a union of intersections of simple hypotheses.
+
 
 See also [Posters D](#posters-d).
 
@@ -525,7 +532,7 @@ See also [Posters D](#posters-d).
 #### Sebastian Arnold*, Yo Joong (YJ) Choe*, Marco Scarsini, Ilia Tsetlin (*Equal contribution.)
 See [Talks D3](#talks-d3).
 
-#### Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic
+#### Verifying Elections with Adaptively Weighted Test Supermartingales _(Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic)_
 See [Talks D3](#talks-d3).
 
 #### Diego Martinez-Taboada, Aaditya Ramdas
