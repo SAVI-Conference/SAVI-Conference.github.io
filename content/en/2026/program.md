@@ -415,9 +415,6 @@ See also [Posters D](#posters-d).
 #### Udo Boehm, Wouter Koolen, and Peter Grunwald
 > _abstract tba_
 
-#### Ben Chugg, Etienne Gauthier, Michael I. Jordan, Aaditya Ramdas, Ian Waudby-Smith
-> _abstract tba_
-
 #### Angel Reyero Lobo, Sebastian Arias, Michele Meziu
 > _abstract tba_
 
