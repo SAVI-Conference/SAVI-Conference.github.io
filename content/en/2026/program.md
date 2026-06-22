@@ -191,9 +191,7 @@ menus:
 
 See also [Posters A](#posters-a).
 
-#### Predictive and confidence regions in causal inference _(Vladimir Vovk)_
-Joint work with Ruodu Wang.
-
+#### Predictive and confidence regions in causal inference _(Vladimir Vovk (Speaker), Ruodu Wang)_
 > We extend conformal e-prediction to design an algorithm for producing prediction sets in causal inference. Our algorithm works in the cases covered by the back-door criterion and those covered by the front-door criterion. However, its weakness is that it assumes that the training set is IID, or at least not too far from being IID, in some sense. In particular, our algorithm is not directly applicable in the setting of sequential decision making. To deal with this setting, we apply SAVI methods based on the law of the iterated algorithm to find explicit confidence intervals and confidence sequences. Once we have confidence intervals, we can use them to derive prediction sets; even if these prediction sets are less efficient for an IID training set, they are applicable in highly non-IID settings such as that of sequential decision making.
 
 See also [Posters A](#posters-a).
@@ -232,8 +230,8 @@ See also [Posters B](#posters-b).
 
 See also [Posters B](#posters-b).
 
-#### Sohom Mukherjee
-> _abstract tba_
+#### Bet on Features: Anytime-Valid and Feature-Aware Auditing of Conditional Quantile Forecasters _(Ivane Antonov* (Speaker), Sohom Mukherjee*, Richard Pibernik, Yo Joong Choe)_
+> Black-box conditional quantile forecasts are widely used for sequential decisions under asymmetric costs, such as inventory planning in supply chain management. Once deployed, such forecasters must be monitored continuously as data streams drift and regimes change; this invalidates standard, fixed-horizon backtests for calibration. Further, existing backtests do not take into account that the notion of calibration is, in fact, information-dependent: forecasts can look calibrated to an auditor with coarse information while being miscalibrated to an auditor with richer information. We develop a distribution-free and game-theoretic testing framework for continuously auditing black-box conditional quantile forecasters with non-i.i.d. losses, such that the resulting evidence process is powerful against predictably chosen alternatives specified by the features available to the auditor. We first formalize notions of conditional quantile calibration when different sets of features are available to the auditor, establishing that the coarseness of the auditor's information set determines the hardness of the testing problem. We then identify the sets of alternatives for which the auditor can achieve power, and focusing on contextual bets linear in the features, we derive finite-time detection guarantees for such alternatives, all without an i.i.d. assumption. The resulting evidence processes are interpretable at the feature level, as they quantify fine-grained, “feature-aware” evidence for miscalibration. We empirically validate these methods on simulated and real data, finding that a popular time series forecaster (Chronos-2) is highly miscalibrated w.r.t. multiple relevant features.
 
 See also [Posters B](#posters-b).
 
@@ -366,7 +364,7 @@ See [Talks A3](#talks-a3).
 #### Valentin Kilian, Stefano Cortinovis, François Caron
 See [Talks A3](#talks-a3).
 
-#### Sohom Mukherjee, Ivane Antonov, Richard Pibernik, Yo Joong Choe
+#### Features: Anytime-Valid and Feature-Aware Auditing of Conditional Quantile Forecasters _(Ivane Antonov*, Sohom Mukherjee*, Richard Pibernik, Yo Joong Choe)_
 See [Talks A3](#talks-a3).
 
 #### Larsson, Ramdas, Ruf
@@ -393,7 +391,7 @@ See [Talks B2](#talks-b2).
 
 See also [Posters C](#posters-c).
 
-#### Time-sensitive anytime-valid testing _(Eugenio Clerico; joint work with Tobias Wegel, Iskander Azangulov, and Patrick Rebeschini)_
+#### Time-sensitive anytime-valid testing _(Eugenio Clerico (Speaker), Iskander Azangulov, and Patrick Rebeschini)_
 > Abstract: Anytime-valid tests allow evidence to be checked during data collection: one can either continue testing or stop and reject the null while still controlling type-I error. Yet, in many applications rejection is useful only if it comes soon enough. We introduce a time-sensitive testing-by-betting framework that favours early rejection by assigning rewards to rejection times and maximising their expected value under a given alternative. This encompasses hard deadlines and softer time preferences. The resulting optimal control problem admits a Bellman representation in terms only of time and evidence against the null, rather than the full history. For hard deadlines,  the simple-vs-simple case reduces to a finite-horizon Neyman-Pearson problem, with a corresponding optimal e-process. Furthermore, we show that exponentially decaying rewards admit a stationary approximation, yielding the exponential-decay-optimal (EDO) criterion: a finite-time-scale counterpart to the classical growth-rate-optimal (GRO) viewpoint in anytime-valid statistics, with the GRO criterion recovered in the large-time-scale limit.
 
 See also [Posters D](#posters-d).
@@ -406,8 +404,8 @@ See also [Posters D](#posters-d).
 #### Rémy Degenne, Gaëtan Serré
 > _abstract tba_
 
-#### Hongjian Wang
-> _abstract tba_
+#### M-estimation with e-statistics _(Hongjian Wang)_
+>  We present a theory of point estimation with e-statistics (e-values and e-processes) by introducing the “ME-estimator”: the parameter that minimizes the corresponding e-statistic, or the evidence against it. Our approach is based on the intuitive idea of e-statistics as a measure of evidence and betting pay-off, and naturally generalizes the classical method of maximum likelihood estimation. First, we establish the consistency as well as the almost sure convergence rate for ME-estimators relating to the high-probability bounds on the size of the confidence set derived from thresholding the e-statistics, an approach that sets ME-estimators apart from traditional M-estimators. Second, we conduct classical M-estimator-style analysis on the consistency and asymptotic normality of ME-estimators in the bounded mean estimation setting, discussing the notion of efficiency (or lack thereof) from various choices of betting strategy. Our work brings e-statistics, a fundamental tool for inference and uncertainty quantification, to the space of estimation. 
 
 #### Dante de Roos, Peter Grünwald, Sebastian Arnold
 > _abstract tba_
@@ -475,9 +473,7 @@ See also [Posters D](#posters-d).
 
 See also [Posters D](#posters-d).
 
-#### Verifying Elections with Adaptively Weighted Test Supermartingales _(Alexander Ek)_
-Joint work with Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic.
-
+#### Verifying Elections with Adaptively Weighted Test Supermartingales _(Alexander Ek (Speaker), Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic)_
 > An increasingly important part of trustworthy elections is the risk-limiting audit (RLA): a statistical audit that efficiently confirms the reported outcome when it is correct or with high probability corrects the reported outcome if it is incorrect. An election audit is risk-limiting if the chance it fails to correct a wrong electoral outcome is at most a pre-specified limit.
 > 
 > We present recent advances in RLAs for instant-runoff voting (IRV), a ranked-choice system used in Australia, USA, and other countries. To test that the reported outcome is wrong, we need a composite hypothesis written as a union of \(O(k!)\) intersections of \(O(2^k)\) simple hypotheses when there are \(k\) candidates. Prior work addressed this by pre-selecting a subset of the simple hypotheses covering all unions. While this eliminates multiplicity, it necessitates reliable estimates of the votes cast. Instead, we use predictably weighted averages of adaptive test supermartingales, removing the need for pre-selection entirely. We call this the Adaptively Weighted Audits of Instant-Runoff Elections (AWAIRE) framework.
@@ -498,8 +494,8 @@ See also [Posters D](#posters-d).
 > 
 > Extensive simulations confirm that the formula is accurate to within 0.5% across clinically realistic parameter values. To illustrate its relevance, we apply the results to several past clinical trials. We also supply several immediately applicable decision tools: a Phase III sample-size inflation factor, a calibrated go/no-go probability calculator, a cumulative-bias tracker for multi-arm multi-stage (MAMS) designs, and a dose-ranging optimizer aligned with the objectives of Project Optimus.
 
-#### Joren Brunekreef, Renee Menezes, Rianne de Heide
-> _abstract tba_
+#### Anytime-valid log-rank testing for randomised trials _(Joren Brunekreef, Renee Menezes, Rianne de Heide)_
+> Anytime-valid (AV) log-rank tests allow continuous monitoring of survival trials with Type-I control under optional stopping and continuation. However, their practical deployment is less explored. We characterise the fixed-\(\delta\) AV log-rank by simulations across representative trial designs, varying the design and true hazard ratios. Anytime-validity admits unrestricted stopping, so performance is measured via “power-over-time”: the rejection probability by each follow-up moment, extending classical fixed-\(n\) power. Under simple stopping rules, the AV log-rank’s power-over-time approaches the classical fixed-\(n\) power at the design horizon and can exceed it under continuation. We deploy the framework retrospectively on a real randomised trial with patient-level data, where a cohort-complete construction produces a calendar-date announcement directly comparable to the trial’s analysis cutoff.
 
 #### Judith ter Schure
 > _abstract tba_
@@ -516,8 +512,8 @@ See also [Posters D](#posters-d).
 #### Yongxi Long, Alexander Ly, Nikos Ignatiadis, Jelle Goeman, Peter Grünwald, Erik van Zwet
 > _abstract tba_
 
-#### Stan Koobs, Nick Koning
-> _abstract tba_
+#### Equivalence testing with data-dependent and post-hoc equivalence margins _(Stan Koobs, Nick Koning)_
+> We consider the problem of assessing whether an unknown quantity \(\mu \geq 0\) is negligible. This is classically treated as a testing problem, comparing the hypothesis that \(\mu\) is larger than some “margin” \(\Delta\) against the alternative that it is smaller: negligible. A longstanding problem is that this margin must be specified in advance, but many applications do not admit a single natural margin below which \(\mu\) is negligible. Our conceptual contribution is to reason backwards from a stylized application to argue that one should not treat this as a testing problem, unless a natural margin is available. Our methodological contribution is to propose reporting a data-dependent margin \(\widehat{\Delta}_\alpha\), that bounds \(\mu\) with probability \(1 - \alpha\). We generalize this to a curve of margins \(\alpha \mapsto \widehat{\Delta}_\alpha\), uniformly valid under the post-hoc selection of the margin. These rely on e-values, and our technical contribution is to derive such e-values for models that are strictly totally positive of order 3, nesting the classical z-test and t-test settings.
 
 #### Alexander Ly, Sebastian Arias, Sebastian Arnold, Udo Boehm, Stephan Bongers, Michele Meziu, Angel Reyero Lobo, Dante de Roos, Meike Steinhilber, Yongqi Wang, and Peter Grünwald
 > _abstract tba_
