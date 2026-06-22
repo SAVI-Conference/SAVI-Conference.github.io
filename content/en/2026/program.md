@@ -184,6 +184,14 @@ menus:
 - **Friday:** Foundations of anytime-valid inference and future directions
 
 
+## Printing Posters
+Posters can be printed at the [University of Twente Xerox shop](https://utwente.nl/xerox). Send an email with your poster as pdf to xeroxcarre@utwente.nl. Xerox has indicated that they are very busy in the week before and during the conference, so it can take a few days for a poster to be processed and printed. Xerox is situated in the building Carré and is open from 9:15 AM -- 1 PM and 1:30 PM -- 4:30 PM on Weekdays.
+
+A second option is [T-point print](https://www.t-pointprint.nl/) which is a 15 minute walk from the venue. They are open weekdays 8 AM -- 5:45 PM and advertise with fast turn around time. You can send your poster to info@t-pointprint.nl.
+
+In either case we strongly recommend checking with the shop to ensure that your poster will be ready on time.
+
+
 ## Abstracts
 ### Talks A1
 #### Etienne Gauthier
