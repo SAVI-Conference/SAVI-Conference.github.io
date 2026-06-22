@@ -327,7 +327,7 @@ See also [Posters C](#posters-c).
 
 See also [Posters C](#posters-c).
 
-#### Vikas Deep
+#### Shubhada Agrawal
 > _abstract tba_
 
 See also [Posters C](#posters-c).
@@ -424,7 +424,7 @@ See also [Posters D](#posters-d).
 #### Sam van Meer, Nick W. Koning
 See [Talks B3](#talks-b3).
 
-#### Vikas Deep, Shubhada Agarwal
+#### Vikas Deep, Shubhada Agrawal
 See [Talks B3](#talks-b3).
 
 #### Dante de Roos, Peter Grünwald
@@ -558,6 +558,7 @@ See [Talks D1](#talks-d1).
 
 ## List of Participants
 - Shubhada Agrawal
+- Demissie Alemayehu
 - Liviu Aolaritei
 - Sebastian Arias
 - Sebastian Arnold
@@ -573,7 +574,6 @@ See [Talks D1](#talks-d1).
 - Eugenio Clerico
 - Gert de Cooman
 - Fabian Damken
-- Vikas Deep
 - Rabanus Derr
 - Guneet Dhillon
 - Alexander Ek
@@ -612,6 +612,7 @@ See [Talks D1](#talks-d1).
 - Antoine Scheid
 - Gaëtan Serre
 - Anurag Singh
+- Martijn Sprokkereef
 - Yury Tavyrikov
 - Rovanos Tsafack Nzanguim
 - Adrienne Tuynman
@@ -620,6 +621,7 @@ See [Talks D1](#talks-d1).
 - Rajeev Verma
 - Vladimir Vovk
 - Qiuqi Wang
+- Ruodu Wang
 - Yongqi Wang
 - Jan-Lukas Wermuth
 - Redouane Yagouti
