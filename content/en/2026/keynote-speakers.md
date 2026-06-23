@@ -5,13 +5,6 @@ menus:
     weight: 10
 ---
 
-## Snigdha Panigrahi
-![](/2026/images/panigrahi.jpg)
-
-Snigdha Panigrahi is an Associate Professor of Statistics at the University of Michigan, where she also holds a courtesy appointment in the Department of Biostatistics. She received her PhD in Statistics from Stanford University in 2018 and has been a faculty member at Michigan since then.
-
-Her research focuses on converting purely predictive machine learning algorithms into principled inferential methods. By integrating tools from convex analysis, nonparametric theory and generative modeling, she develops novel inferential methods that advance explainable machine learning and trustworthy decision-making. She is an elected member of the International Statistical Institute, and her work has been recognized with an NSF CAREER Award and the Bernoulli New Researcher’s Award. Her editorial service, past and present, includes Journal of Computational and Graphical Statistics, Bernoulli, and Journal of the Royal Statistical Society: Series B.
-
 
 ## Gergely Neu
 ![](/2026/images/neu.jpg)
@@ -30,6 +23,14 @@ He has done extensive research on the foundations of probability, and is mainly 
 ## Morgane Austern
 ![](/2026/images/austern.jpg)
 Morgane is an Assistant Professor of Statistics at Harvard University. She is also affiliated with the Center for Mathematical Sciences and Applications (CMSA) and the Applied Mathematics Department at Harvard. Sher earned her PhD in Statistics from Columbia University in 2019, where she worked under the supervision of Peter Orbanz and Arian Maleki. From 2019 to 2021, she held a postdoctoral research position at Microsoft Research New England. She received a Sloan Fellowship in 2026 and an NSF CAREER Award in 2025. In 2022, she was named a Kavli Fellow by the National Academy of Sciences.
+
+
+## Snigdha Panigrahi
+![](/2026/images/panigrahi.jpg)
+
+Snigdha Panigrahi is an Associate Professor of Statistics at the University of Michigan, where she also holds a courtesy appointment in the Department of Biostatistics. She received her PhD in Statistics from Stanford University in 2018 and has been a faculty member at Michigan since then.
+
+Her research focuses on converting purely predictive machine learning algorithms into principled inferential methods. By integrating tools from convex analysis, nonparametric theory and generative modeling, she develops novel inferential methods that advance explainable machine learning and trustworthy decision-making. She is an elected member of the International Statistical Institute, and her work has been recognized with an NSF CAREER Award and the Bernoulli New Researcher’s Award. Her editorial service, past and present, includes Journal of Computational and Graphical Statistics, Bernoulli, and Journal of the Royal Statistical Society: Series B.
 
 
 ## Victor H. de la Peña
