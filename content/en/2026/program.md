@@ -488,8 +488,8 @@ See also [Posters D](#posters-d).
 
 See also [Posters D](#posters-d).
 
-#### Stef Baas
-> _abstract tba_
+#### Adaptive clinical trials based on design-optimal e-values: Application to single-arm trials _(Stef Baas (Speaker), Joost van Rosmalen, Judith ter Schure)_
+> e-values are a promising method for adaptive clinical trials due to their anytime validity, facilitate repeated interim analyses, complex stopping rules, and valid inference under protocol deviations. The e-value literature focuses mostly on asymptotic optimality; however, sample sizes in clinical trials are often limited. To this end, we investigate e-value-based designs with finite-horizon optimality for single-arm multistage clinical trials with binary data (relevant in early-phase cancer trials). We use the betting interpretation of e-values to construct e-values that minimize the expected sample size, stopping for futility or efficacy with constraints on the minimum power. We construct these designs through constrained dynamic programming based on the currently observed e-value, the maximum sample size, and the pre-specified significance level. Using exact calculations, we show that, next to robustness, e-value-based designs can provide competitive operating characteristics to standard (non-)adaptive designs with and without futility stopping and outperform growth-rate-optimal e-values in finite samples. In addition, small e-values automatically indicate trial continuation is futile, e.g., an e-value of zero indicates the impossibility of an efficacy conclusion. Hence, e-value-based designs provide a viable alternative to the current state-of-the-art in single-arm binary trials, warranting extension to other adaptive clinical trial settings such as multi-arm multi-stage and response-adaptive designs.
 
 See also [Posters D](#posters-d).
 
@@ -562,7 +562,7 @@ See [Talks D3](#talks-d3).
 #### Michael Lindon, Nathan Kallus
 See [Talks D2](#talks-d2).
 
-#### Stef Baas, Joost van Rosmalen, Judith ter Schure
+#### Adaptive clinical trials based on design-optimal e-values: Application to single-arm trials _(Stef Baas, Joost van Rosmalen, Judith ter Schure)_
 See [Talks D2](#talks-d2).
 
 #### Peter Grünwald, partially based on joint work with, Ben Chugg, Aaditya Ramdas
