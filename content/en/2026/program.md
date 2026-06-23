@@ -526,8 +526,8 @@ See also [Posters D](#posters-d).
 #### Judith ter Schure
 > _abstract tba_
 
-#### Rianne de Heide
-> _abstract tba_
+#### E-values for early decisions in clinical trials _(Rianne de Heide, based in part on joint work with Nynke Luijten and Vincent van der Noort)_
+> This poster presents to projects of early phase clinical trials where an e-value based design provides an improvement in expected sample size with respect to the trials that are currently conducted in many medical trials. Firstly, we study combined pilot-definitive or feasibility-definitive trials. Rather than treating the pilot or feasibility study as separate from the main analysis, an e-process can be monitored during early recruitment, while preserving Type I error control. A paired binary-outcome example illustrates a vast sample size improvement. Ongoing work studies power, sample size, estimation, and confidence intervals under many diffent widely used settings. Secondly, we compare an e-value based single-arm phase-II design with Simon's optimal and minimax two-stage designs for binary response outcomes, such as used in the ongoing DRUP study (https://drupstudy.nl). The e-value based design uses two e-processes, one for efficacy and one for futility, and simulations indicate lower average stopping samples sizes than Simon's designs in relevant clinical settings. Ongoing work studies optimal e-values for this setting and a real-world application in oncology.
 
 #### Anurag Singh, Rajeev Verma, Julian Rodemann, Siu Lun Chau, Krikamol Muandet
 > _abstract tba_
