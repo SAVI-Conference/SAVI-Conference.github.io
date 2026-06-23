@@ -23,14 +23,14 @@ menus:
             <tr>
                 <th scope="row" class="full-hour">09:00</th>
                 <td class="mon opening">Opening</td>
-                <td rowspan="4" class="tue keynote"><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#snigdha-panigrahi">Snigdha Panigrahi</a></td>
+                <td rowspan="4" class="tue keynote"><span class="keynote-txt">Keynote</span><a href="#snigdha-panigrahi">Snigdha Panigrahi</a></td>
                 <td rowspan="4" class="wed talks"><a href="#talks-c1">Talks C1</a></td>
-                <td rowspan="4" class="thu keynote"><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#gert-de-cooman">Gert de Cooman</a></td>
-                <td rowspan="4" class="fri keynote"><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#victor-h-de-la-peña">Victor H. de la Peña</a></td>
+                <td rowspan="4" class="thu keynote"><span class="keynote-txt">Keynote</span><a href="#gert-de-cooman">Gert de Cooman</a></td>
+                <td rowspan="4" class="fri keynote"><span class="keynote-txt">Keynote</span><a href="#victor-h-de-la-peña">Victor H. de la Peña</a></td>
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
-                <td rowspan="4" class="mon keynote"><span class="time-info">ca. 09:15</span><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#gergely-neu">Gergely Neu</a></td>
+                <td rowspan="4" class="mon keynote"><span class="time-info">ca. 09:15</span><span class="keynote-txt">Keynote</span><a href="#gergely-neu-online-to-x-conversions-a-recipe-for-algorithmic-statistics">Gergely Neu</a></td>
             </tr>
             <tr>
                 <th scope="row" class="half-hour">09:30</th>
@@ -71,7 +71,7 @@ menus:
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
-                <td rowspan="4" class="wed keynote"><span class="time-info">ca. 11:45</span><span class="keynote-txt">Keynote</span><a href="../keynote-speakers#morgane-austern">Morgane Austern</a></td>
+                <td rowspan="4" class="wed keynote"><span class="time-info">ca. 11:45</span><span class="keynote-txt">Keynote</span><a href="#morgane-austern">Morgane Austern</a></td>
             </tr>
             <tr>
                 <th scope="row" class="full-hour">12:00</th>
@@ -193,6 +193,23 @@ In either case we strongly recommend checking with the shop to ensure that your 
 
 
 ## Abstracts
+### Keynotes
+#### [Snigdha Panigrahi](../keynote-speakers#snigdha-panigrahi)
+> _abstract tba_
+
+#### [Gergely Neu](../keynote-speakers#gergely-neu) _(Online-to-X conversions: A recipe for algorithmic statistics)_
+> A recent line of work in mathematical statistics has uncovered a curious recipe for proving complex statistical claims via a decomposition into two parts: a “simple” statistical claim and a “more complex” claim that can be addressed using the theory of algorithms. This technique has been successfully used for addressing a variety of classic problems such as mean estimation, parameter-estimation of linear models, or generalization bounds for statistical learning theory. In this talk, I will survey some existing use cases and attempt to connect the dots by dreaming up a theory of “algorithmic statistics”.
+
+#### [Gert de Cooman](../keynote-speakers#gert-de-cooman)
+> _abstract tba_
+
+#### [Morgane Austern](../keynote-speakers#morgane-austern)
+> _abstract tba_
+
+#### [Victor H. de la Peña](../keynote-speakers#victor-h-de-la-peña)
+> _abstract tba_
+
+
 ### Talks A1
 #### Etienne Gauthier
 > _abstract tba_
