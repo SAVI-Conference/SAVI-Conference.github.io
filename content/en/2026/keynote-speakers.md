@@ -27,6 +27,11 @@ Gert de Cooman is a Senior Full Professor in Uncertainty Modelling and Systems S
 He has done extensive research on the foundations of probability, and is mainly interested in imprecise probabilities (IP)—or in other words: inference and decision-making with partially specified probabilities—where he’s made a number contributions throughout the years (related to coherence, lower previsions, sets of desirable gambles, independence, exchangeability, predictive inference, algorithmic randomness, Markov chains, game-theoretic probability, laws of large numbers, choice functions, quantum probability, …). He is a founding member and erstwhile president of [SIPTA](https://sipta.org/), the Society for Imprecise Probabilities: Theories and Applications, and is currently writing a book on the foundations of his favourite research field.
 
 
+## Morgane Austern
+![](/2026/images/austern.jpg)
+Morgane is an Assistant Professor of Statistics at Harvard University. She is also affiliated with the Center for Mathematical Sciences and Applications (CMSA) and the Applied Mathematics Department at Harvard. Sher earned her PhD in Statistics from Columbia University in 2019, where she worked under the supervision of Peter Orbanz and Arian Maleki. From 2019 to 2021, she held a postdoctoral research position at Microsoft Research New England. She received a Sloan Fellowship in 2026 and an NSF CAREER Award in 2025. In 2022, she was named a Kavli Fellow by the National Academy of Sciences.
+
+
 ## Victor H. de la Peña
 ![](/2026/images/de-la-pena.jpg)
 Victor H. de la Peña is Professor of Statistics at Columbia University, where he has served on the faculty since 1988. A Medallion Lecturer and elected Fellow of the Institute of Mathematical Statistics, he is one of the founding architects of decoupling theory and self-normalization in probability.
