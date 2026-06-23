@@ -41,4 +41,5 @@ params:
       follow:
         networks:
           - email
+    show_recent_posts: false
   math: true

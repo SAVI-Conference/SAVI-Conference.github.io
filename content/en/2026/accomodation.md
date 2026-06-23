@@ -3,6 +3,7 @@ title: "Accommodation"
 menus:
   main-2026:
     weight: 200
+home_order: 300
 ---
 
 SAVI 2026 will take place in the [U Parkhotel](https://www.uparkhotel.nl/), conveniently located on the campus of the [University of Twente](https://www.utwente.nl/). The UPark hotel has rooms available for a reduced rate (including breakfast):

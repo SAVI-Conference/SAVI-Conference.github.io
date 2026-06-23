@@ -3,6 +3,7 @@ title: "Getting Around"
 menus:
   main-2026:
     weight: 300
+home_order: 600
 ---
 
 As you probably know, the main form of transport in the Netherlands is biking. However, most cities and especially Enschede and the campus of the University of Twente are walkable and for larger distances, using public transport is the recommended form of travel. The process of using public transport here is generally simple: search for a connection using [9292](https://9292.nl/), check in when boarding your ride, and enjoy the travel.

@@ -3,6 +3,7 @@ title: "Program"
 menus:
   main-2026:
     weight: 5
+home_order: 100
 ---
 
 > Preliminary, expect changes!

@@ -3,6 +3,7 @@ title: "Organization"
 menus:
   main-2026:
     weight: 300
+home_order: 400
 ---
 
 Local Organizers:

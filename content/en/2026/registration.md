@@ -3,6 +3,7 @@ title: "Registration"
 menus:
   main-2026:
     weight: 250
+home_order: 500
 ---
 
 The registration for SAVI 2026 has now been opened!
