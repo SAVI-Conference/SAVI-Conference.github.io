@@ -305,6 +305,9 @@ See [Talks A2](#talks-a2).
 #### Nick Koning, Sam van Meer
 See [Talks A2](#talks-a2).
 
+#### Parameter-Free and Group Conditional Online Conformal Prediction _(Beepul Bharti)_
+> Uncertainty quantification (UQ) is critical for the deployment of machine learning predictors in real-world scenarios where the data distribution may shift over time (i.e., data may not be exchangeable). Online conformal prediction (OCP) methods address this issue at the expense of either (i) group-wise error control or (ii) learning-rate independent implementation. Group-conditional coverage is essential for fairness across different collections of data points and for providing finer UQ guarantees. Parameter-free optimization is crucial for robustness to adversarial and unknown data shifts. We propose a parameter-free algorithm for group-conditional OCP and demonstrate that it achieves the best group-conditional coverage guarantees. We evaluate our algorithm on synthetic and real-world data, demonstrating that our method not only improves the reliability of existing parameter-free OCP methods but also provides prediction intervals that are comparable in size to well-tuned group-conditional approaches. By unifying group-conditional coverage with parameter-free online algorithms, our work lays a foundation for fair and robust uncertainty quantification in shifting environments.
+
 
 ### Talks B1
 #### Johahnes Ruf
