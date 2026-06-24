@@ -475,8 +475,8 @@ See also [Posters D](#posters-d).
 
 See also [Posters D](#posters-d).
 
-#### Timothée Mathieu
-> _abstract tba_
+#### Optimal Posterior E-values with Non-Convex Parameter Sets and Applications to Voting Systems _(Timothée Mathieu (Speaker), Adrienne Tuynman)_
+> In this talk, I present our work on using e-values for sequential testing to identify a preference-feedback winner (e.g. Condorcet, Borda, …). The practical motivation of our work is political polls, in which one wants to identify (or test for) the winner while collecting as few samples as possible. This setting led us to consider posterior optimal e-variables, defined as a generalisation of the GRO e-variable to composite \(H_1\), using a Bayesian prior on the alternative. We provide a Frank Wolfe algorithm that computes the Reverse Information Projection for non-convex parameter sets, which helps us to compute this e-variable. Finally, we give theoretical guarantees and practical illustrations of the power and sample complexity of the associated testing methods.
 
 See also [Posters D](#posters-d).
 
@@ -574,7 +574,7 @@ See [Talks D1](#talks-d1).
 #### Ben Chugg
 See [Talks D1](#talks-d1).
 
-#### Timothée Mathieu, Adrienne Tuynman
+#### Optimal Posterior E-values with Non-Convex Parameter Sets and Applications to Voting Systems _(Timothée Mathieu, Adrienne Tuynman)_
 See [Talks D1](#talks-d1).
 
 #### Dennis Oestmann, Thorsten Dickhaus
