@@ -24,7 +24,7 @@ home_order: 100
             <tr>
                 <th scope="row" class="full-hour">09:00</th>
                 <td class="mon opening">Opening</td>
-                <td rowspan="4" class="tue keynote"><span class="keynote-txt">Keynote</span><a href="#snigdha-panigrahi">Snigdha Panigrahi</a></td>
+                <td rowspan="4" class="tue keynote"><span class="keynote-txt">Keynote</span><a href="#snigdha-panigrahi-flexible-selective-inference-with-conditional-validity">Snigdha Panigrahi</a></td>
                 <td rowspan="4" class="wed talks"><a href="#talks-c1">Talks C1</a></td>
                 <td rowspan="4" class="thu keynote"><span class="keynote-txt">Keynote</span><a href="#gert-de-cooman">Gert de Cooman</a></td>
                 <td rowspan="4" class="fri keynote"><span class="keynote-txt">Keynote</span><a href="#victor-h-de-la-peña">Victor H. de la Peña</a></td>
@@ -195,8 +195,10 @@ In either case we strongly recommend checking with the shop to ensure that your 
 
 ## Abstracts
 ### Keynotes
-#### [Snigdha Panigrahi](../keynote-speakers#snigdha-panigrahi)
-> _abstract tba_
+#### [Snigdha Panigrahi](../keynote-speakers#snigdha-panigrahi) _(Flexible selective inference with conditional validity)_
+> When the same dataset is used both to select a model or parameters and to perform inference, naïve tests and interval estimates can be severely misleading. Data carving offers a principled way to reuse the data, conditioning on the event that the model was selected and basing inference on the resulting conditional distribution. In practice, however, data carving has been notoriously difficult to use. Existing methods require an analytic characterization of the selection event, which is available only for certain selection procedures and often requires highly selection-specific derivations. This raises the question: can we still provide selective inference through data carving without ever requiring an analytic description of the selection event?
+> 
+> In this talk, I will present two new approaches to selective inference that accomplish exactly this. These methods: (i) enable conditional inference without requiring an analytic description of the selection event, (ii) avoid trading selection quality for inferential power, unlike data splitting approaches, and (iii) eliminate the unnecessary conditioning that limits many existing approaches.
 
 #### [Gergely Neu](../keynote-speakers#gergely-neu) _(Online-to-X conversions: A recipe for algorithmic statistics)_
 > A recent line of work in mathematical statistics has uncovered a curious recipe for proving complex statistical claims via a decomposition into two parts: a “simple” statistical claim and a “more complex” claim that can be addressed using the theory of algorithms. This technique has been successfully used for addressing a variety of classic problems such as mean estimation, parameter-estimation of linear models, or generalization bounds for statistical learning theory. In this talk, I will survey some existing use cases and attempt to connect the dots by dreaming up a theory of “algorithmic statistics”.
