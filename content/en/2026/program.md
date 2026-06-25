@@ -286,9 +286,6 @@ See also [Posters B](#posters-b).
 #### Justin Whitehouse, Zhiwei Steven Wu, Aaditya Ramdas
 > _abstract tba_
 
-#### Alhad Sethi, Kavali Sofia Sagar, Shubhada Agrawal, P. N. Karthik, Debabrota Basu
-> _abstract tba_
-
 #### Etienne Gauthier, Francis Bach, Michael I. Jordan
 See [Talks A1](#talks-a1).
 
@@ -384,9 +381,6 @@ See also [Posters C](#posters-c).
 > _abstract tba_
 
 #### Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus
-> _abstract tba_
-
-#### Alhad Sethi, Kavali Sofia Sagar, Shubhada Agrawal, Debabrota Basu, P. N. Karthik
 > _abstract tba_
 
 #### Liviu Aolaritei, Michael I. Jordan
