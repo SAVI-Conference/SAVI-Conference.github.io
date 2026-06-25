@@ -275,8 +275,8 @@ See also [Posters B](#posters-b).
 #### Guneet S. Dhillon, Javier González, Teodora Pandeva, Alicia Curth
 > _abstract tba_
 
-#### Ricardo J. Sandoval, Ian Waudby-Smith, Michael I. Jordan
-> _abstract tba_
+#### Multi-Armed Sequential Hypothesis Testing by Betting _(Ricardo J. Sandoval, Ian Waudby-Smith, Michael I. Jordan)_
+> We consider a variant of sequential testing by betting where, at each time step, the statistician is presented with multiple data sources (arms) and obtains data by choosing one of the arms. We consider the composite global null hypothesis \(\mathcal{P}\) that _all_ arms are null in a certain sense (e.g. all dosages of a treatment are ineffective) and we are interested in rejecting \(\mathcal{P}\) in favor of a composite alternative \(\mathcal{Q}\) where _at least one_ arm is non-null (e.g. there exists an effective treatment dosage). We posit an optimality desideratum that we describe informally as follows: even if several arms are non-null, we seek \(e\)-processes and sequential tests  whose performance are as strong as the ones that have oracle knowledge about which arm generates the most evidence against \(\mathcal{P}\). Formally, we generalize notions of log-optimality and expected rejection time optimality to more than one arm, obtaining matching lower and upper bounds for both. A key technical device in this optimality analysis is a modified upper-confidence-bound-like algorithm for unobservable but sufficiently “estimable” rewards. In the design of this algorithm, we derive nonasymptotic concentration inequalities for optimal wealth growth rates in the sense of Kelly (1956). These may be of independent interest.
 
 #### Shubhada Agrawal, Aaditya Ramdas
 > _abstract tba_
