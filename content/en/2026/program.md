@@ -615,6 +615,7 @@ See [Talks D1](#talks-d1).
 - Nynke Luijten
 - Alexander Ly
 - Diego Martinez Taboada
+- Valentina Masarotto
 - Timothée Mathieu
 - Lorenz Matz
 - Michele Meziu
