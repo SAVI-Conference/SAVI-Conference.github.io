@@ -368,8 +368,8 @@ See also [Posters C](#posters-c).
 #### Beepul Bharti, Ambar Pal, Jeremias Sulam
 > _abstract tba_
 
-#### Eugenio Clerico, Sebastian Arnold
-> _abstract tba_
+#### Optimal e-variables for bounded mean testing under composite alternatives _(Eugenio Clerico, Sebastian Arnold)_
+> We derive the unique e-values with optimal (relative) growth rate in the worst-case for testing the mean of a bounded random variable, hereby contributing with the first application beyond the assumption of mutually absolutely continuous hypotheses of the (RE)GROW quality criteria for e-variables originally proposed by Grünwald et al. (2024). For both criteria, we characterise explicitly the alternatives for which it is most difficult to test against. These worst-case distributions admit a meaningful interpretation and reduce the original highly nonparametric problem to an associated Bernoulli model. We show that REGROW yields meaningful optimal e-variables, whereas GROW becomes trivial for one- and two-sided mean testing without a minimal effect size assumption. Our analysis relies on a result from convex analysis that represents worst-case expectations via convex minorants.
 
 #### Sebastian Arias, Peter Grünwald
 > _abstract tba_
@@ -432,8 +432,8 @@ See also [Posters D](#posters-d).
 #### M-estimation with e-statistics _(Hongjian Wang)_
 >  We present a theory of point estimation with e-statistics (e-values and e-processes) by introducing the “ME-estimator”: the parameter that minimizes the corresponding e-statistic, or the evidence against it. Our approach is based on the intuitive idea of e-statistics as a measure of evidence and betting pay-off, and naturally generalizes the classical method of maximum likelihood estimation. First, we establish the consistency as well as the almost sure convergence rate for ME-estimators relating to the high-probability bounds on the size of the confidence set derived from thresholding the e-statistics, an approach that sets ME-estimators apart from traditional M-estimators. Second, we conduct classical M-estimator-style analysis on the consistency and asymptotic normality of ME-estimators in the bounded mean estimation setting, discussing the notion of efficiency (or lack thereof) from various choices of betting strategy. Our work brings e-statistics, a fundamental tool for inference and uncertainty quantification, to the space of estimation. 
 
-#### Dante de Roos, Peter Grünwald, Sebastian Arnold
-> _abstract tba_
+#### Asymptotic REGROW e-variables for exponential families _(Dante de Roos, Peter Grünwald, Sebastian Arnold)_
+> Optimal e-variables for exponential families have recently been studied by Hao and Grünwald (Bernoulli, 2026). Extending their work, we study testing problems in which \(H_0\) and \(H_1\) are given as exponential families with a shared sufficient statistic. We extend the theory to the case where \(H_1\) is higher-dimensional than \(H_0\), covering the important setting of testing a parameter of interest in the presence of nuisance. We show that the loss in expected growth of a proposed conditional type of e-variable compared to the optimal “oracle” GRO is of order \((d/2) \mathrm{log}(n) + O(1)\) uniformly over the parameters with d denoting difference in dimensionality between null and alternative. This asymptotically optimal (“relative GROW”) rate is reminiscent of the classical BIC derivation from which we adapt several proof ideas; our setting is technically more challenging though through the presence of conditional likelihoods. 
 
 #### Udo Boehm, Wouter Koolen, and Peter Grunwald
 > _abstract tba_
