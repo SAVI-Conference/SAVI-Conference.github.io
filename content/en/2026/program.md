@@ -344,10 +344,10 @@ See also [Posters B](#posters-b).
 
 
 ### Talks B3
-#### Dante de Roos
-> _abstract tba_
+#### Uniform log-optimality and conditional likelihood ratios _(Dante de Roos)_
+> For exponential families, Hao et al. (2024) and Hao & Grünwald (2026) have proposed to use conditional likelihood ratios whenever the log-optimal (GRO) e-variable is hard to compute. Here, the conditioning variable is a nontrivial statistic that is sufficient for both the null and alternative hypotheses, and the resulting e-variable is approximately log-optimal. Inspired by their results, we study conditional likelihood ratios from a completely abstract perspective, and identify the cases where conditional likelihood ratios are log-optimal. Most notably, the null hypothesis can always, in some sense, be canonically extended, and the conditional likelihood ratio is \*uniformly\* log-optimal for testing this extended null against the alternative. This notion of optimality is stronger than (RE)GROW and, to the best of our knowledge, has been mostly overlooked in the literature. Many previously studied e-variables fit nicely into our framework, which demonstrates the conceptual strength of our theory.
 
-See also [Posters C](#posters-c).
+This talk does not have a poster.
 
 #### Sam van Meer
 > _abstract tba_
@@ -452,9 +452,6 @@ See also [Posters D](#posters-d).
 See [Talks B3](#talks-b3).
 
 #### Vikas Deep, Shubhada Agrawal
-See [Talks B3](#talks-b3).
-
-#### Dante de Roos, Peter Grünwald
 See [Talks B3](#talks-b3).
 
 #### Lorenz Matz, Hannes Leeb
