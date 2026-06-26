@@ -253,8 +253,8 @@ See also [Posters A](#posters-a).
 
 See also [Posters B](#posters-b).
 
-#### François Caron
-> _abstract tba_
+#### Bayes-Assisted Confidence Sequences for Bounded Means _(Valentin Kilian, Stefano Cortinovis, François Caron (Speaker))_
+> Confidence sequences based on test martingales provide time-uniform uncertainty quantification for the mean of bounded IID observations without parametric distributional assumptions. Their practical efficiency, however, depends strongly on the choice of martingale updates, and many existing constructions do not exploit prior information about plausible data-generating distributions or mean values. We propose a Bayes-assisted framework that uses a Bayesian working predictive model to adaptively construct confidence sequences. For each candidate mean and time point, the predictive distribution selects, among valid one-step martingale factors, the update maximising predictive expected log-growth; validity is therefore preserved even when the prior or working model is misspecified. We prove that if the predictive distribution is Wasserstein-consistent, the resulting procedure is asymptotically log-optimal, matching the per-sample log-growth of an oracle procedure with access to the true distribution.  We instantiate the framework using robust predictives based on Dirichlet-process mixtures and Bayesian exponentially tilted empirical likelihood. Experiments on synthetic data, sequential best-arm identification for LLM evaluation, and prediction-powered inference show that informative priors can substantially reduce confidence-sequence width and sampling effort while retaining anytime-valid coverage.
 
 See also [Posters B](#posters-b).
 
@@ -386,7 +386,7 @@ See also [Posters C](#posters-c).
 #### Liviu Aolaritei, Michael I. Jordan
 See [Talks A3](#talks-a3).
 
-#### Valentin Kilian, Stefano Cortinovis, François Caron
+#### Bayes-Assisted Confidence Sequences for Bounded Means _(Valentin Kilian, Stefano Cortinovis, François Caron)_
 See [Talks A3](#talks-a3).
 
 #### Features: Anytime-Valid and Feature-Aware Auditing of Conditional Quantile Forecasters _(Ivane Antonov*, Sohom Mukherjee*, Richard Pibernik, Yo Joong Choe)_
@@ -586,7 +586,7 @@ See [Talks D1](#talks-d1).
 - Stephan Bongers
 - Bastiaan Braams
 - Joren Brunekreef
-- Francois Caron
+- François Caron
 - Yo Joong Choe
 - Ben Chugg
 - Eugenio Clerico
