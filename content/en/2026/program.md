@@ -473,8 +473,12 @@ See also [Posters D](#posters-d).
 
 See also [Posters D](#posters-d).
 
-#### Dennis Oestmann
-> _abstract tba_
+#### SSBBs: A method for determining the sample size when E-Backtesting the Expected Shortfall _(Dennis Oestmann (Speaker), Thorsten Dickhaus)_
+> This talk presents an approach for determining sample sizes required to detect underestimations of the Expected Shortfall with a prescribed power when applying the SAVI-based backtesting procedure introduced by Wang et al. in their recent paper “E-Backtesting”.
+> 
+> We consider scenarios in which the Value-at-Risk at level \(p\) is always estimated correctly, while the difference between the true Expected Shortfall and Value-at-Risk is underestimated by a given factor \(r\). We show that exploiting the structure of the backtest e-statistic \(\mathrm{max} \{ 0, x - z \} / (1 - p) / (r - z)\), proposed for backtesting the Expected Shortfall at level \(p\), enables the derivation of approximate lower bounds for the required sample sizes by considering a simple sequence of i.i.d. Bernoulli-distributed random variables.
+> 
+> We also discuss potential limitations of this approximation and compare the resulting sample size requirements with those obtained in practical applications using Monte Carlo simulations.
 
 See also [Posters D](#posters-d).
 
@@ -570,7 +574,7 @@ See [Talks D1](#talks-d1).
 #### Optimal Posterior E-values with Non-Convex Parameter Sets and Applications to Voting Systems _(Timothée Mathieu, Adrienne Tuynman)_
 See [Talks D1](#talks-d1).
 
-#### Dennis Oestmann, Thorsten Dickhaus
+#### SSBBs: A method for determining the sample size when E-Backtesting the Expected Shortfall _(Dennis Oestmann (Speaker), Thorsten Dickhaus)_
 See [Talks D1](#talks-d1).
 
 
