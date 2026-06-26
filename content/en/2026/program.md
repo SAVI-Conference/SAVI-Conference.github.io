@@ -596,6 +596,7 @@ See [Talks D1](#talks-d1).
 - Rabanus Derr
 - Guneet Dhillon
 - Alexander Ek
+- Yixuan Fan
 - Etienne Gauthier
 - Jelle Goeman
 - Peter Grünwald
@@ -615,6 +616,7 @@ See [Talks D1](#talks-d1).
 - Valentina Masarotto
 - Timothée Mathieu
 - Lorenz Matz
+- Sam van Meer
 - Michele Meziu
 - Aurèle Mingam
 - Sohom Mukherjee
@@ -622,10 +624,13 @@ See [Talks D1](#talks-d1).
 - Dennis Oestmann
 - Snigdha Panigrahi
 - Victor H. de la Peña
+- Victor K. de la Peña
 - Georgii Potapov
+- Abed Razawy
 - Zhimei Ren
 - Angel David Reyero Lobo
 - Dante de Roos
+- Joost van Rosmalen
 - Johannes Ruf
 - Ricardo Sandoval
 - Antoine Scheid
@@ -635,8 +640,6 @@ See [Talks D1](#talks-d1).
 - Yury Tavyrikov
 - Rovanos Tsafack Nzanguim
 - Adrienne Tuynman
-- Dirk van der Hoeven
-- Sam van Meer
 - Rajeev Verma
 - Vladimir Vovk
 - Qiuqi Wang
