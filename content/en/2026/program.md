@@ -27,7 +27,7 @@ home_order: 100
                 <td rowspan="4" class="tue keynote"><span class="keynote-txt">Keynote</span><a href="#snigdha-panigrahi-flexible-selective-inference-with-conditional-validity">Snigdha Panigrahi</a></td>
                 <td rowspan="4" class="wed talks"><a href="#talks-c1">Talks C1</a></td>
                 <td rowspan="4" class="thu keynote"><span class="keynote-txt">Keynote</span><a href="#gert-de-cooman-views-from-the-border">Gert de Cooman</a></td>
-                <td rowspan="4" class="fri keynote"><span class="keynote-txt">Keynote</span><a href="#victor-h-de-la-peña">Victor H. de la Peña</a></td>
+                <td rowspan="4" class="fri keynote"><span class="keynote-txt">Keynote</span><a href="#victor-h-de-la-peña-from-decoupling-to-villes-equality-a-personal-history-of-foundational-inequalities-for-anytime-valid-inference">Victor H. de la Peña</a></td>
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
@@ -209,8 +209,8 @@ In either case we strongly recommend checking with the shop to ensure that your 
 #### [Morgane Austern](../keynote-speakers#morgane-austern)
 > _abstract tba_
 
-#### [Victor H. de la Peña](../keynote-speakers#victor-h-de-la-peña)
-> _abstract tba_
+#### [Victor H. de la Peña](../keynote-speakers#victor-h-de-la-peña) _(From Decoupling to Ville’s Equality: A Personal History of Foundational Inequalities for Anytime-Valid Inference)_
+> In this keynote I revisit, from a personal vantage point, the development of inequalities now foundational to anytime-valid inference. The first part begins with decoupling: by comparing dependent processes with their conditionally independent (tangent) counterparts, I obtained a first general class of exponential inequalities for self-normalized martingales. I then describe how pseudo-maximization, which extends Robbins’ method of mixtures, sharpened these (with M. J. Klass and T. L. Lai) into refined, time-uniform inequalities underlying modern confidence sequences and sequential tests. A recollection joins the two parts: around 1992, J. L. Doob suggested I turn to self-normalized inequalities, advice that shaped much of what followed. The second part, Beyond Wald’s Equation and the Optional Sampling Theorem to Ville’s Equality, extends Doob’s optional sampling theorem for martingales, charting a route from Wald’s equation for randomly stopped sums to Ville’s equality — a coherent foundation for inference that remains valid under optional stopping.
 
 
 ### Talks A1
