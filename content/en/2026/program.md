@@ -423,8 +423,8 @@ See also [Posters D](#posters-d).
 
 ### Posters C
 
-#### S. Bongers, P. Grünwald
-> _abstract tba_
+#### When generalized likelihood ratios are -- and are not -- e-processes _(Stephan Bongers, Peter Grünwald)_
+> Generalized likelihood ratios (GLRs) are among the most widely used tools for composite hypothesis testing. By replacing unknown nuisance parameters with their maximum likelihood estimates, they provide a natural and powerful way to accumulate evidence against the null hypothesis. Yet, despite their widespread use, GLRs are not automatically anytime-valid and need not form e-processes. We show that the behavior of the GLR in exponential families depends on the covariance ordering of the null and alternative. In one regime, the GLR is automatically an e-process; in the other, it generally is not. We introduce a calibrated GLR that restores e-process validity and often achieves substantially higher e-power than the sequential RIP and UI e-processes.
 
 #### Rémy Degenne, Gaëtan Serré
 > _abstract tba_
