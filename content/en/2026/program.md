@@ -26,7 +26,7 @@ home_order: 100
                 <td class="mon opening">Opening</td>
                 <td rowspan="4" class="tue keynote"><span class="keynote-txt">Keynote</span><a href="#snigdha-panigrahi-flexible-selective-inference-with-conditional-validity">Snigdha Panigrahi</a></td>
                 <td rowspan="4" class="wed talks"><a href="#talks-c1">Talks C1</a></td>
-                <td rowspan="4" class="thu keynote"><span class="keynote-txt">Keynote</span><a href="#gert-de-cooman">Gert de Cooman</a></td>
+                <td rowspan="4" class="thu keynote"><span class="keynote-txt">Keynote</span><a href="#gert-de-cooman-views-from-the-border">Gert de Cooman</a></td>
                 <td rowspan="4" class="fri keynote"><span class="keynote-txt">Keynote</span><a href="#victor-h-de-la-peña">Victor H. de la Peña</a></td>
             </tr>
             <tr>
@@ -203,8 +203,8 @@ In either case we strongly recommend checking with the shop to ensure that your 
 #### [Gergely Neu](../keynote-speakers#gergely-neu) _(Online-to-X conversions: A recipe for algorithmic statistics)_
 > A recent line of work in mathematical statistics has uncovered a curious recipe for proving complex statistical claims via a decomposition into two parts: a “simple” statistical claim and a “more complex” claim that can be addressed using the theory of algorithms. This technique has been successfully used for addressing a variety of classic problems such as mean estimation, parameter-estimation of linear models, or generalization bounds for statistical learning theory. In this talk, I will survey some existing use cases and attempt to connect the dots by dreaming up a theory of “algorithmic statistics”.
 
-#### [Gert de Cooman](../keynote-speakers#gert-de-cooman)
-> _abstract tba_
+#### [Gert de Cooman](../keynote-speakers#gert-de-cooman) _(Views from the border)_
+> For more than a decade now, there have been efforts to combine ideas from the fields of imprecise probabilities and game-theoretic probability. This has enriched both fields, but has also resulted in advances in stochastic processes (imprecise Markov chains) and algorithmic randomness (imprecise randomness). I want to argue that the connection can also help foster ideas in statistics, by drawing from imprecise probabilities, algorithmic randomness and robust statistics. My aim in the talk will be to focus on ideas rather than on the very technical details.
 
 #### [Morgane Austern](../keynote-speakers#morgane-austern)
 > _abstract tba_
