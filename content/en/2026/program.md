@@ -359,8 +359,8 @@ See also [Posters C](#posters-c).
 See also [Posters C](#posters-c).
 
 ### Posters B
-#### Rovanos Tsafack Nzanguim, Aurele Mingam, Jelle Goeman, Rianne de Heide
-> _abstract tba_
+#### Permutation-Based FDR Control via the e-Closure Principle _(Rovanos Tsafack Nzanguim, Aurele Mingam, Jelle Goeman, Rianne de Heide)_
+> While permutation methods are widely used for constructing valid p-values under dependence, there is currently no general approach for controlling the false discovery rate within the permutation framework. We address this gap by combining permutation based p-values with the e-closure principle to obtain a procedure that controls the false discovery rate at a prescribed level \(\alpha\). We consider testing problems for which the data is permutation-invariant under the joint null hypothesis and we compute the raw p-values for each permuted data set. These marginal p-values are then merged using Simes’ merging function and the corresponding global p-values are computed. The global p-values are thus transformed into global e-values using the SU calibrator and incorporated into the e-closure procedure.
 
 #### Aurele Mingam, Rovanos Tsafack Nzanguim, Rianne de Heide, Jelle Goeman
 > _abstract tba_
