@@ -509,8 +509,8 @@ See also [Posters D](#posters-d).
 
 See also [Posters D](#posters-d).
 
-#### Diego Martinez-Taboada
-> _abstract tba_
+#### On vector-valued self-normalized concentration inequalities _(Diego Martinez Taboada (Speaker), Tomas Gonzalez, Aaditya Ramdas)_
+> The study of self-normalized processes plays a crucial role in a wide range of applications, from sequential decision-making to econometrics. While the behavior of self-normalized concentration has been widely investigated for scalar-valued processes, vector-valued processes remain comparatively underexplored, especially outside of the sub-Gaussian framework. We provide concentration bounds for self-normalized processes with light tails beyond sub-Gaussianity (such as Bennett or Bernstein bounds), and we illustrate the relevance of our results in the context of online linear regression.
 
 See also [Posters D](#posters-d).
 
@@ -556,7 +556,7 @@ See [Talks D3](#talks-d3).
 #### Verifying Elections with Adaptively Weighted Test Supermartingales _(Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic)_
 See [Talks D3](#talks-d3).
 
-#### Diego Martinez-Taboada, Aaditya Ramdas
+#### On vector-valued self-normalized concentration inequalities _(Diego Martinez Taboada (Speaker), Tomas Gonzalez, Aaditya Ramdas)_
 See [Talks D3](#talks-d3).
 
 #### Michael Lindon, Nathan Kallus
