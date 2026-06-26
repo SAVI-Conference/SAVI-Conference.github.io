@@ -229,8 +229,8 @@ See also [Posters A](#posters-a).
 
 See also [Posters A](#posters-a).
 
-#### Jan-Lukas Wermuth
-> _abstract tba_
+#### Sequentially Valid Forecast Comparisons _(Timo Dimitriadis, Jan-Lukas Wermuth (Speaker), Johanna Ziegel)_
+> Time series forecasting and its evaluation are inherently sequential. However, their classical comparison via the Diebold–Mariano test is valid only for fixed evaluation horizons and does not allow for continuous monitoring. We develop sequentially valid inference on forecast performance for general, potentially unbounded loss differentials in multi-step-ahead forecasting based on asymptotic confidence sequences. These confidence sequences provide asymptotic coverage guarantees uniformly over time, thereby enabling online monitoring and tracking of loss differentials while permitting data peeking. We document the favorable finite-sample properties of our procedure in simulations and demonstrate their practical relevance in an application to volatility forecasting.
 
 See also [Posters A](#posters-a).
 
@@ -295,7 +295,7 @@ See [Talks A1](#talks-a1).
 #### Jessica Dai, Nika Haghtalab, Brian W. Lee
 See [Talks A1](#talks-a1).
 
-#### Timo Dimitriadis, Jan-Lukas Wermuth and Johanna Ziegel
+#### Timo Dimitriadis, Jan-Lukas Wermuth, Johanna Ziegel
 See [Talks A1](#talks-a1).
 
 #### Georgii Potapov, Yuri Kalnishkan
