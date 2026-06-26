@@ -377,9 +377,6 @@ See also [Posters C](#posters-c).
 #### D. Hop, N. Koning, S. van der Meer
 > _abstract tba_
 
-#### Debolina Paul
-> _abstract tba_
-
 #### Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus
 > _abstract tba_
 
@@ -624,7 +621,6 @@ See [Talks D1](#talks-d1).
 - Gergely Neu
 - Dennis Oestmann
 - Snigdha Panigrahi
-- Debolina Paul
 - Victor H. de la Peña
 - Georgii Potapov
 - Zhimei Ren
