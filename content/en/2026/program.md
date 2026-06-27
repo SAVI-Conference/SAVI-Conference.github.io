@@ -214,8 +214,8 @@ In either case we strongly recommend checking with the shop to ensure that your 
 
 
 ### Talks A1
-#### Etienne Gauthier
-> _abstract tba_
+#### Anytime Detection of Strategic Deviations in Multi-Agent Systems _(Etienne Gauthier (Speaker), Francis Bach, Michael I. Jordan)_
+> In many multi-agent systems, agents interact repeatedly and are expected to settle into stable, rational behavior over time. Yet in practice, behavior often drifts, and detecting such deviations in real time remains an open challenge. We introduce a sequential testing framework that monitors whether observed play is consistent with a benchmark of strategic behavior, without assuming a fixed sample size. Our approach builds on the e-value framework for safe anytime-valid inference: by “betting” against the benchmark, we construct a test supermartingale that accumulates evidence whenever observed payoffs systematically violate the expected conditions. For repeated normal-form games, we take equilibrium as the benchmark, yielding a statistically sound, interpretable measure of departure from equilibrium that can be monitored online; our framework unifies the treatment of Nash, correlated, and coarse correlated equilibria, offering finite-time guarantees and a detailed analysis of detection times. We also leverage Benjamini-Hochberg-type procedures to increase detection power in large games while rigorously controlling the false discovery rate. Finally, we extend our method to stochastic games, verifying online whether observed trajectories adhere to a specified target policy, such as a computed equilibrium, broadening the framework’s applicability to dynamic, state-dependent settings.
 
 See also [Posters A](#posters-a).
 
@@ -286,7 +286,7 @@ See also [Posters B](#posters-b).
 #### Justin Whitehouse, Zhiwei Steven Wu, Aaditya Ramdas
 > _abstract tba_
 
-#### Etienne Gauthier, Francis Bach, Michael I. Jordan
+#### Anytime Detection of Strategic Deviations in Multi-Agent Systems _(Etienne Gauthier, Francis Bach, Michael I. Jordan)_
 See [Talks A1](#talks-a1).
 
 #### Predictive and confidence regions in causal inference _(Vladimir Vovk, Ruodu Wang)_
