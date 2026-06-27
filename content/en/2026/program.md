@@ -377,8 +377,8 @@ See also [Posters C](#posters-c).
 #### D. Hop, N. Koning, S. van der Meer
 > _abstract tba_
 
-#### Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus
-> _abstract tba_
+#### Sequential Testing in \(2 \times 2\) Contingency Tables with Conditional e-Variables _(Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus)_
+> Much remains unknown about the design of optimal e-processes and e-variables for the simple yet fundamental problem of testing association in \(2 \times 2\) contingency tables. The e-process introduced by Turner et al. (2024) is growth-rate optimal (GRO) for independent Bernoulli streams with fixed means, but it is powerless when applied to a single large table. Conditional e-variables, by contrast, perform significantly better in the single-table setting, outperforming both the UI e-variable and an e-variable obtained by calibrating Fisher’s exact test. When tables arrive sequentially, Turner’s approach is generally asymptotically optimal under fixed-mean conditions, but conditional e-variables demonstrate robustness to varying means while the odds ratio remains fixed, as measured by growth rates and expected stopping times.
 
 #### Liviu Aolaritei, Michael I. Jordan
 See [Talks A3](#talks-a3).
