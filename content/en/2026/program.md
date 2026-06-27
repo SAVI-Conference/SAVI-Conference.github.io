@@ -309,8 +309,8 @@ See [Talks A2](#talks-a2).
 
 
 ### Talks B1
-#### Noah Liniger
-> _abstract tba_
+#### Sequential Testing of Conditional Means: From Worst-Case to Instance-Dependent Optimality _(Noah Liniger (Speaker), Antoine Scheid, Ian Waudby-Smith, Alain Durmus and Michael I. Jordan)_
+> We develop sequential tests for conditional means of bounded random variables. These tests apply to several hypothesis testing problems, including testing the conditional coverage and calibration of “black-box” machine learning predictors, two-sample testing, and the evaluation of conditional treatment effects. We first identify the class of all admissible e-processes for conditional mean testing, and subsequently restrict our attention to this class. We then analyze the power of these e-processes and their downstream sequential tests through their asymptotic growth rates. For the maximin notion of power known as Growth Rate Optimality in the Worst Case (GROW), we derive optimal e-processes for one-sided and fixed-mean alternatives. For two-sided alternatives, we construct asymptotically GROW e-processes using mixture methods and sublinear-regret algorithms. We then study instance-dependent optimality guarantees and prove a hardness result showing that instance-dependent growth rate optimality is impossible over the full alternative. This motivates two weaker, composite-alternative-specific notions of optimality called mean growth rate optimality and variance growth rate optimality. These notions lie between worst-case and instance-dependent optimality by being worst case over progressively smaller subsets of the alternative containing the instance. We show that both notions are achievable over the full alternative and provide e-processes that attain them.
 
 See also [Posters B](#posters-b).
 
@@ -397,7 +397,7 @@ See [Talks B1](#talks-b1).
 #### Qiuqi Wang, Zhenyuan Zhang, Ruodu Wang
 See [Talks B1](#talks-b1).
 
-#### Noah Liniger, Ian Waudby-Smith, Antoine Scheid, Alain Durmus, Michael I. Jordan
+#### Sequential Testing of Conditional Means: From Worst-Case to Instance-Dependent Optimality _(Noah Liniger, Antoine Scheid, Ian Waudby-Smith, Alain Durmus and Michael I. Jordan)_
 See [Talks B1](#talks-b1).
 
 #### A Uniform Improvement of the Benjamini-Hochberg Procedure via e-Closure _(Jelle Goeman)_
