@@ -529,8 +529,8 @@ See also [Posters D](#posters-d).
 #### Anurag Singh, Rajeev Verma, Julian Rodemann, Siu Lun Chau, Krikamol Muandet
 > _abstract tba_
 
-#### Valentin Kilian*, Shirley Xiaoqi Liu*, Judith Rousseau, Francesco Orabona, Patrick Rebeschini
-> _abstract tba_
+#### Bayes-Assisted Confidence Sequences for Cumulative Distribution Functions _(Valentin Kilian*, Shirley Xiaoqi Liu*, Judith Rousseau, Francesco Orabona, Patrick Rebeschini)_
+> We study how Bayesian priors can tighten confidence bands for the CDF of a bounded random variable in sequential inference. Moving beyond pointwise mean estimation, we aim to estimate the entire CDF from sequential observations. By placing a prior on the unknown CDF, we construct mixture wealth processes under the betting formulation leveraging prior information to reduce regret and hence confidence band width, while preserving anytime-valid guarantees uniformly over time and across the entire support. Theoretical and empirical analyses demonstrate tighter intervals when the prior is well-aligned with the true distribution. This is work in progress, joint with Valentin Kilian, Judith Rousseau, Francesco Orabona, and Patrick Rebeschini.
 
 #### Yongxi Long, Alexander Ly, Nikos Ignatiadis, Jelle Goeman, Peter Grünwald, Erik van Zwet
 > _abstract tba_
