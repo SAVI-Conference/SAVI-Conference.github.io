@@ -331,8 +331,8 @@ See also [Posters B](#posters-b).
 
 
 ### Talks B2
-#### Zhimei Ren
-> _abstract tba_
+#### Sample-efficient multiple testing with adaptive data collection _(Zhimei Ren)_
+> This talk concerns adaptive experimental design for multiple testing with e-values, where experimenters adaptively query hypotheses and form rejection sets based on sequentially updated e-values. We propose a general framework for sampling and constructing test statistics centered around e-values, which ensures anytime-valid FDR control under arbitrary dependence among the data collected across different hypotheses and discovers true effects in a sample-efficient manner. We establish general sample-efficiency guarantees of the proposed method in terms of the growth rate of the underlying e-processes, and instantiate the theory in a range of testing problems. We demonstrate the effectiveness of our approach through simulations and real-data experiments, showing that it ensures error control while maintaining a low sampling budget in online multiple testing scenarios.
 
 See also [Posters B](#posters-b).
 
@@ -406,7 +406,7 @@ See [Talks B2](#talks-b1).
 #### Yury Tavyrikov, Jelle Goeman, Rianne de Heide
 See [Talks B1](#talks-b2).
 
-#### Zhimei Ren
+#### Sample-efficient multiple testing with adaptive data collection _(Zhimei Ren)_
 See [Talks B2](#talks-b2).
 
 ### Talks C1
