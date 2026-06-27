@@ -491,8 +491,8 @@ See also [Posters D](#posters-d).
 See also [Posters D](#posters-d).
 
 ### Talks D3
-#### Yo Joong Choe
-> _abstract tba_
+#### Betting on Bets: Anytime-Valid Tests for Stochastic Dominance _(Sebastian Arnold* (Speaker), YJ Choe* (Speaker), Marco Scarsini, Ilia Tsetlin)_
+> How can we monitor, in real time, whether one uncertain prospect has any upside over another? To answer this question, we develop a novel family of sequential, anytime-valid tests for stochastic dominance (SD), a classical and popular notion for comparing entire distribution functions. The problem is distinct from the popular problem of testing for dominance in means, which would not capture distributional differences beyond the mean. We first derive powerful, nonparametric e-processes that quantify evidence against the null hypothesis that one prospect is dominated by another. For first-order SD, these e-processes are constructed as a mixture of asymptotically growth-rate optimal e-variables and yield a test of power one that retains validity under continuous monitoring. The approach further generalizes to sequential testing for SD beyond the first order, including any higher-order SD. Empirically, we demonstrate that the resulting sequential tests are competitive with classical, non-anytime-valid SD tests in terms of power, and include a real-world application to baseball analytics, examining a controversial phenomenon known as third-time-through-the-order penalty. Finally, we sketch the complementary and challenging problem of testing whether a prospect has a definite upside, and describe the conditions under which we can derive a nontrivial anytime-valid test. 
 
 See also [Posters D](#posters-d).
 
@@ -547,7 +547,7 @@ See also [Posters D](#posters-d).
 #### Aytijhya Saha, Aaditya Ramda
 > _abstract tba_
 
-#### Sebastian Arnold*, Yo Joong (YJ) Choe*, Marco Scarsini, Ilia Tsetlin (*Equal contribution.)
+#### Betting on Bets: Anytime-Valid Tests for Stochastic Dominance _(Sebastian Arnold*, YJ Choe*, Marco Scarsini, Ilia Tsetlin)_
 See [Talks D3](#talks-d3).
 
 #### Verifying Elections with Adaptively Weighted Test Supermartingales _(Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, Damjan Vukcevic)_
