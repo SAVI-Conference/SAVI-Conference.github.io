@@ -547,8 +547,8 @@ See also [Posters D](#posters-d).
 #### Rajeev Verma, Rabanus Derr, Christian A.Naesseth, Eric Nalisnick
 > _abstract tba_
 
-#### Aytijhya Saha, Aaditya Ramda
-> _abstract tba_
+#### Post-detection Inference for Sequential Changepoint Localization _(Aytijhya Saha, Aaditya Ramda)_
+> We address a fundamental but largely unexplored challenge in sequential changepoint analysis: conducting inference following a detected change. We develop a very general framework to construct confidence sets for the unknown changepoint using only the data observed up to a data-dependent stopping time at which an arbitrary sequential detection algorithm declares a change. Our framework applies broadly, encompassing both classical settings with specified pre- and post-change distribution classes and fully distribution-free settings. We provide theoretical guarantees on the width of our confidence intervals. Extensive simulations demonstrate that the produced sets have reasonable size and slightly conservative coverage. In summary, we present the first general method for sequential changepoint localization, which is theoretically sound and broadly applicable in practice.
 
 #### Betting on Bets: Anytime-Valid Tests for Stochastic Dominance _(Sebastian Arnold*, YJ Choe*, Marco Scarsini, Ilia Tsetlin)_
 See [Talks D3](#talks-d3).
