@@ -241,7 +241,7 @@ See also [Posters A](#posters-a).
 
 See also [Posters A](#posters-a).
 
-#### Optimal prediction with E-values _(Nick Koning)_
+#### Optimal prediction with E-values _(Nick Koning (Speaker), Sam van Meer)_
 > Prediction sets offer a binary inclusion / exclusion for each element at the same fixed confidence level. We generalize this to fuzzy prediction sets, which exclude elements at their own data-driven confidence level. Our key insight is that a fuzzy prediction set is equivalent to a single E-value, capturing precisely what E-values bring to prediction. Fuzzy prediction sets inherit the merging properties of their E-value, and offer richer guarantees to decision makers. We show in what sense optimal E-values give rise to optimal (fuzzy) prediction sets. We apply our results to conformal prediction, deriving optimal conformal prediction sets, and characterizing in what sense classical conformal prediction is optimal.
 
 See also [Posters A](#posters-a).
@@ -280,7 +280,7 @@ See also [Posters B](#posters-b).
 #### Multi-Armed Sequential Hypothesis Testing by Betting _(Ricardo J. Sandoval, Ian Waudby-Smith, Michael I. Jordan)_
 > We consider a variant of sequential testing by betting where, at each time step, the statistician is presented with multiple data sources (arms) and obtains data by choosing one of the arms. We consider the composite global null hypothesis \(\mathcal{P}\) that _all_ arms are null in a certain sense (e.g. all dosages of a treatment are ineffective) and we are interested in rejecting \(\mathcal{P}\) in favor of a composite alternative \(\mathcal{Q}\) where _at least one_ arm is non-null (e.g. there exists an effective treatment dosage). We posit an optimality desideratum that we describe informally as follows: even if several arms are non-null, we seek \(e\)-processes and sequential tests  whose performance are as strong as the ones that have oracle knowledge about which arm generates the most evidence against \(\mathcal{P}\). Formally, we generalize notions of log-optimality and expected rejection time optimality to more than one arm, obtaining matching lower and upper bounds for both. A key technical device in this optimality analysis is a modified upper-confidence-bound-like algorithm for unobservable but sufficiently “estimable” rewards. In the design of this algorithm, we derive nonasymptotic concentration inequalities for optimal wealth growth rates in the sense of Kelly (1956). These may be of independent interest.
 
-#### Shubhada Agrawal, Aaditya Ramdas
+#### Eventually LIL Regret: Almost sure ln ln (T) Regret for a Sub-Gaussian Mixture on Unbounded Data _(Shubhada Agrawal, Aaditya Ramdas)_
 > _abstract tba_
 
 #### Justin Whitehouse, Zhiwei Steven Wu, Aaditya Ramdas
@@ -295,13 +295,13 @@ See [Talks A1](#talks-a1).
 #### Jessica Dai, Nika Haghtalab, Brian W. Lee
 See [Talks A1](#talks-a1).
 
-#### Timo Dimitriadis, Jan-Lukas Wermuth, Johanna Ziegel
+#### Sequentially Valid Forecast Comparisons _(Timo Dimitriadis, Jan-Lukas Wermuth (Speaker), Johanna Ziegel)_
 See [Talks A1](#talks-a1).
 
 #### Georgii Potapov, Yuri Kalnishkan
 See [Talks A2](#talks-a2).
 
-#### Nick Koning, Sam van Meer
+#### Optimal prediction with E-values _(Nick Koning, Sam van Meer)_
 See [Talks A2](#talks-a2).
 
 #### Parameter-Free and Group Conditional Online Conformal Prediction _(Beepul Bharti)_
@@ -353,8 +353,10 @@ This talk does not have a poster.
 
 See also [Posters C](#posters-c).
 
-#### Shubhada Agrawal
-> _abstract tba_
+#### Beyond First-order Asymptotics in Sequential Mean Testing _(Vikas Deep, Shubhada Agrawal (Speaker))_
+> We revisit the problem of sequentially testing the mean of bounded distributions in a level-\(\alpha\) power-one framework. We study a KL-inf-based sequential test that is known to attain the information-theoretic lower bound on the expected stopping time with exact constants as \(\alpha \to 0\). Going beyond first-order asymptotics, we establish a central limit theorem (CLT) for the stopping time of this test. Our analysis proceeds in two steps. First, we prove a  novel CLT for the KL-inf statistic itself, characterizing its fluctuations around its deterministic limit. We then leverage this result to show that the stopping time, centered appropriately and scaled by \(\sqrt{\mathrm{log}(1/\alpha)}\), converges in distribution to a Gaussian limit with an explicit variance. This yields a second-order characterization of an asymptotically optimal sequential test for bounded distributions. Finally, we present numerical experiments that corroborate our theoretical findings.
+> 
+> This talk is based on https://arxiv.org/abs/2606.04520, a joint work with Vikas Deep (NUS, Singapore).
 
 See also [Posters C](#posters-c).
 
@@ -447,7 +449,7 @@ See also [Posters D](#posters-d).
 #### Sam van Meer, Nick W. Koning
 See [Talks B3](#talks-b3).
 
-#### Vikas Deep, Shubhada Agrawal
+#### Beyond First-order Asymptotics in Sequential Mean Testing _(Vikas Deep, Shubhada Agrawal)_
 See [Talks B3](#talks-b3).
 
 #### Analyzing the relationship between universal and classical likelihood ratio inference: Almost sure-relations and asymptotic rates _(Lorenz Matz, Hannes Leeb)_
