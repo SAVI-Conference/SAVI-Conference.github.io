@@ -371,8 +371,10 @@ See also [Posters C](#posters-c).
 #### Optimal e-variables for bounded mean testing under composite alternatives _(Eugenio Clerico, Sebastian Arnold)_
 > We derive the unique e-values with optimal (relative) growth rate in the worst-case for testing the mean of a bounded random variable, hereby contributing with the first application beyond the assumption of mutually absolutely continuous hypotheses of the (RE)GROW quality criteria for e-variables originally proposed by Grünwald et al. (2024). For both criteria, we characterise explicitly the alternatives for which it is most difficult to test against. These worst-case distributions admit a meaningful interpretation and reduce the original highly nonparametric problem to an associated Bernoulli model. We show that REGROW yields meaningful optimal e-variables, whereas GROW becomes trivial for one- and two-sided mean testing without a minimal effect size assumption. Our analysis relies on a result from convex analysis that represents worst-case expectations via convex minorants.
 
-#### Sebastian Arias, Peter Grünwald
-> _abstract tba_
+#### Linear regression testing with Model-X _(Sebastian Arias, Peter Grünwald)_
+> We evaluate the performance of the Model-X e-variable (Grünwald et al., 2023) in the context of linear regression testing. The Model-X e-variable was originally developed for conditional independence testing, and it relies on partial knowledge of the covariate distribution (e.g., knowledge of the allocation procedure assigning participants to experimental groups). We compare its e-power against that of the growth-rate optimal e-variable for the linear regression null, proposed by Grünwald et al. (2025), which instead leverages linearity and distributional assumptions about the target variable only.
+> 
+> In scenarios where both e-variables are applicable -- including testing treatment effects via t-tests, ANOVA, and ANCOVA analyses -- we show that the Model-X e-variable can attain greater e-power on finite samples, while it is asymptotically always weaker. Additionally, we identify a “generalized ANCOVA” setting where the asymptotic e-power gap is of order \(O( \Vert \delta \Vert^6 )\) as the effect size vector \(\delta\) tends to zero, suggesting that the difference may be practically negligible for typical effect sizes.
 
 #### D. Hop, N. Koning, S. van der Meer
 > _abstract tba_
@@ -435,8 +437,9 @@ See also [Posters D](#posters-d).
 #### Udo Boehm, Wouter Koolen, and Peter Grunwald
 > _abstract tba_
 
-#### Angel Reyero Lobo, Sebastian Arias, Michele Meziu
-> _abstract tba_
+#### Sequential Conditional Independence Testing with Machine Learning Models _(Angel Reyero Lobo, Sebastian Arias, Michele Meziu)_
+> Conditional Independence Testing is a ubiquitous problem in scientific discovery. The widely employed Model-X assumption shifts the modelling burden from  the dependency of the output given the inputs, to the dependencies within inputs. Growth-rate optimal e-variables have been studied in this setting (Grünwald et al., 2023), but it remains unclear how to optimally include machine learning models in these tests.
+> In this work, we exploit the performance drop of a model when a given feature is removed to construct an exponential e-variable that approximates the GRO, and compare its e-power to that of a class of antisymmetric e-variables (Shaer et. al., 2023). We show theoretically and experimentally that antisymmetric e-variables can outperform the exponential in low signal regimes, while the exponential dominates when the signal is large and the loss is well specified. Finally, we provide an actionable algorithm to approximate the growth-rate optimal among the antisymmetric e-variables via kernel density estimation of the loss distribution.
 
 #### Ashwin Ram, Aaditya Ramdas
 > _abstract tba_
