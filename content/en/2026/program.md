@@ -410,8 +410,8 @@ See [Talks B1](#talks-b2).
 See [Talks B2](#talks-b2).
 
 ### Talks C1
-#### Lorenz Matz
-> _abstract tba_
+#### Analyzing the relationship between universal and classical likelihood ratio inference: Almost sure-relations and asymptotic rates _(Lorenz Matz (Speaker), Hannes Leeb)_
+> Universal Inference is a general method for generating confidence sets and tests which is based on a specific e-value construction. Unlike procedures built on asymptotic results or most resampling methods, its confidence sets/tests have finite-sample guarantees and require virtually no regularity conditions on the model or the set of null distributions. However, its relation to classical inference approaches in terms of power and confidence set diameters is still poorly understood. To shed some light on this, we study the relationship between the split LR and the classical LR confidence set in general settings. For one- and two-dimensional models, we show that the classical LR set is almost surely contained in the split LR set when the maximum likelihood estimator is used for the latter. Furthermore, we find conditions under which the diameters of both confidence sets shrink at the same rate by proving some general results about these rates for ‘M-type’ sets.
 
 See also [Posters C](#posters-c).
 
@@ -450,7 +450,7 @@ See [Talks B3](#talks-b3).
 #### Vikas Deep, Shubhada Agrawal
 See [Talks B3](#talks-b3).
 
-#### Lorenz Matz, Hannes Leeb
+#### Analyzing the relationship between universal and classical likelihood ratio inference: Almost sure-relations and asymptotic rates _(Lorenz Matz, Hannes Leeb)_
 See [Talks C1](#talks-c1).
 
 #### Eugenio Clerico
