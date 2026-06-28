@@ -8,6 +8,8 @@ home_order: 100
 
 > Preliminary, expect changes!
 
+You can also [subscribe to the iCal version](/2026/program.ics).
+
 <div class="schedule">
     <table>
         <thead>
