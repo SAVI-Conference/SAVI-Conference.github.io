@@ -325,7 +325,7 @@ See also [Posters B](#posters-b).
 
 #### A complete characterization of testable hypotheses _(Johahnes Ruf)_
 > We revisit a fundamental question in hypothesis testing: given two sets
-of probability measures $\mathcal{P}$ and $\mathcal{Q}$, when does a
+of probability measures \(\mathcal{P}\) and \(\mathcal{Q}\), when does a
 nontrivial (i.e.\ strictly unbiased) test for $\mathcal{P}$ against
 $\mathcal{Q}$ exist? Le Cam showed that, when $\mathcal{P}$ and
 $\mathcal{Q}$ have a common dominating measure, a test that has power
