@@ -238,11 +238,6 @@ See also [Posters A](#posters-a).
 
 
 ### Talks A2
-#### Georgii Potapov
-> _abstract tba_
-
-See also [Posters A](#posters-a).
-
 #### Optimal prediction with E-values _(Nick Koning (Speaker), Sam van Meer)_
 > Prediction sets offer a binary inclusion / exclusion for each element at the same fixed confidence level. We generalize this to fuzzy prediction sets, which exclude elements at their own data-driven confidence level. Our key insight is that a fuzzy prediction set is equivalent to a single E-value, capturing precisely what E-values bring to prediction. Fuzzy prediction sets inherit the merging properties of their E-value, and offer richer guarantees to decision makers. We show in what sense optimal E-values give rise to optimal (fuzzy) prediction sets. We apply our results to conformal prediction, deriving optimal conformal prediction sets, and characterizing in what sense classical conformal prediction is optimal.
 
