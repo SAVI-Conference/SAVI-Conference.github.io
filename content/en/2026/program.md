@@ -455,8 +455,8 @@ See [Talks C1](#talks-c1).
 
 
 ### Talks D1
-#### Peter Grünwald
-> _abstract tba_
+#### Downstream Post-Hoc Hypothesis Testing or: how E-Values generalize De Finetti’s Probability _(Peter Grünwald (Speaker), Ben Chugg, Aaditya Ramdas)_
+> Chugg et al. (IJAR, 2026) formalized post-hoc hypothesis testing as a game between Adversary, setting the loss function, and Statistician, deciding whether to reject \(H_0\). They showed that, under some conditions on Adversary, "admissible" decision rules must be based on e-variables; and under further conditions, these must have a certain form, e.g. in some settings they must be increasing in the LR. However, both the conditions and their analysis were exceedingly complicated. Here we show that by changing the game slightly, with a different, arguably more reasonable, action space for Statistician, we can obtain a much crisper result, which has the classical Neyman-Pearson lemma as a simple special case. The resulting re-interpretation of e-values shows that they are really direct generalizations of De Finetti's conceptualization of "upper probability". This allows to give real meaning to crazy statements like "the probability that the empirical average of \(\tau\) outcomes is outside the set \(A\) is bounded by \(\mathrm{exp}(-1.5 \tau)\)" where \(\tau\) is a random (!) stopping time. 
 
 See also [Posters D](#posters-d).
 
@@ -562,7 +562,7 @@ See [Talks D2](#talks-d2).
 #### Adaptive clinical trials based on design-optimal e-values: Application to single-arm trials _(Stef Baas, Joost van Rosmalen, Judith ter Schure)_
 See [Talks D2](#talks-d2).
 
-#### Peter Grünwald, partially based on joint work with, Ben Chugg, Aaditya Ramdas
+#### Downstream Post-Hoc Hypothesis Testing or: how E-Values generalize De Finetti’s Probability _(Peter Grünwald, Ben Chugg, Aaditya Ramdas)_
 See [Talks D1](#talks-d1).
 
 #### Ben Chugg
