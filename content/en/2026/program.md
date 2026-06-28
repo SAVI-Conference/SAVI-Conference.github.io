@@ -243,8 +243,8 @@ See also [Posters A](#posters-a).
 
 
 ### Talks A3
-#### Liviu Aolaritei
-> _abstract tba_
+#### Stopping Rules for Stochastic Gradient Descent via Anytime-Valid Confidence Sequences _(Liviu Aolaritei (Speaker), Michael I. Jordan)_
+> We study a basic but unresolved question in stochastic optimization: when should stochastic gradient descent (SGD) be stopped based only on its observed trajectory? We develop anytime-valid confidence sequences for stochastic gradient methods that remain valid under continuous monitoring and directly yield statistically valid stopping rules. In convex optimization, they certify weighted suboptimality under general stepsize schedules; in nonconvex optimization, they certify weighted first-order stationarity. The result is a unified framework for online stopping of SGD with provable complexity guarantees.
 
 See also [Posters B](#posters-b).
 
@@ -379,7 +379,7 @@ See also [Posters C](#posters-c).
 #### Sequential Testing in \(2 \times 2\) Contingency Tables with Conditional e-Variables _(Yonqqi Wang, Sebastian Arnold, Francesca Giuffrida, Peter Grünwald, Thorsten Dickhaus)_
 > Much remains unknown about the design of optimal e-processes and e-variables for the simple yet fundamental problem of testing association in \(2 \times 2\) contingency tables. The e-process introduced by Turner et al. (2024) is growth-rate optimal (GRO) for independent Bernoulli streams with fixed means, but it is powerless when applied to a single large table. Conditional e-variables, by contrast, perform significantly better in the single-table setting, outperforming both the UI e-variable and an e-variable obtained by calibrating Fisher’s exact test. When tables arrive sequentially, Turner’s approach is generally asymptotically optimal under fixed-mean conditions, but conditional e-variables demonstrate robustness to varying means while the odds ratio remains fixed, as measured by growth rates and expected stopping times.
 
-#### Liviu Aolaritei, Michael I. Jordan
+#### Stopping Rules for Stochastic Gradient Descent via Anytime-Valid Confidence Sequences _(Liviu Aolaritei, Michael I. Jordan)_
 See [Talks A3](#talks-a3).
 
 #### Bayes-Assisted Confidence Sequences for Bounded Means _(Valentin Kilian, Stefano Cortinovis, François Caron)_
