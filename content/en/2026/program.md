@@ -6,8 +6,6 @@ menus:
 home_order: 100
 ---
 
-> Preliminary, expect changes!
-
 You can also [subscribe to the iCal version](/2026/program.ics).
 
 <div class="schedule">
@@ -61,7 +59,7 @@ You can also [subscribe to the iCal version](/2026/program.ics).
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
-                <td rowspan="8" class="mon talks"><span class="time-info">ca. 10:40</span><a href="#talks-a1">Talks A1</a></td>
+                <td rowspan="6" class="mon talks"><span class="time-info">ca. 10:45</span><a href="#talks-a1">Talks A1</a></td>
             </tr>
             <tr>
                 <th scope="row" class="full-hour">11:00</th>
@@ -82,6 +80,7 @@ You can also [subscribe to the iCal version](/2026/program.ics).
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
+                <td rowspan="5" class="mon lunch">Lunch</td>
             </tr>
             <tr>
                 <th scope="row" class="half-hour">12:30</th>
@@ -91,7 +90,6 @@ You can also [subscribe to the iCal version](/2026/program.ics).
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
-                <td rowspan="3" class="mon lunch">Lunch</td>
                 <td rowspan="4" class="wed lunch">Lunch</td>
             </tr>
             <tr>
@@ -231,13 +229,13 @@ See also [Posters A](#posters-a).
 
 See also [Posters A](#posters-a).
 
+
+### Talks A2
 #### Sequentially Valid Forecast Comparisons _(Timo Dimitriadis, Jan-Lukas Wermuth (Speaker), Johanna Ziegel)_
 > Time series forecasting and its evaluation are inherently sequential. However, their classical comparison via the Diebold–Mariano test is valid only for fixed evaluation horizons and does not allow for continuous monitoring. We develop sequentially valid inference on forecast performance for general, potentially unbounded loss differentials in multi-step-ahead forecasting based on asymptotic confidence sequences. These confidence sequences provide asymptotic coverage guarantees uniformly over time, thereby enabling online monitoring and tracking of loss differentials while permitting data peeking. We document the favorable finite-sample properties of our procedure in simulations and demonstrate their practical relevance in an application to volatility forecasting.
 
 See also [Posters A](#posters-a).
 
-
-### Talks A2
 #### Optimal prediction with E-values _(Nick Koning (Speaker), Sam van Meer)_
 > Prediction sets offer a binary inclusion / exclusion for each element at the same fixed confidence level. We generalize this to fuzzy prediction sets, which exclude elements at their own data-driven confidence level. Our key insight is that a fuzzy prediction set is equivalent to a single E-value, capturing precisely what E-values bring to prediction. Fuzzy prediction sets inherit the merging properties of their E-value, and offer richer guarantees to decision makers. We show in what sense optimal E-values give rise to optimal (fuzzy) prediction sets. We apply our results to conformal prediction, deriving optimal conformal prediction sets, and characterizing in what sense classical conformal prediction is optimal.
 
