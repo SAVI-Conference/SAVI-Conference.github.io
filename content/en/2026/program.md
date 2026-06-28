@@ -323,8 +323,28 @@ See also [Posters B](#posters-b).
 
 See also [Posters B](#posters-b).
 
-#### Johahnes Ruf
-> _abstract tba_
+#### A complete characterization of testable hypotheses _(Johahnes Ruf)_
+> We revisit a fundamental question in hypothesis testing: given two sets
+of probability measures $\mathcal{P}$ and $\mathcal{Q}$, when does a
+nontrivial (i.e.\ strictly unbiased) test for $\mathcal{P}$ against
+$\mathcal{Q}$ exist? Le~Cam showed that, when $\mathcal{P}$ and
+$\mathcal{Q}$ have a common dominating measure, a test that has power
+exceeding its level by more than $\varepsilon$ exists if and only if the
+convex hulls of $\mathcal{P}$ and $\mathcal{Q}$ are separated in
+total-variation distance by more than $\varepsilon$. The requirement of
+a dominating measure is frequently violated in nonparametric statistics.
+In a passing remark, Le~Cam described an approach to address more
+general scenarios, but he stopped short of stating a formal theorem.
+This work completes Le~Cam's program, by presenting a matching necessary
+and sufficient condition for testability: for the aforementioned theorem
+to hold without assumptions, one must take the closures of the convex
+hulls of $\mathcal{P}$ and $\mathcal{Q}$ in the space of bounded
+finitely additive measures.
+We provide simple elucidating examples, and elaborate on various subtle
+measure theoretic and topological points regarding compactness and
+achievability.
+>
+> Joint work with M. Larsson and A. Ramdas
 
 See also [Posters B](#posters-b).
 
