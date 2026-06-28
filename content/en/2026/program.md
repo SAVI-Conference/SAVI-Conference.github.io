@@ -323,7 +323,7 @@ See also [Posters B](#posters-b).
 
 See also [Posters B](#posters-b).
 
-#### A complete characterization of testable hypotheses _(Johahnes Ruf)_
+#### A complete characterization of testable hypotheses _(Johannes Ruf)_
 > We revisit a fundamental question in hypothesis testing: given two sets
 of probability measures \(\mathcal{P}\) and \(\mathcal{Q}\), when does a
 nontrivial (i.e.\ strictly unbiased) test for \(\mathcal{P}\) against
