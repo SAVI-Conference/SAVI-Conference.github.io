@@ -480,8 +480,8 @@ See also [Posters D](#posters-d).
 See also [Posters D](#posters-d).
 
 ### Talks D2
-#### Michael Lindon
-> _abstract tba_
+#### Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry _(Michael Lindon (Speaker), Nathan Kallus)_
+> Delayed outcomes are ubiquitous in online experimentation: treatment can affect whether an outcome occurs, when it occurs, and its realized value. To accommodate staggered entry while remaining robust to environmental nonstationarity and unit-level heterogeneity, we adopt a design-based perspective and target the sample cumulative reward in each arm as a function of calendar time. Our confidence sequences allow practitioners to continuously monitor the counterfactual incremental reward, such as revenue, that would have been realized by calendar time t had all entered units been assigned to treatment rather than control. The main technical challenge is the choice of design-based filtration, complicated by the presence of asynchronous potential outcome times. We show that the IPW treatment-effect estimation error is not a martingale with respect to any filtration, while each arm-specific IPW estimation error is a martingale with respect to a carefully chosen arm-specific event-time filtration. We therefore construct a confidence sequence for the treatment effect by combining two arm-level confidence sequences with a union bound, and further demonstrate that this can outperform the traditional design-based variance upper bound. Finally, we characterize the class of augmentations for which the per-arm AIPW estimation error remains a martingale.
 
 See also [Posters D](#posters-d).
 
@@ -502,7 +502,6 @@ See also [Posters D](#posters-d).
 > We present recent advances in RLAs for instant-runoff voting (IRV), a ranked-choice system used in Australia, USA, and other countries. To test that the reported outcome is wrong, we need a composite hypothesis written as a union of \(O(k!)\) intersections of \(O(2^k)\) simple hypotheses when there are \(k\) candidates. Prior work addressed this by pre-selecting a subset of the simple hypotheses covering all unions. While this eliminates multiplicity, it necessitates reliable estimates of the votes cast. Instead, we use predictably weighted averages of adaptive test supermartingales, removing the need for pre-selection entirely. We call this the Adaptively Weighted Audits of Instant-Runoff Elections (AWAIRE) framework.
 > 
 > This work involves new statistical and computational methods in sequential anytime-valid inference. Naively testing all simple hypotheses is intractable when \(k > 6\). We take advantage of the tree structure of the tally algorithm to start by testing a few simple hypotheses, adaptively adding more as needed to confirm the results, using branch-and-bound to prune the search space. This makes it feasible to audit contests with more than 50 candidates. The approach may be useful in other situations where the null hypothesis can be expressed as a union of intersections of simple hypotheses.
-
 
 See also [Posters D](#posters-d).
 
@@ -556,7 +555,7 @@ See [Talks D3](#talks-d3).
 #### On vector-valued self-normalized concentration inequalities _(Diego Martinez Taboada (Speaker), Tomas Gonzalez, Aaditya Ramdas)_
 See [Talks D3](#talks-d3).
 
-#### Michael Lindon, Nathan Kallus
+#### Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry _(Michael Lindon, Nathan Kallus)_
 See [Talks D2](#talks-d2).
 
 #### Adaptive clinical trials based on design-optimal e-values: Application to single-arm trials _(Stef Baas, Joost van Rosmalen, Judith ter Schure)_
