@@ -42,7 +42,7 @@ home_order: 100
             <tr>
                 <th scope="row" class="full-hour">10:00</th>
                 <td rowspan="2" class="tue coffee-break">Coffee Break</td>
-                <td rowspan="4" class="wed poster-pitches">Poster Pitches</td>
+                <td rowspan="2" class="wed poster-pitches">Poster Pitches</td>
                 <td rowspan="2" class="thu coffee-break">Coffee Break</td>
                 <td rowspan="2" class="fri coffee-break">Coffee Break</td>
             </tr>
@@ -53,6 +53,7 @@ home_order: 100
             <tr>
                 <th scope="row" class="half-hour">10:30</th>
                 <td rowspan="8" class="tue talks"><a href="#talks-b1">Talks B1</a></td>
+                <td rowspan="5" class="wed poster-session"><a href="#posters-c">Posters C</a></td>
                 <td rowspan="8" class="thu talks"><a href="#talks-d1">Talks D1</a></td>
                 <td rowspan="6" class="fri open-problem-session">Open Problem Session</td>
             </tr>
@@ -62,7 +63,6 @@ home_order: 100
             </tr>
             <tr>
                 <th scope="row" class="full-hour">11:00</th>
-                <td rowspan="3" class="wed poster-session"><a href="#posters-c">Posters C</a></td>
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
@@ -117,24 +117,24 @@ home_order: 100
             </tr>
             <tr>
                 <th scope="row" class="half-hour">14:30</th>
-                <td rowspan="4" class="mon poster-pitches">Poster Pitches</td>
-                <td rowspan="4" class="tue poster-pitches">Poster Pitches</td>
-                <td rowspan="4" class="thu poster-pitches">Poster Pitches</td>
+                <td rowspan="2" class="mon poster-pitches">Poster Pitches</td>
+                <td rowspan="2" class="tue poster-pitches">Poster Pitches</td>
+                <td rowspan="2" class="thu poster-pitches">Poster Pitches</td>
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
             </tr>
             <tr>
                 <th scope="row" class="full-hour">15:00</th>
+                <td rowspan="6" class="mon poster-session"><a href="#posters-a">Posters A</a></td>
+                <td rowspan="6" class="tue poster-session"><a href="#posters-b">Posters B</a></td>
+                <td rowspan="6" class="thu poster-session"><a href="#posters-d">Posters D</a></td>
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
             </tr>
             <tr>
                 <th scope="row" class="half-hour">15:30</th>
-                <td rowspan="4" class="mon poster-session"><a href="#posters-a">Posters A</a></td>
-                <td rowspan="4" class="tue poster-session"><a href="#posters-b">Posters B</a></td>
-                <td rowspan="4" class="thu poster-session"><a href="#posters-d">Posters D</a></td>
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
