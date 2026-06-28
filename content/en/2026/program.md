@@ -424,8 +424,8 @@ See also [Posters D](#posters-d).
 #### When generalized likelihood ratios are -- and are not -- e-processes _(Stephan Bongers, Peter Grünwald)_
 > Generalized likelihood ratios (GLRs) are among the most widely used tools for composite hypothesis testing. By replacing unknown nuisance parameters with their maximum likelihood estimates, they provide a natural and powerful way to accumulate evidence against the null hypothesis. Yet, despite their widespread use, GLRs are not automatically anytime-valid and need not form e-processes. We show that the behavior of the GLR in exponential families depends on the covariance ordering of the null and alternative. In one regime, the GLR is automatically an e-process; in the other, it generally is not. We introduce a calibrated GLR that restores e-process validity and often achieves substantially higher e-power than the sequential RIP and UI e-processes.
 
-#### Rémy Degenne, Gaëtan Serré
-> _abstract tba_
+#### E-values in the Lean theorem prover _(Gaëtan Serré, Rémy Degenne)_
+> We build an e-value library for the Lean theorem prover. Lean is a proof assistant, a programming language in which one can write mathematical theorems and proofs. We build a new library on top of Mathlib, Lean’s mathematical library, in which we implement definitions for e-variables, their utility, the numeraire/GRO, duality with the reverse information projection and Kullback-Leibler divergences, and other tools needed for working with e-values. To illustrate the use of our library, we prove information theoretic results in Lean using the e-variables definitions: data-processing inequality and tensorization equalities for e-variables, and lower bounds for hypothesis testing.
 
 #### M-estimation with e-statistics _(Hongjian Wang)_
 >  We present a theory of point estimation with e-statistics (e-values and e-processes) by introducing the “ME-estimator”: the parameter that minimizes the corresponding e-statistic, or the evidence against it. Our approach is based on the intuitive idea of e-statistics as a measure of evidence and betting pay-off, and naturally generalizes the classical method of maximum likelihood estimation. First, we establish the consistency as well as the almost sure convergence rate for ME-estimators relating to the high-probability bounds on the size of the confidence set derived from thresholding the e-statistics, an approach that sets ME-estimators apart from traditional M-estimators. Second, we conduct classical M-estimator-style analysis on the consistency and asymptotic normality of ME-estimators in the bounded mean estimation setting, discussing the notion of efficiency (or lack thereof) from various choices of betting strategy. Our work brings e-statistics, a fundamental tool for inference and uncertainty quantification, to the space of estimation. 
@@ -636,7 +636,7 @@ See [Talks D1](#talks-d1).
 - Johannes Ruf
 - Ricardo Sandoval
 - Antoine Scheid
-- Gaëtan Serre
+- Gaëtan Serré
 - Anurag Singh
 - Martijn Sprokkereef
 - Yury Tavyrikov
