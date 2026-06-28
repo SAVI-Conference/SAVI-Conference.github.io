@@ -314,8 +314,8 @@ See [Talks A2](#talks-a2).
 
 See also [Posters B](#posters-b).
 
-#### Qiuqi Wang
-> _abstract tba_
+#### False discovery rates of refreshing monitoring procedures _(Qiuqi Wang (Speaker), Ruodu Wang, Zhenyuan Zhang)_
+> Practical monitoring procedures require anytime validity. In this paper, we examine the rationality of monitoring procedures that restart whenever rejections occur. Specifically, we study an online false discovery rate (FDR) control problem of refreshing monitoring procedures based on test (super)martingales and e-processes. We obtain explicit FDR bounds with fixed rejection thresholds under the independence and general settings. Moreover, we improve refreshing monitoring procedures by dropping less informative data points with an FDR guarantee. Numerical studies will be performed to illustrate the theoretical findings.
 
 See also [Posters B](#posters-b).
 
@@ -396,7 +396,7 @@ See [Talks A3](#talks-a3).
 #### Larsson, Ramdas, Ruf
 See [Talks B1](#talks-b1).
 
-#### Qiuqi Wang, Zhenyuan Zhang, Ruodu Wang
+#### False discovery rates of refreshing monitoring procedures _(Qiuqi Wang, Ruodu Wang, Zhenyuan Zhang)_
 See [Talks B1](#talks-b1).
 
 #### Sequential Testing of Conditional Means: From Worst-Case to Instance-Dependent Optimality _(Noah Liniger, Antoine Scheid, Ian Waudby-Smith, Alain Durmus and Michael I. Jordan)_
