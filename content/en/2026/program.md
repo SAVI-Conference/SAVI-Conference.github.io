@@ -267,8 +267,8 @@ See also [Posters B](#posters-b).
 
 
 ### Posters A
-#### Wouter M. Koolen (based in part on joint work with Lukas Zierahn, Christina Katsimerou, Shubhada Agrawal and Dirk van der Hoeven)
-> _abstract tba_
+#### Best Arm Identification for Bandits with Shifting Means _(Lukas Zierahn, Wouter M. Koolen, Christina Katsimerou, Shubhada Agrawal and Dirk van der Hoeven)_
+> We consider the problem of bandits with shifting means in the fixed confidence setting. We propose a parameterized family of e-values leveraging importance weighting. We then optimize their design for stopping early, and obtain an efficient sampling rule.
 
 #### Aymeric Capitaine, Antoine Scheid, Etienne Boursier, Alain Durmus, Michael I. Jordan
 > _abstract tba_
@@ -281,6 +281,9 @@ See also [Posters B](#posters-b).
 
 #### Multi-Armed Sequential Hypothesis Testing by Betting _(Ricardo J. Sandoval, Ian Waudby-Smith, Michael I. Jordan)_
 > We consider a variant of sequential testing by betting where, at each time step, the statistician is presented with multiple data sources (arms) and obtains data by choosing one of the arms. We consider the composite global null hypothesis \(\mathcal{P}\) that _all_ arms are null in a certain sense (e.g. all dosages of a treatment are ineffective) and we are interested in rejecting \(\mathcal{P}\) in favor of a composite alternative \(\mathcal{Q}\) where _at least one_ arm is non-null (e.g. there exists an effective treatment dosage). We posit an optimality desideratum that we describe informally as follows: even if several arms are non-null, we seek \(e\)-processes and sequential tests  whose performance are as strong as the ones that have oracle knowledge about which arm generates the most evidence against \(\mathcal{P}\). Formally, we generalize notions of log-optimality and expected rejection time optimality to more than one arm, obtaining matching lower and upper bounds for both. A key technical device in this optimality analysis is a modified upper-confidence-bound-like algorithm for unobservable but sufficiently “estimable” rewards. In the design of this algorithm, we derive nonasymptotic concentration inequalities for optimal wealth growth rates in the sense of Kelly (1956). These may be of independent interest.
+
+#### Parameter-Free and Group Conditional Online Conformal Prediction _(Beepul Bharti)_
+> Uncertainty quantification (UQ) is critical for the deployment of machine learning predictors in real-world scenarios where the data distribution may shift over time (i.e., data may not be exchangeable). Online conformal prediction (OCP) methods address this issue at the expense of either (i) group-wise error control or (ii) learning-rate independent implementation. Group-conditional coverage is essential for fairness across different collections of data points and for providing finer UQ guarantees. Parameter-free optimization is crucial for robustness to adversarial and unknown data shifts. We propose a parameter-free algorithm for group-conditional OCP and demonstrate that it achieves the best group-conditional coverage guarantees. We evaluate our algorithm on synthetic and real-world data, demonstrating that our method not only improves the reliability of existing parameter-free OCP methods but also provides prediction intervals that are comparable in size to well-tuned group-conditional approaches. By unifying group-conditional coverage with parameter-free online algorithms, our work lays a foundation for fair and robust uncertainty quantification in shifting environments.
 
 #### Eventually LIL Regret: Almost sure ln ln (T) Regret for a Sub-Gaussian Mixture on Unbounded Data _(Shubhada Agrawal, Aaditya Ramdas)_
 > _abstract tba_
@@ -305,9 +308,6 @@ See [Talks A2](#talks-a2).
 
 #### Optimal prediction with E-values _(Nick Koning, Sam van Meer)_
 See [Talks A2](#talks-a2).
-
-#### Parameter-Free and Group Conditional Online Conformal Prediction _(Beepul Bharti)_
-> Uncertainty quantification (UQ) is critical for the deployment of machine learning predictors in real-world scenarios where the data distribution may shift over time (i.e., data may not be exchangeable). Online conformal prediction (OCP) methods address this issue at the expense of either (i) group-wise error control or (ii) learning-rate independent implementation. Group-conditional coverage is essential for fairness across different collections of data points and for providing finer UQ guarantees. Parameter-free optimization is crucial for robustness to adversarial and unknown data shifts. We propose a parameter-free algorithm for group-conditional OCP and demonstrate that it achieves the best group-conditional coverage guarantees. We evaluate our algorithm on synthetic and real-world data, demonstrating that our method not only improves the reliability of existing parameter-free OCP methods but also provides prediction intervals that are comparable in size to well-tuned group-conditional approaches. By unifying group-conditional coverage with parameter-free online algorithms, our work lays a foundation for fair and robust uncertainty quantification in shifting environments.
 
 
 ### Talks B1
@@ -457,7 +457,7 @@ See [Talks B3](#talks-b3).
 #### Analyzing the relationship between universal and classical likelihood ratio inference: Almost sure-relations and asymptotic rates _(Lorenz Matz, Hannes Leeb)_
 See [Talks C1](#talks-c1).
 
-#### Eugenio Clerico
+#### Time-sensitive anytime-valid testing _(Eugenio Clerico, Iskander Azangulov, and Patrick Rebeschini)_
 See [Talks C1](#talks-c1).
 
 
