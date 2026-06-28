@@ -192,6 +192,10 @@ Posters can be printed at the [University of Twente Xerox shop](https://utwente.
 
 In either case we strongly recommend checking with the shop to ensure that your poster will be ready on time.
 
+## Excursion and Banquet
+
+The excursion start at 15.15 at [Oyfo Techniekmuseum, Hazemeijerstraat 300, Hengelo](http://www.oyfotechniekmuseum.nl) . The organisers are going there by different means of transport, and are happy to take you along. We'll keep you posted about where to gather at what time.
+The Banquet follows the excursion and takes place at: [Lust, Bakery en Bistro](https://lusthengelo.nl).
 
 ## Abstracts
 ### Keynotes
