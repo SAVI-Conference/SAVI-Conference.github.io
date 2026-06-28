@@ -329,7 +329,7 @@ of probability measures \(\mathcal{P}\) and \(\mathcal{Q}\), when does a
 nontrivial (i.e.\ strictly unbiased) test for \(\mathcal{P}\) against
 \(\mathcal{Q}\) exist? Le Cam showed that, when \(\mathcal{P}\) and
 \(\mathcal{Q}\) have a common dominating measure, a test that has power
-exceeding its level by more than \(\varepsilon$ exists if and only if the
+exceeding its level by more than \( \varepsilon \) exists if and only if the
 convex hulls of \(\mathcal{P}$ and \(\mathcal{Q}\) are separated in
 total-variation distance by more than \(\varepsilon\). The requirement of
 a dominating measure is frequently violated in nonparametric statistics.
