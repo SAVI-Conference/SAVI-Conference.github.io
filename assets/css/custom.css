@@ -117,8 +117,8 @@ article.page-program {
 }
 
 /* during conference: activate first line and activate subsequent lines on the corresponding day */
-/* .schedule td { filter: brightness(60%); } */
-/* .schedule td.mon { filter: none; } */
+.schedule td { filter: brightness(60%); }
+.schedule td.mon { filter: none; }
 /* .schedule td.tue { filter: none; } */
 /* .schedule td.wed { filter: none; } */
 /* .schedule td.thu { filter: none; } */
