@@ -72,7 +72,7 @@ You can also [subscribe to the iCal version](/2026/program.ics).
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
-                <td rowspan="4" class="wed keynote"><span class="time-info">ca. 11:45</span><span class="keynote-txt">Keynote</span><a href="#morgane-austern">Morgane Austern</a></td>
+                <td rowspan="4" class="wed keynote"><span class="time-info">ca. 11:45</span><span class="keynote-txt">Keynote</span><a href="#morgane-austern-efficient-finite-sample-bounds-via-optimal-transport">Morgane Austern</a></td>
             </tr>
             <tr>
                 <th scope="row" class="full-hour">12:00</th>
@@ -210,8 +210,8 @@ The excursion start at 15.15 at [Oyfo Techniekmuseum, Hazemeijerstraat 300, Heng
 #### [Gert de Cooman](../keynote-speakers#gert-de-cooman) _(Views from the border)_
 > For more than a decade now, there have been efforts to combine ideas from the fields of imprecise probabilities and game-theoretic probability. This has enriched both fields, but has also resulted in advances in stochastic processes (imprecise Markov chains) and algorithmic randomness (imprecise randomness). I want to argue that the connection can also help foster ideas in statistics, by drawing from imprecise probabilities, algorithmic randomness and robust statistics. My aim in the talk will be to focus on ideas rather than on the very technical details.
 
-#### [Morgane Austern](../keynote-speakers#morgane-austern)
-> _abstract tba_
+#### [Morgane Austern](../keynote-speakers#morgane-austern) _(Efficient finite sample bounds via optimal transport)_
+> Finite sample bounds are ubiquitous in statistics and machine learning, underpinning applications ranging from multi-armed bandit problems to early stopping rules. However, classical bounds are often overly conservative, leading to suboptimal algorithms. In this talk, I will propose a method for deriving sharper bounds by bridging the gap between asymptotic limit theorems and finite-sample concentration. We achieve this by exploiting recent advances in Optimal Transport, Stein method and information theory. The resulting bounds are efficient, strictly valid in the finite-sample regime, and significantly tighter than the state-of-the-art. I will demonstrate how these bounds lead to direct algorithmic improvements. I will then explore how we can generalize those ideas to valid anytime guarantees, to dependent data and to more complex estimators.
 
 #### [Victor H. de la Peña](../keynote-speakers#victor-h-de-la-peña) _(From Decoupling to Ville’s Equality: A Personal History of Foundational Inequalities for Anytime-Valid Inference)_
 > In this keynote I revisit, from a personal vantage point, the development of inequalities now foundational to anytime-valid inference. The first part begins with decoupling: by comparing dependent processes with their conditionally independent (tangent) counterparts, I obtained a first general class of exponential inequalities for self-normalized martingales. I then describe how pseudo-maximization, which extends Robbins’ method of mixtures, sharpened these (with M. J. Klass and T. L. Lai) into refined, time-uniform inequalities underlying modern confidence sequences and sequential tests. A recollection joins the two parts: around 1992, J. L. Doob suggested I turn to self-normalized inequalities, advice that shaped much of what followed. The second part, Beyond Wald’s Equation and the Optional Sampling Theorem to Ville’s Equality, extends Doob’s optional sampling theorem for martingales, charting a route from Wald’s equation for randomly stopped sums to Ville’s equality — a coherent foundation for inference that remains valid under optional stopping.
