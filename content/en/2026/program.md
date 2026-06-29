@@ -443,9 +443,6 @@ See also [Posters D](#posters-d).
 > Conditional Independence Testing is a ubiquitous problem in scientific discovery. The widely employed Model-X assumption shifts the modelling burden from  the dependency of the output given the inputs, to the dependencies within inputs. Growth-rate optimal e-variables have been studied in this setting (Grünwald et al., 2023), but it remains unclear how to optimally include machine learning models in these tests.
 > In this work, we exploit the performance drop of a model when a given feature is removed to construct an exponential e-variable that approximates the GRO, and compare its e-power to that of a class of antisymmetric e-variables (Shaer et. al., 2023). We show theoretically and experimentally that antisymmetric e-variables can outperform the exponential in low signal regimes, while the exponential dominates when the signal is large and the loss is well specified. Finally, we provide an actionable algorithm to approximate the growth-rate optimal among the antisymmetric e-variables via kernel density estimation of the loss distribution.
 
-#### Ashwin Ram, Aaditya Ramdas
-> _abstract tba_
-
 #### Preferences over E-processes _(Sam van Meer, Nick Koning)_
 See [Talks B3](#talks-b3).
 
