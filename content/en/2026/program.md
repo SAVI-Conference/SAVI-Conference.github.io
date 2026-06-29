@@ -186,15 +186,17 @@ You can also [subscribe to the iCal version](/2026/program.ics).
 
 
 ## Printing Posters
-Posters can be printed at the [University of Twente Xerox shop](https://utwente.nl/xerox). Send an email with your poster as pdf to xeroxcarre@utwente.nl. Xerox has indicated that they are very busy in the week before and during the conference, so it can take a few days for a poster to be processed and printed. Xerox is situated in the building Carré and is open from 9:15 AM -- 1 PM and 1:30 PM -- 4:30 PM on Weekdays.
-
-~~A second option is [T-point print](https://www.t-pointprint.nl/) which is a 15 minute walk from the venue. They are open weekdays 8 AM -- 5:45 PM and advertise with fast turn around time. You can send your poster to info@t-pointprint.nl.~~ They are on holiday! We are at the moment looking for alternatives!
-
-In either case we strongly recommend checking with the shop to ensure that your poster will be ready on time.
-
+Posters can be printed at the [University of Twente Xerox shop](https://utwente.nl/xerox). Send an email with your poster as pdf to xeroxcarre@utwente.nl. Xerox has indicated that they are very busy in the week before and during the conference, so it can take a few days for a poster to be processed and printed. (Rianne sent her poster on Monday morning and it was printed within half an hour.) Xerox is situated in the building Carré and is open from 9:15 AM -- 1 PM and 1:30 PM -- 4:30 PM on Weekdays.
 
 ## Excursion and Banquet
 The excursion start at 15.15 at [Oyfo Techniekmuseum, Hazemeijerstraat 300, Hengelo](http://www.oyfotechniekmuseum.nl). The organisers are going there by different means of transport, and are happy to take you along. We’ll keep you posted about where to gather at what time. The Banquet follows the excursion and takes place at: [Lust, Bakery en Bistro](https://lusthengelo.nl).
+
+## Information from the organizers during the conference
+### Signal Group
+Join our [SAVI 2026 Signal Group](https://signal.group/#CjQKILqbmZjAPoUqOA4wMuWY4oTjEOtJ89rYxZOkRWzA62HOEhDC9xb_TE3JTxg_bagLcGcm) for connecting informally with other participants.
+
+### Open problem session
+You can write your name on the flipover for signing up for presenting an open problem on Friday.
 
 
 ## Abstracts
