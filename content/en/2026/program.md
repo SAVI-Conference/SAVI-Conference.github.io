@@ -333,8 +333,10 @@ See also [Posters B](#posters-b).
 
 See also [Posters B](#posters-b).
 
-#### Yury Tavyrikov
-> _abstract tba_
+#### Multiple Testing with Anytime-Valid Evidence _(Yury Tavyrikov (speaker), Jelle Goeman and Rianne de Heide)_
+> Sequential experiments generate evidence over time, and their strongest evidence may occur at different stopping times. For a single hypothesis, the running maximum of an e-process is anytime-valid through Ville’s inequality. Yet these maxima are not themselves e-values: they can have infinite expectation, making their direct use in multiple-testing procedures problematic.
+We develop sharp, dependence-robust tail bounds for aggregating running maxima of arbitrarily dependent e-processes. Our main result shows that the sum of \(K\) maxima has a \(1/\lambda\) tail bound with only a harmonic, logarithmic-in-\(K\) penalty. This penalty is unavoidable: an explicit dependent construction achieves the matching harmonic rate. The proof gathers asynchronous peaks into a single collection of stopped e-process values, where a rank-weighted argument reveals the harmonic structure.
+The approach extends beyond sums to general monotone aggregators, including power transforms that can reduce or eliminate the growing harmonic penalty. We illustrate two applications: anytime-valid local tests for closed testing and FDR control, and a global test for detecting coordinated signal in an unknown subset without paying an exponential price for scanning all groups.
 
 See also [Posters B](#posters-b).
 
@@ -403,7 +405,7 @@ See [Talks B1](#talks-b1).
 #### A Uniform Improvement of the Benjamini-Hochberg Procedure via e-Closure _(Jelle Goeman)_
 See [Talks B2](#talks-b1).
 
-#### Yury Tavyrikov, Jelle Goeman, Rianne de Heide
+#### Multiple Testing with Anytime-Valid Evidence _(Yury Tavyrikov, Jelle Goeman and Rianne de Heide)_
 See [Talks B1](#talks-b2).
 
 #### Sample-efficient multiple testing with adaptive data collection _(Zhimei Ren)_
