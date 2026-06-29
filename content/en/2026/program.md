@@ -289,9 +289,6 @@ See also [Posters B](#posters-b).
 #### Eventually LIL Regret: Almost sure ln ln (T) Regret for a Sub-Gaussian Mixture on Unbounded Data _(Shubhada Agrawal, Aaditya Ramdas)_
 > _abstract tba_
 
-#### Justin Whitehouse, Zhiwei Steven Wu, Aaditya Ramdas
-> _abstract tba_
-
 #### Anytime Detection of Strategic Deviations in Multi-Agent Systems _(Etienne Gauthier, Francis Bach, Michael I. Jordan)_
 See [Talks A1](#talks-a1).
 
