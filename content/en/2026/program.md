@@ -347,8 +347,8 @@ See also [Posters B](#posters-b).
 
 This talk does not have a poster.
 
-#### Sam van Meer
-> _abstract tba_
+#### Preferences over E-processes _(Sam van Meer (Speaker), Nick Koning)_
+> We formulate preferences over e-processes. Imposing natural axioms on how different degrees of evidence are valued over time, we derive a family of utilities indexed by a single parameter that can be interpreted as a discount factor. The resulting optimal e-process is proportional to a power of the likelihood ratio process, and optimal uniformly over stopping rules. The log-optimal e-process, often presented as a universal choice, is obtained as a special case that corresponds to linear utility in time. 
 
 See also [Posters C](#posters-c).
 
@@ -446,7 +446,7 @@ See also [Posters D](#posters-d).
 #### Ashwin Ram, Aaditya Ramdas
 > _abstract tba_
 
-#### Sam van Meer, Nick W. Koning
+#### Preferences over E-processes _(Sam van Meer, Nick Koning)_
 See [Talks B3](#talks-b3).
 
 #### Beyond First-order Asymptotics in Sequential Mean Testing _(Vikas Deep, Shubhada Agrawal)_
