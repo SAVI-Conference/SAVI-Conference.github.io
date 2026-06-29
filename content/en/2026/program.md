@@ -193,7 +193,7 @@ The excursion start at 15.15 at [Oyfo Techniekmuseum, Hazemeijerstraat 300, Heng
 
 ## Information from the organizers during the conference
 ### Signal Group
-Join our [https://signal.group/#CjQKILqbmZjAPoUqOA4wMuWY4oTjEOtJ89rYxZOkRWzA62HOEhDC9xb_TE3JTxg_bagLcGcm](SAVI 2026 Signal Group) for connecting informally with other participants.
+Join our [SAVI 2026 Signal Group](https://signal.group/#CjQKILqbmZjAPoUqOA4wMuWY4oTjEOtJ89rYxZOkRWzA62HOEhDC9xb_TE3JTxg_bagLcGcm) for connecting informally with other participants.
 
 ### Open problem session
 You can write your name on the flipover for signing up for presenting an open problem on Friday.
