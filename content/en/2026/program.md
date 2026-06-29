@@ -301,9 +301,6 @@ See [Talks A1](#talks-a1).
 #### Sequentially Valid Forecast Comparisons _(Timo Dimitriadis, Jan-Lukas Wermuth (Speaker), Johanna Ziegel)_
 See [Talks A1](#talks-a1).
 
-#### Georgii Potapov, Yuri Kalnishkan
-See [Talks A2](#talks-a2).
-
 #### Optimal prediction with E-values _(Nick Koning, Sam van Meer)_
 See [Talks A2](#talks-a2).
 
