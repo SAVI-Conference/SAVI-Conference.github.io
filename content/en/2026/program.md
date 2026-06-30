@@ -186,7 +186,9 @@ You can also [subscribe to the iCal version](/2026/program.ics).
 
 
 ## Printing Posters
-Posters can be printed at the [University of Twente Xerox shop](https://utwente.nl/xerox). Send an email with your poster as pdf to xeroxcarre@utwente.nl. Xerox has indicated that they are very busy in the week before and during the conference, so it can take a few days for a poster to be processed and printed. (Rianne sent her poster on Monday morning and it was printed within half an hour.) Xerox is situated in the building Carré and is open from 9:15 AM -- 1 PM and 1:30 PM -- 4:30 PM on Weekdays.
+Posters can be printed at the [University of Twente Xerox shop](https://utwente.nl/xerox). Send an email with your poster as pdf to xeroxcarre@utwente.nl. Xerox has indicated that they are very busy in the week before and during the conference, so it can take a few days for a poster to be processed and printed. Xerox is situated in the building Carré and is open from 9:15 AM -- 1 PM and 1:30 PM -- 4:30 PM on Weekdays.
+
+**UPDATE** from experience (by Rianne): Printing takes 20 minutes if you are the first in the queue. On Monday there was no queue. Walking there took me 8 minutes (one way). If you send your poster by mail, they will e-mail you when it's ready. When you enter the main entrance of Hal B, go straight ahead up the first flight of stairs, and then immediately to the right.
 
 ## Excursion and Banquet
 The excursion start at 15.15 at [Oyfo Techniekmuseum, Hazemeijerstraat 300, Hengelo](http://www.oyfotechniekmuseum.nl). The organisers are going there by different means of transport, and are happy to take you along. We’ll keep you posted about where to gather at what time. The Banquet follows the excursion and takes place at: [Lust, Bakery en Bistro](https://lusthengelo.nl).
@@ -314,9 +316,6 @@ See also [Posters B](#posters-b).
 #### Eventually LIL Regret: Almost sure ln ln (T) Regret for a Sub-Gaussian Mixture on Unbounded Data _(Shubhada Agrawal, Aaditya Ramdas)_
 > _abstract tba_
 
-#### Justin Whitehouse, Zhiwei Steven Wu, Aaditya Ramdas
-> _abstract tba_
-
 #### Anytime Detection of Strategic Deviations in Multi-Agent Systems _(Etienne Gauthier, Francis Bach, Michael I. Jordan)_
 See [Talks A1](#talks-a1).
 
@@ -328,9 +327,6 @@ See [Talks A1](#talks-a1).
 
 #### Sequentially Valid Forecast Comparisons _(Timo Dimitriadis, Jan-Lukas Wermuth (Speaker), Johanna Ziegel)_
 See [Talks A1](#talks-a1).
-
-#### Georgii Potapov, Yuri Kalnishkan
-See [Talks A2](#talks-a2).
 
 #### Optimal prediction with E-values _(Nick Koning, Sam van Meer)_
 See [Talks A2](#talks-a2).
@@ -375,8 +371,10 @@ See also [Posters B](#posters-b).
 
 See also [Posters B](#posters-b).
 
-#### Yury Tavyrikov
-> _abstract tba_
+#### Multiple Testing with Anytime-Valid Evidence _(Yury Tavyrikov (speaker), Jelle Goeman and Rianne de Heide)_
+> Sequential experiments generate evidence over time, and their strongest evidence may occur at different stopping times. For a single hypothesis, the running maximum of an e-process is anytime-valid through Ville’s inequality. Yet these maxima are not themselves e-values: they can have infinite expectation, making their direct use in multiple-testing procedures problematic.
+We develop sharp, dependence-robust tail bounds for aggregating running maxima of arbitrarily dependent e-processes. Our main result shows that the sum of \(K\) maxima has a \(1/\lambda\) tail bound with only a harmonic, logarithmic-in-\(K\) penalty. This penalty is unavoidable: an explicit dependent construction achieves the matching harmonic rate. The proof gathers asynchronous peaks into a single collection of stopped e-process values, where a rank-weighted argument reveals the harmonic structure.
+The approach extends beyond sums to general monotone aggregators, including power transforms that can reduce or eliminate the growing harmonic penalty. We illustrate two applications: anytime-valid local tests for closed testing and FDR control, and a global test for detecting coordinated signal in an unknown subset without paying an exponential price for scanning all groups.
 
 See also [Posters B](#posters-b).
 
@@ -456,7 +454,7 @@ See [Talks B1](#talks-b1).
 #### A Uniform Improvement of the Benjamini-Hochberg Procedure via e-Closure _(Jelle Goeman)_
 See [Talks B2](#talks-b1).
 
-#### Yury Tavyrikov, Jelle Goeman, Rianne de Heide
+#### Multiple Testing with Anytime-Valid Evidence _(Yury Tavyrikov, Jelle Goeman and Rianne de Heide)_
 See [Talks B1](#talks-b2).
 
 #### Sample-efficient multiple testing with adaptive data collection _(Zhimei Ren)_
