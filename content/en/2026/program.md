@@ -193,6 +193,12 @@ Posters can be printed at the [University of Twente Xerox shop](https://utwente.
 ## Excursion and Banquet
 The excursion start at 15.15 at [Oyfo Techniekmuseum, Hazemeijerstraat 300, Hengelo](http://www.oyfotechniekmuseum.nl). The organisers are going there by different means of transport, and are happy to take you along. We’ll keep you posted about where to gather at what time. The Banquet follows the excursion and takes place at: [Lust, Bakery en Bistro](https://lusthengelo.nl).
 
+### Getting there
+You can join (one of) your favourite organiser(s) going by your favourite means of transport. 
+
+1) Join Rianne by foot: 7 kilometers, we leave at 13.45 at the main entrance of the UPark hotel.
+2) TBK by bus or train. 
+
 ## Information from the organizers during the conference
 ### Signal Group
 Join our [SAVI 2026 Signal Group](https://signal.group/#CjQKILqbmZjAPoUqOA4wMuWY4oTjEOtJ89rYxZOkRWzA62HOEhDC9xb_TE3JTxg_bagLcGcm) for connecting informally with other participants.
