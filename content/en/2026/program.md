@@ -188,7 +188,7 @@ You can also [subscribe to the iCal version](/2026/program.ics).
 ## Printing Posters
 Posters can be printed at the [University of Twente Xerox shop](https://utwente.nl/xerox). Send an email with your poster as pdf to xeroxcarre@utwente.nl. Xerox has indicated that they are very busy in the week before and during the conference, so it can take a few days for a poster to be processed and printed. Xerox is situated in the building Carré and is open from 9:15 AM -- 1 PM and 1:30 PM -- 4:30 PM on Weekdays.
 
-**UPDATE** from experience (by Rianne): Printing takes 20 minutes if you are the first in the queue. On Monday there was no queue. Walking there took me 8 minutes (one way). If you send your poster by mail, they will e-mail you when it's ready. When you enter the main entrance of Hal B, go straight ahead up the first flight of stairs, and then immediately to the right.
+**UPDATE** from experience (by Rianne): Printing takes 20 minutes if you are the first in the queue. On Monday there was no queue. Walking there took me 8 minutes (one way). If you send your poster by mail, they will e-mail you when it’s ready. When you enter the main entrance of Hal B, go straight ahead up the first flight of stairs, and then immediately to the right.
 
 ## Excursion and Banquet
 The excursion start at 15.15 at [Oyfo Techniekmuseum, Hazemeijerstraat 300, Hengelo](http://www.oyfotechniekmuseum.nl). The organisers are going there by different means of transport, and are happy to take you along. We’ll keep you posted about where to gather at what time. The Banquet follows the excursion and takes place at: [Lust, Bakery en Bistro](https://lusthengelo.nl).
