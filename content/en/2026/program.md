@@ -196,7 +196,7 @@ The excursion start at 15.15 at [Oyfo Techniekmuseum, Hazemeijerstraat 300, Heng
 ### Getting there
 You can join (one of) your favourite organiser(s) going by your favourite means of transport. 
 
-1) Join Rianne by foot: 7 kilometers, we leave at 13.45 at the main entrance of the UPark hotel.
+1) Join Rianne on foot: 7 kilometers, we leave at 13.45 at the main entrance of the UPark hotel.
 2) TBK by bus or train. 
 
 ## Information from the organizers during the conference
