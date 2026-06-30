@@ -52,6 +52,10 @@ article.page-program {
   max-width: 64rem;
 }
 
+article.page-program summary >h3 {
+  display: inline;
+}
+
 .schedule table {
   border-collapse: collapse;
   margin: 0 auto;

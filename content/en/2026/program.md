@@ -200,7 +200,13 @@ You can write your name on the flipover for signing up for presenting an open pr
 
 
 ## Abstracts
+
+<details>
+<summary>
+
 ### Keynotes
+</summary>
+
 #### [Snigdha Panigrahi](../keynote-speakers#snigdha-panigrahi) _(Flexible selective inference with conditional validity)_
 > When the same dataset is used both to select a model or parameters and to perform inference, naïve tests and interval estimates can be severely misleading. Data carving offers a principled way to reuse the data, conditioning on the event that the model was selected and basing inference on the resulting conditional distribution. In practice, however, data carving has been notoriously difficult to use. Existing methods require an analytic characterization of the selection event, which is available only for certain selection procedures and often requires highly selection-specific derivations. This raises the question: can we still provide selective inference through data carving without ever requiring an analytic description of the selection event?
 > 
@@ -218,8 +224,14 @@ You can write your name on the flipover for signing up for presenting an open pr
 #### [Victor H. de la Peña](../keynote-speakers#victor-h-de-la-peña) _(From Decoupling to Ville’s Equality: A Personal History of Foundational Inequalities for Anytime-Valid Inference)_
 > In this keynote I revisit, from a personal vantage point, the development of inequalities now foundational to anytime-valid inference. The first part begins with decoupling: by comparing dependent processes with their conditionally independent (tangent) counterparts, I obtained a first general class of exponential inequalities for self-normalized martingales. I then describe how pseudo-maximization, which extends Robbins’ method of mixtures, sharpened these (with M. J. Klass and T. L. Lai) into refined, time-uniform inequalities underlying modern confidence sequences and sequential tests. A recollection joins the two parts: around 1992, J. L. Doob suggested I turn to self-normalized inequalities, advice that shaped much of what followed. The second part, Beyond Wald’s Equation and the Optional Sampling Theorem to Ville’s Equality, extends Doob’s optional sampling theorem for martingales, charting a route from Wald’s equation for randomly stopped sums to Ville’s equality — a coherent foundation for inference that remains valid under optional stopping.
 
+</details>
 
-### Talks A1
+<hr />
+
+<details>
+<summary><h3>Talks A1</h3></summary>
+<span id="talks-a1" />
+
 #### Anytime Detection of Strategic Deviations in Multi-Agent Systems _(Etienne Gauthier (Speaker), Francis Bach, Michael I. Jordan)_
 > In many multi-agent systems, agents interact repeatedly and are expected to settle into stable, rational behavior over time. Yet in practice, behavior often drifts, and detecting such deviations in real time remains an open challenge. We introduce a sequential testing framework that monitors whether observed play is consistent with a benchmark of strategic behavior, without assuming a fixed sample size. Our approach builds on the e-value framework for safe anytime-valid inference: by “betting” against the benchmark, we construct a test supermartingale that accumulates evidence whenever observed payoffs systematically violate the expected conditions. For repeated normal-form games, we take equilibrium as the benchmark, yielding a statistically sound, interpretable measure of departure from equilibrium that can be monitored online; our framework unifies the treatment of Nash, correlated, and coarse correlated equilibria, offering finite-time guarantees and a detailed analysis of detection times. We also leverage Benjamini-Hochberg-type procedures to increase detection power in large games while rigorously controlling the false discovery rate. Finally, we extend our method to stochastic games, verifying online whether observed trajectories adhere to a specified target policy, such as a computed equilibrium, broadening the framework’s applicability to dynamic, state-dependent settings.
 
@@ -235,8 +247,13 @@ See also [Posters A](#posters-a).
 
 See also [Posters A](#posters-a).
 
+</details>
 
-### Talks A2
+
+<details>
+<summary><h3>Talks A2</h3></summary>
+<span id="talks-a2" />
+
 #### Sequentially Valid Forecast Comparisons _(Timo Dimitriadis, Jan-Lukas Wermuth (Speaker), Johanna Ziegel)_
 > Time series forecasting and its evaluation are inherently sequential. However, their classical comparison via the Diebold–Mariano test is valid only for fixed evaluation horizons and does not allow for continuous monitoring. We develop sequentially valid inference on forecast performance for general, potentially unbounded loss differentials in multi-step-ahead forecasting based on asymptotic confidence sequences. These confidence sequences provide asymptotic coverage guarantees uniformly over time, thereby enabling online monitoring and tracking of loss differentials while permitting data peeking. We document the favorable finite-sample properties of our procedure in simulations and demonstrate their practical relevance in an application to volatility forecasting.
 
@@ -247,8 +264,13 @@ See also [Posters A](#posters-a).
 
 See also [Posters A](#posters-a).
 
+</details>
 
-### Talks A3
+
+<details>
+<summary><h3>Talks A3</h3></summary>
+<span id="talks-a3" />
+
 #### Stopping Rules for Stochastic Gradient Descent via Anytime-Valid Confidence Sequences _(Liviu Aolaritei (Speaker), Michael I. Jordan)_
 > We study a basic but unresolved question in stochastic optimization: when should stochastic gradient descent (SGD) be stopped based only on its observed trajectory? We develop anytime-valid confidence sequences for stochastic gradient methods that remain valid under continuous monitoring and directly yield statistically valid stopping rules. In convex optimization, they certify weighted suboptimality under general stepsize schedules; in nonconvex optimization, they certify weighted first-order stationarity. The result is a unified framework for online stopping of SGD with provable complexity guarantees.
 
@@ -264,8 +286,13 @@ See also [Posters B](#posters-b).
 
 See also [Posters B](#posters-b).
 
+</details>
 
-### Posters A
+
+<details>
+<summary><h3>Posters A</h3></summary>
+<span id="posters-a" />
+
 #### Best Arm Identification for Bandits with Shifting Means _(Lukas Zierahn, Wouter M. Koolen, Christina Katsimerou, Shubhada Agrawal and Dirk van der Hoeven)_
 > We consider the problem of bandits with shifting means in the fixed confidence setting. We propose a parameterized family of e-values leveraging importance weighting. We then optimize their design for stopping early, and obtain an efficient sampling rule.
 
@@ -308,8 +335,14 @@ See [Talks A2](#talks-a2).
 #### Optimal prediction with E-values _(Nick Koning, Sam van Meer)_
 See [Talks A2](#talks-a2).
 
+</details>
 
-### Talks B1
+<hr />
+
+<details>
+<summary><h3>Talks B1</h3></summary>
+<span id="talks-b1" />
+
 #### Sequential Testing of Conditional Means: From Worst-Case to Instance-Dependent Optimality _(Noah Liniger (Speaker), Antoine Scheid, Ian Waudby-Smith, Alain Durmus and Michael I. Jordan)_
 > We develop sequential tests for conditional means of bounded random variables. These tests apply to several hypothesis testing problems, including testing the conditional coverage and calibration of “black-box” machine learning predictors, two-sample testing, and the evaluation of conditional treatment effects. We first identify the class of all admissible e-processes for conditional mean testing, and subsequently restrict our attention to this class. We then analyze the power of these e-processes and their downstream sequential tests through their asymptotic growth rates. For the maximin notion of power known as Growth Rate Optimality in the Worst Case (GROW), we derive optimal e-processes for one-sided and fixed-mean alternatives. For two-sided alternatives, we construct asymptotically GROW e-processes using mixture methods and sublinear-regret algorithms. We then study instance-dependent optimality guarantees and prove a hardness result showing that instance-dependent growth rate optimality is impossible over the full alternative. This motivates two weaker, composite-alternative-specific notions of optimality called mean growth rate optimality and variance growth rate optimality. These notions lie between worst-case and instance-dependent optimality by being worst case over progressively smaller subsets of the alternative containing the instance. We show that both notions are achievable over the full alternative and provide e-processes that attain them.
 
@@ -330,8 +363,13 @@ See also [Posters B](#posters-b).
 
 See also [Posters B](#posters-b).
 
+</details>
 
-### Talks B2
+
+<details>
+<summary><h3>Talks B2</h3></summary>
+<span id="talks-b2" />
+
 #### Sample-efficient multiple testing with adaptive data collection _(Zhimei Ren)_
 > This talk concerns adaptive experimental design for multiple testing with e-values, where experimenters adaptively query hypotheses and form rejection sets based on sequentially updated e-values. We propose a general framework for sampling and constructing test statistics centered around e-values, which ensures anytime-valid FDR control under arbitrary dependence among the data collected across different hypotheses and discovers true effects in a sample-efficient manner. We establish general sample-efficiency guarantees of the proposed method in terms of the growth rate of the underlying e-processes, and instantiate the theory in a range of testing problems. We demonstrate the effectiveness of our approach through simulations and real-data experiments, showing that it ensures error control while maintaining a low sampling budget in online multiple testing scenarios.
 
@@ -342,8 +380,13 @@ See also [Posters B](#posters-b).
 
 See also [Posters B](#posters-b).
 
+</details>
 
-### Talks B3
+
+<details>
+<summary><h3>Talks B3</h3></summary>
+<span id="talks-b3" />
+
 #### Uniform log-optimality and conditional likelihood ratios _(Dante de Roos)_
 > For exponential families, Hao et al. (2024) and Hao & Grünwald (2026) have proposed to use conditional likelihood ratios whenever the log-optimal (GRO) e-variable is hard to compute. Here, the conditioning variable is a nontrivial statistic that is sufficient for both the null and alternative hypotheses, and the resulting e-variable is approximately log-optimal. Inspired by their results, we study conditional likelihood ratios from a completely abstract perspective, and identify the cases where conditional likelihood ratios are log-optimal. Most notably, the null hypothesis can always, in some sense, be canonically extended, and the conditional likelihood ratio is \*uniformly\* log-optimal for testing this extended null against the alternative. This notion of optimality is stronger than (RE)GROW and, to the best of our knowledge, has been mostly overlooked in the literature. Many previously studied e-variables fit nicely into our framework, which demonstrates the conceptual strength of our theory.
 
@@ -361,7 +404,13 @@ See also [Posters C](#posters-c).
 
 See also [Posters C](#posters-c).
 
-### Posters B
+</details>
+
+
+<details>
+<summary><h3>Posters B</h3></summary>
+<span id="posters-b" />
+
 #### Permutation-Based FDR Control via the e-Closure Principle _(Rovanos Tsafack Nzanguim, Aurele Mingam, Jelle Goeman, Rianne de Heide)_
 > While permutation methods are widely used for constructing valid p-values under dependence, there is currently no general approach for controlling the false discovery rate within the permutation framework. We address this gap by combining permutation based p-values with the e-closure principle to obtain a procedure that controls the false discovery rate at a prescribed level \(\alpha\). We consider testing problems for which the data is permutation-invariant under the joint null hypothesis and we compute the raw p-values for each permuted data set. These marginal p-values are then merged using Simes’ merging function and the corresponding global p-values are computed. The global p-values are thus transformed into global e-values using the SU calibrator and incorporated into the e-closure procedure.
 
@@ -413,7 +462,14 @@ See [Talks B1](#talks-b2).
 #### Sample-efficient multiple testing with adaptive data collection _(Zhimei Ren)_
 See [Talks B2](#talks-b2).
 
-### Talks C1
+</details>
+
+<hr />
+
+<details>
+<summary><h3>Talks C1</h3></summary>
+<span id="talks-c1" />
+
 #### Analyzing the relationship between universal and classical likelihood ratio inference: Almost sure-relations and asymptotic rates _(Lorenz Matz (Speaker), Hannes Leeb)_
 > Universal Inference is a general method for generating confidence sets and tests which is based on a specific e-value construction. Unlike procedures built on asymptotic results or most resampling methods, its confidence sets/tests have finite-sample guarantees and require virtually no regularity conditions on the model or the set of null distributions. However, its relation to classical inference approaches in terms of power and confidence set diameters is still poorly understood. To shed some light on this, we study the relationship between the split LR and the classical LR confidence set in general settings. For one- and two-dimensional models, we show that the classical LR set is almost surely contained in the split LR set when the maximum likelihood estimator is used for the latter. Furthermore, we find conditions under which the diameters of both confidence sets shrink at the same rate by proving some general results about these rates for ‘M-type’ sets.
 
@@ -424,7 +480,12 @@ See also [Posters C](#posters-c).
 
 See also [Posters D](#posters-d).
 
-### Posters C
+</details>
+
+
+<details>
+<summary><h3>Posters C</h3></summary>
+<span id="posters-c" />
 
 #### When generalized likelihood ratios are -- and are not -- e-processes _(Stephan Bongers, Peter Grünwald)_
 > Generalized likelihood ratios (GLRs) are among the most widely used tools for composite hypothesis testing. By replacing unknown nuisance parameters with their maximum likelihood estimates, they provide a natural and powerful way to accumulate evidence against the null hypothesis. Yet, despite their widespread use, GLRs are not automatically anytime-valid and need not form e-processes. We show that the behavior of the GLR in exponential families depends on the covariance ordering of the null and alternative. In one regime, the GLR is automatically an e-process; in the other, it generally is not. We introduce a calibrated GLR that restores e-process validity and often achieves substantially higher e-power than the sequential RIP and UI e-processes.
@@ -457,8 +518,15 @@ See [Talks C1](#talks-c1).
 #### Time-sensitive anytime-valid testing _(Eugenio Clerico, Iskander Azangulov, and Patrick Rebeschini)_
 See [Talks C1](#talks-c1).
 
+</details>
 
-### Talks D1
+<hr />
+
+
+<details>
+<summary><h3>Talks D1</h3></summary>
+<span id="talks-d1" />
+
 #### Downstream Post-Hoc Hypothesis Testing or: how E-Values generalize De Finetti’s Probability _(Peter Grünwald (Speaker), Ben Chugg, Aaditya Ramdas)_
 > Chugg et al. (IJAR, 2026) formalized post-hoc hypothesis testing as a game between Adversary, setting the loss function, and Statistician, deciding whether to reject \(H_0\). They showed that, under some conditions on Adversary, “admissible” decision rules must be based on e-variables; and under further conditions, these must have a certain form, e.g. in some settings they must be increasing in the LR. However, both the conditions and their analysis were exceedingly complicated. Here we show that by changing the game slightly, with a different, arguably more reasonable, action space for Statistician, we can obtain a much crisper result, which has the classical Neyman-Pearson lemma as a simple special case. The resulting re-interpretation of e-values shows that they are really direct generalizations of De Finetti’s conceptualization of “upper probability”. This allows to give real meaning to crazy statements like “the probability that the empirical average of \(\tau\) outcomes is outside the set \(A\) is bounded by \(\mathrm{exp}(-1.5 \tau)\)” where \(\tau\) is a random (!) stopping time. 
 
@@ -483,7 +551,13 @@ See also [Posters D](#posters-d).
 
 See also [Posters D](#posters-d).
 
-### Talks D2
+</details>
+
+
+<details>
+<summary><h3>Talks D2</h3></summary>
+<span id="talks-d2" />
+
 #### Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry _(Michael Lindon (Speaker), Nathan Kallus)_
 > Delayed outcomes are ubiquitous in online experimentation: treatment can affect whether an outcome occurs, when it occurs, and its realized value. To accommodate staggered entry while remaining robust to environmental nonstationarity and unit-level heterogeneity, we adopt a design-based perspective and target the sample cumulative reward in each arm as a function of calendar time. Our confidence sequences allow practitioners to continuously monitor the counterfactual incremental reward, such as revenue, that would have been realized by calendar time t had all entered units been assigned to treatment rather than control. The main technical challenge is the choice of design-based filtration, complicated by the presence of asynchronous potential outcome times. We show that the IPW treatment-effect estimation error is not a martingale with respect to any filtration, while each arm-specific IPW estimation error is a martingale with respect to a carefully chosen arm-specific event-time filtration. We therefore construct a confidence sequence for the treatment effect by combining two arm-level confidence sequences with a union bound, and further demonstrate that this can outperform the traditional design-based variance upper bound. Finally, we characterize the class of augmentations for which the per-arm AIPW estimation error remains a martingale.
 
@@ -494,7 +568,13 @@ See also [Posters D](#posters-d).
 
 See also [Posters D](#posters-d).
 
-### Talks D3
+</details>
+
+
+<details>
+<summary><h3>Talks D3</h3></summary>
+<span id="talks-d3" />
+
 #### Betting on Bets: Anytime-Valid Tests for Stochastic Dominance _(Sebastian Arnold* (Speaker), YJ Choe* (Speaker), Marco Scarsini, Ilia Tsetlin)_
 > How can we monitor, in real time, whether one uncertain prospect has any upside over another? To answer this question, we develop a novel family of sequential, anytime-valid tests for stochastic dominance (SD), a classical and popular notion for comparing entire distribution functions. The problem is distinct from the popular problem of testing for dominance in means, which would not capture distributional differences beyond the mean. We first derive powerful, nonparametric e-processes that quantify evidence against the null hypothesis that one prospect is dominated by another. For first-order SD, these e-processes are constructed as a mixture of asymptotically growth-rate optimal e-variables and yield a test of power one that retains validity under continuous monitoring. The approach further generalizes to sequential testing for SD beyond the first order, including any higher-order SD. Empirically, we demonstrate that the resulting sequential tests are competitive with classical, non-anytime-valid SD tests in terms of power, and include a real-world application to baseball analytics, examining a controversial phenomenon known as third-time-through-the-order penalty. Finally, we sketch the complementary and challenging problem of testing whether a prospect has a definite upside, and describe the conditions under which we can derive a nontrivial anytime-valid test. 
 
@@ -514,7 +594,13 @@ See also [Posters D](#posters-d).
 
 See also [Posters D](#posters-d).
 
-### Posters D
+</details>
+
+
+<details>
+<summary><h3>Posters D</h3></summary>
+<span id="posters-d" />
+
 #### Mitigating the Winner’s Curse in Dose-Ranging Studies: A Closed-Form Formula for Expected Bias and Decision Tools for Optimized Dose Selection _(Victor K. de la Peña, Victor H. de La Peña, Demissie Alemayehu and Fangyuan Lin)_
 > This paper addresses the “winner’s curse” in dose-ranging trials. In a typical Phase II study, \(K\) dose candidates are compared and the apparent winner is advanced to Phase III. Typically, the observed efficacy of the selected dose systematically overestimates its true effect. We argue that this bias is an under-appreciated contributor to the approximately 50% Phase III failure rate and to the well-documented shrinkage of treatment effects between phases. The central contribution is a closed-form expression for the expected selection bias, expressed in terms of four quantities that are readily estimable at the design stage of the pivotal trials: the number of in doses \(K\), the number of patients per arm \(n\), the outcome standard deviation \(\sigma\), and the inter-arm correlation \(\rho\): \[\mathbb{E}[\text{Bias}] = (\sigma/\sqrt{n}) g(K) \sqrt{1 - \rho},\] where \(g(K)\) denotes the expected value of the maximum of \(K\) standard normal random variables. We provide exact tabulated values of \(g(K)\) and show that the commonly used asymptotic approximation \(\sqrt{2 \log K}\) overstates the bias by 40%--110% for the practically relevant range \(K = 3\) to \(10\).
 > 
@@ -584,6 +670,8 @@ See [Talks D1](#talks-d1).
 
 #### SSBBs: A method for determining the sample size when E-Backtesting the Expected Shortfall _(Dennis Oestmann (Speaker), Thorsten Dickhaus)_
 See [Talks D1](#talks-d1).
+
+</detail>
 
 
 ## List of Participants
