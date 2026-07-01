@@ -85,6 +85,10 @@ article.page-program summary >h3 {
   border-top: 1px solid black;
 }
 
+.schedule th.time-active {
+  background-color: #f73;
+}
+
 .schedule th {
   text-align: center;
 }

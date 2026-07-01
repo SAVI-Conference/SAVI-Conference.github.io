@@ -22,7 +22,7 @@ You can also [subscribe to the iCal version](/2026/program.ics).
         </thead>
         <tbody>
             <tr>
-                <th scope="row" class="full-hour">09:00</th>
+                <th scope="row" class="full-hour time-0900">09:00</th>
                 <td class="mon opening">Opening</td>
                 <td rowspan="4" class="tue keynote"><span class="keynote-txt">Keynote</span><a href="#snigdha-panigrahi-flexible-selective-inference-with-conditional-validity">Snigdha Panigrahi</a></td>
                 <td rowspan="4" class="wed talks"><a href="#talks-c1">Talks C1</a></td>
@@ -30,145 +30,145 @@ You can also [subscribe to the iCal version](/2026/program.ics).
                 <td rowspan="4" class="fri keynote"><span class="keynote-txt">Keynote</span><a href="#victor-h-de-la-peña-from-decoupling-to-villes-equality-a-personal-history-of-foundational-inequalities-for-anytime-valid-inference">Victor H. de la Peña</a></td>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-0900"></th>
                 <td rowspan="4" class="mon keynote"><span class="time-info">ca. 09:15</span><span class="keynote-txt">Keynote</span><a href="#gergely-neu-online-to-x-conversions-a-recipe-for-algorithmic-statistics">Gergely Neu</a></td>
             </tr>
             <tr>
-                <th scope="row" class="half-hour">09:30</th>
+                <th scope="row" class="half-hour time-0930">09:30</th>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-0930"></th>
             </tr>
             <tr>
-                <th scope="row" class="full-hour">10:00</th>
+                <th scope="row" class="full-hour time-1000">10:00</th>
                 <td rowspan="2" class="tue coffee-break">Coffee Break</td>
                 <td rowspan="2" class="wed poster-pitches">Poster Pitches</td>
                 <td rowspan="2" class="thu coffee-break">Coffee Break</td>
                 <td rowspan="2" class="fri coffee-break">Coffee Break</td>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1000"></th>
                 <td rowspan="2" class="mon coffee-break">Coffee Break</td>
             </tr>
             <tr>
-                <th scope="row" class="half-hour">10:30</th>
+                <th scope="row" class="half-hour time-1030">10:30</th>
                 <td rowspan="8" class="tue talks"><a href="#talks-b1">Talks B1</a></td>
                 <td rowspan="5" class="wed poster-session"><a href="#posters-c">Posters C</a></td>
                 <td rowspan="8" class="thu talks"><a href="#talks-d1">Talks D1</a></td>
                 <td rowspan="6" class="fri open-problem-session">Open Problem Session</td>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1030"></th>
                 <td rowspan="6" class="mon talks"><span class="time-info">ca. 10:45</span><a href="#talks-a1">Talks A1</a></td>
             </tr>
             <tr>
-                <th scope="row" class="full-hour">11:00</th>
+                <th scope="row" class="full-hour time-1100">11:00</th>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1100"></th>
             </tr>
             <tr>
-                <th scope="row" class="half-hour">11:30</th>
+                <th scope="row" class="half-hour time-1130">11:30</th>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1130"></th>
                 <td rowspan="4" class="wed keynote"><span class="time-info">ca. 11:45</span><span class="keynote-txt">Keynote</span><a href="#morgane-austern-efficient-finite-sample-bounds-via-optimal-transport">Morgane Austern</a></td>
             </tr>
             <tr>
-                <th scope="row" class="full-hour">12:00</th>
+                <th scope="row" class="full-hour time-1200">12:00</th>
                 <td rowspan="2" class="closing">Closing</td>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1200"></th>
                 <td rowspan="5" class="mon lunch">Lunch</td>
             </tr>
             <tr>
-                <th scope="row" class="half-hour">12:30</th>
+                <th scope="row" class="half-hour time-1230">12:30</th>
                 <td rowspan="4" class="tue lunch">Lunch</td>
                 <td rowspan="4" class="thu lunch">Lunch</td>
                 <td rowspan="4" class="fri lunch">Lunch</td>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1230"></th>
                 <td rowspan="4" class="wed lunch">Lunch</td>
             </tr>
             <tr>
-                <th scope="row" class="full-hour">13:00</th>
+                <th scope="row" class="full-hour time-1300">13:00</th>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1300"></th>
             </tr>
             <tr>
-                <th scope="row" class="half-hour">13:30</th>
+                <th scope="row" class="half-hour time-1330">13:30</th>
                 <td rowspan="4" class="mon talks"><a href="#talks-a2">Talks A2</a></td>
                 <td rowspan="4" class="tue talks"><a href="#talks-b2">Talks B2</a></td>
                 <td rowspan="4" class="thu talks"><a href="#talks-d2">Talks D2</a></td>
                 <td class="end fri">End</td>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1330"></th>
                 <td rowspan="15" class="wed excursion"><a href="#excursion-and-banquet">Excursion</a></td>
             </tr>
             <tr>
-                <th scope="row" class="full-hour">14:00</th>
+                <th scope="row" class="full-hour time-1400">14:00</th>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1400"></th>
             </tr>
             <tr>
-                <th scope="row" class="half-hour">14:30</th>
+                <th scope="row" class="half-hour time-1430">14:30</th>
                 <td rowspan="2" class="mon poster-pitches">Poster Pitches</td>
                 <td rowspan="2" class="tue poster-pitches">Poster Pitches</td>
                 <td rowspan="2" class="thu poster-pitches">Poster Pitches</td>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1430"></th>
             </tr>
             <tr>
-                <th scope="row" class="full-hour">15:00</th>
+                <th scope="row" class="full-hour time-1500">15:00</th>
                 <td rowspan="6" class="mon poster-session"><a href="#posters-a">Posters A</a></td>
                 <td rowspan="6" class="tue poster-session"><a href="#posters-b">Posters B</a></td>
                 <td rowspan="6" class="thu poster-session"><a href="#posters-d">Posters D</a></td>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1500"></th>
             </tr>
             <tr>
-                <th scope="row" class="half-hour">15:30</th>
+                <th scope="row" class="half-hour time-1530">15:30</th>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1530"></th>
             </tr>
             <tr>
-                <th scope="row" class="full-hour">16:00</th>
+                <th scope="row" class="full-hour time-1600">16:00</th>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1600"></th>
             </tr>
             <tr>
-                <th scope="row" class="half-hour">16:30</th>
+                <th scope="row" class="half-hour time-1630">16:30</th>
                 <td rowspan="6" class="mon talks"><a href="#talks-a3">Talks A3</a></td>
                 <td rowspan="6" class="tue talks"><a href="#talks-b3">Talks B3</a></td>
                 <td rowspan="6" class="thu talks"><a href="#talks-d3">Talks D3</a></td>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1630"></th>
             </tr>
             <tr>
-                <th scope="row" class="full-hour">17:00</th>
+                <th scope="row" class="full-hour time-1700">17:00</th>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1700"></th>
             </tr>
             <tr>
-                <th scope="row" class="half-hour">17:30</th>
+                <th scope="row" class="half-hour time-1730">17:30</th>
                 <td rowspan="3" class="wed banquet"><a href="#excursion-and-banquet">Banquet</a></td>
             </tr>
             <tr>
-                <th scope="row" class="quart-hour"></th>
+                <th scope="row" class="quart-hour time-1730"></th>
             </tr>
             <tr>
-                <th scope="row" class="full-hour">18:00</th>
+                <th scope="row" class="full-hour time-1800">18:00</th>
                 <td class="end mon">End</td>
                 <td class="end tue">End</td>
                 <td class="end thu">End</td>
@@ -176,6 +176,15 @@ You can also [subscribe to the iCal version](/2026/program.ics).
         </tbody>
     </table>
 </div>
+
+<script>
+    const [hoursStr, minutesStr] = new Date().toLocaleString("en-US", { timeZone: "Europe/Amsterdam", timeStyle: "short", hour12: false }).split(":");
+    const hours = parseInt(hoursStr);
+    const minutes = parseInt(minutesStr);
+    const selectorHours = String(hours).padStart("0", 2);
+    const selectorMinutes = String(Math.floor(minutes / 30) * 30).padStart("0", 2);
+    document.querySelectorAll(`th.time-${selectorHours}${selectorMinutes}`).forEach(e => e.classList.add("time-active"));
+</script>
 
 
 - **Monday:** Bandits & allocation · Game-theoretic statistics · Conformal prediction & forecasting · Confidence sequences & concentration · Sequential testing and adaptive inference
