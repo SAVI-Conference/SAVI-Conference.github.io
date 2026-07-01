@@ -107,7 +107,7 @@ You can also [subscribe to the iCal version](/2026/program.ics).
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
-                <td rowspan="15" class="wed excursion">Excursion</td>
+                <td rowspan="15" class="wed excursion"><a href="#excursion-and-banquet">Excursion</a></td>
             </tr>
             <tr>
                 <th scope="row" class="full-hour">14:00</th>
@@ -162,7 +162,7 @@ You can also [subscribe to the iCal version](/2026/program.ics).
             </tr>
             <tr>
                 <th scope="row" class="half-hour">17:30</th>
-                <td rowspan="3" class="wed banquet">Banquet</td>
+                <td rowspan="3" class="wed banquet"><a href="#excursion-and-banquet">Banquet</a></td>
             </tr>
             <tr>
                 <th scope="row" class="quart-hour"></th>
