@@ -545,7 +545,7 @@ See [Talks C1](#talks-c1).
 
 See also [Posters D](#posters-d).
 
-#### _Ben Chugg, Peter Grünwald, Aaditya Ramdas_
+#### e-values as evidence _(Ben Chugg, Peter Grünwald, Aaditya Ramdas)_
 > A recurring debate in the philosophy of statistics concerns what, exactly, should count as a measure of evidence for or against a given hypothesis. P-values, likelihood ratios, and Bayes factors all have their defenders. In this paper we add two additional candidates to this list: the e-value and its sequential analogue, the e-process. E-values enjoy several desirable properties as measures of evidence: they combine naturally across studies, handle composite hypotheses, provide long-run error rates, and admit a useful interpretation as the wealth accrued by a bettor in a game against the null distribution. E-processes additionally handle optional stopping and optional continuation. This work examines the extent to which e-values and e-processes satisfy the evidential desiderata of different statistical traditions, concluding that they combine attractive features of p-values, likelihood ratios, and Bayes factors, and merit serious consideration as interpretable and intuitive measures of statistical evidence.
 
 See also [Posters D](#posters-d).
@@ -675,7 +675,7 @@ See [Talks D2](#talks-d2).
 #### Downstream Post-Hoc Hypothesis Testing or: how E-Values generalize De Finetti’s Probability _(Peter Grünwald, Ben Chugg, Aaditya Ramdas)_
 See [Talks D1](#talks-d1).
 
-#### _Ben Chugg, Peter Grünwald, Aaditya Ramdas_
+#### e-values as evidence _(Ben Chugg, Peter Grünwald, Aaditya Ramdas)_
 See [Talks D1](#talks-d1).
 
 #### Optimal Posterior E-values with Non-Convex Parameter Sets and Applications to Voting Systems _(Timothée Mathieu, Adrienne Tuynman)_
